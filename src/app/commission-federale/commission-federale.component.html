@@ -1,0 +1,11 @@
+<section id="team" class="pb-5">
+  <div class="container">
+    <h5 class="h1" style="color: #01d099" align="center">COMMISSIONS FEDERALES DE LA FTA</h5>
+    <br>
+    <br>
+    <div class="row">
+        <app-commission-detail *ngFor="let commission of commissions" [commission]="commission" class="col-lg-4 col-xl-4 col-sm-12"></app-commission-detail>
+    </div>
+  </div>
+</section>
+

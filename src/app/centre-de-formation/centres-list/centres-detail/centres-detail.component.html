@@ -1,0 +1,58 @@
+<div class="modal fade right" id="modal" tabindex="-1" role="dialog" aria-labelledby="exampleModalPreviewLabel"
+     aria-hidden="true">
+  <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title text-center" id="exampleModalPreviewLabel" style="padding-left: 250px;" >
+          Athlétes des Centres d'Athlétisme<br>Saison Sportive 2019-2020</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+
+      <!-- tableau centre detail -->
+      <div class="modal-body">
+        <div class="col-lg-12">
+          <table class="table-striped table-responsive table-hover">
+            <thead>
+            <tr>
+              <th>Centre</th>
+              <th class="text-center">Nom et Prénom</th>
+              <th>Catégorie</th>
+              <th>Specialité</th>
+              <th>Club</th>
+            </tr>
+            </thead>
+            <tbody>
+
+            <tr *ngFor="let centre of centreDetail">
+              <ng-container *ngIf="CentreName == centre.name">
+                <td>
+                  <strong>{{centre.name}}</strong><br>
+                </td>
+                <td class="text-center">{{centre.athlete}}</td>
+                <td>
+                  <strong>{{centre.category}}</strong><br>
+                </td>
+                <td>
+                  <strong>{{centre.specialty}}</strong><br>
+                </td>
+                <td>
+                  <strong>{{centre.club}}</strong><br>
+                </td>
+              </ng-container>
+            </tr>
+
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <div class="modal-footer">
+        <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+      </div>
+      <!-- fin tableau centre detail -->
+
+    </div>
+  </div>
+</div>

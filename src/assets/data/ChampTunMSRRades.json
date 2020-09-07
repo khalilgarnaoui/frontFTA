@@ -1,0 +1,483 @@
+{
+  "ChampRSJ": [
+    {
+      "Dossards":"-",
+      "Nom_Prenom":"BOUZID Rihem",
+      "CLUB":"CSGN",
+      "CAT":"JU",
+      "SEXE":"F",
+      "EPREUVE":"10Km",
+      "PERF":"-",
+      "CLASS":"-"
+    },
+    {
+      "Dossards": "-",
+      "Nom_Prenom": "KADRI Maissa",
+      "CLUB": "CSGN",
+      "CAT": "JU",
+      "SEXE": "F",
+      "EPREUVE": "10Km",
+      "PERF": "-",
+      "CLASS": "-"
+    },
+    {
+      "Dossards": "-",
+      "Nom_Prenom": "SOMII Maissa",
+      "CLUB": "CSGN",
+      "CAT": "JU",
+      "SEXE": "F",
+      "EPREUVE": "10Km",
+      "PERF": "-",
+      "CLASS": "-"
+    },
+    {
+      "Dossards": "-",
+      "Nom_Prenom": "BEN GOUIDER Karima",
+      "CLUB": "AAFahs",
+      "CAT": "JU",
+      "SEXE": "F",
+      "EPREUVE": "10Km",
+      "PERF": "-",
+      "CLASS": "-"
+    },
+    {
+      "Dossards": "-",
+      "Nom_Prenom": "FERJANI Abir",
+      "CLUB": "AAFahs",
+      "CAT": "JU",
+      "SEXE": "F",
+      "EPREUVE": "10Km",
+      "PERF": "-",
+      "CLASS": "-"
+    },
+    {
+      "Dossards": "-",
+      "Nom_Prenom": "KHALAF Afoui",
+      "CLUB": "AAFahs",
+      "CAT": "JU",
+      "SEXE": "F",
+      "EPREUVE": "10Km",
+      "PERF": "-",
+      "CLASS": "-"
+    },
+    {
+      "Dossards": "-",
+      "Nom_Prenom": "CHANNOUFI Hayfa",
+      "CLUB": "AAFahs",
+      "CAT": "JU",
+      "SEXE": "F",
+      "EPREUVE": "10Km",
+      "PERF": "-",
+      "CLASS": "-"
+    },
+    {
+      "Dossards": "-",
+      "Nom_Prenom": "EL HAMMAMI Malek",
+      "CLUB": "AAFahs",
+      "CAT": "JU",
+      "SEXE": "F",
+      "EPREUVE": "10Km",
+      "PERF": "-",
+      "CLASS": "-"
+    },
+    {
+      "Dossards": "-",
+      "Nom_Prenom": "TOUATI Feriel",
+      "CLUB": "AAFahs",
+      "CAT": "JU",
+      "SEXE": "F",
+      "EPREUVE": "10Km",
+      "PERF": "-",
+      "CLASS": "-"
+    },
+    {
+      "Dossards": "-",
+      "Nom_Prenom": "KHADRAOUI Sajiaa",
+      "CLUB": "AAFahs",
+      "CAT": "JU",
+      "SEXE": "F",
+      "EPREUVE": "10Km",
+      "PERF": "-",
+      "CLASS": "-"
+    },
+    {
+      "Dossards": "-",
+      "Nom_Prenom": "FEIDI GHADA",
+      "CLUB": "ACAkouda",
+      "CAT": "JU",
+      "SEXE": "F",
+      "EPREUVE": "10Km",
+      "PERF": "-",
+      "CLASS": "-"
+    },
+    {
+      "Dossards": "-",
+      "Nom_Prenom": "BEN AMOR Yesmine",
+      "CLUB": "ACAkouda",
+      "CAT": "JU",
+      "SEXE": "F",
+      "EPREUVE": "10Km",
+      "PERF": "-",
+      "CLASS": "-"
+    },
+    {
+      "Dossards": "-",
+      "Nom_Prenom": "ZAGHMI Jamila",
+      "CLUB": "ACAkouda",
+      "CAT": "JU",
+      "SEXE": "F",
+      "EPREUVE": "10Km",
+      "PERF": "-",
+      "CLASS": "-"
+    },
+    {
+      "Dossards": "-",
+      "Nom_Prenom": "CHALBI Emna",
+      "CLUB": "ACAkouda",
+      "CAT": "JU",
+      "SEXE": "F",
+      "EPREUVE": "10Km",
+      "PERF": "-",
+      "CLASS": "-"
+    }
+  ],
+  "JunF": [
+    {
+      "Dossards": "243",
+      "Nom_Prenom": "BOUZID Rihem",
+      "CLUB": "CSGN",
+      "CAT": "JU",
+      "SEXE": "F",
+      "EPREUVE": "10Km",
+      "PERF": "49,11",
+      "CLASS": "1"
+    },
+    {
+      "Dossards": "240",
+      "Nom_Prenom": "KADRI Maissa",
+      "CLUB": "CSGN",
+      "CAT": "JU",
+      "SEXE": "F",
+      "EPREUVE": "10Km",
+      "PERF": "54,12",
+      "CLASS": "2"
+    },
+    {
+      "Dossards": "235",
+      "Nom_Prenom": "ZAGHMI Jamila",
+      "CLUB": "ACAkouda",
+      "CAT": "JU",
+      "SEXE": "F",
+      "EPREUVE": "10Km",
+      "PERF": "58,15",
+      "CLASS": "3"
+    },
+    {
+      "Dossards": "230",
+      "Nom_Prenom": "BEN AMOR Yesmine",
+      "CLUB": "ACAkouda",
+      "CAT": "JU",
+      "SEXE": "F",
+      "EPREUVE": "10Km",
+      "PERF": "1,05,00",
+      "CLASS": "4"
+    },
+    {
+      "Dossards": "229",
+      "Nom_Prenom": "FEIDI GHADA",
+      "CLUB": "ACAkouda",
+      "CAT": "JU",
+      "SEXE": "F",
+      "EPREUVE": "10Km",
+      "PERF": "1,05,18",
+      "CLASS": "5"
+    },
+    {
+      "Dossards": "237",
+      "Nom_Prenom": "CHALBI Emna",
+      "CLUB": "ACAkouda",
+      "CAT": "JU",
+      "SEXE": "F",
+      "EPREUVE": "10Km",
+      "PERF": "1,11,28",
+      "CLASS": "6"
+    },
+    {
+      "Dossards": "238",
+      "Nom_Prenom": "SOMII Maissa",
+      "CLUB": "CSGN",
+      "CAT": "JU",
+      "SEXE": "F",
+      "EPREUVE": "10Km",
+      "PERF": "1,22,25",
+      "CLASS": "7"
+    },
+    {
+      "Dossards": "-",
+      "Nom_Prenom": "BEN GOUIDER Karima",
+      "CLUB": "AAFahs",
+      "CAT": "JU",
+      "SEXE": "F",
+      "EPREUVE": "10Km",
+      "PERF": "-",
+      "CLASS": "-"
+    },
+    {
+      "Dossards": "-",
+      "Nom_Prenom": "FERJANI Abir",
+      "CLUB": "AAFahs",
+      "CAT": "JU",
+      "SEXE": "F",
+      "EPREUVE": "10Km",
+      "PERF": "-",
+      "CLASS": "-"
+    },
+    {
+      "Dossards": "-",
+      "Nom_Prenom": "KHALAF Afoui",
+      "CLUB": "AAFahs",
+      "CAT": "JU",
+      "SEXE": "F",
+      "EPREUVE": "10Km",
+      "PERF": "-",
+      "CLASS": "-"
+    },
+    {
+      "Dossards": "-",
+      "Nom_Prenom": "CHANNOUFI Hayfa",
+      "CLUB": "AAFahs",
+      "CAT": "JU",
+      "SEXE": "F",
+      "EPREUVE": "10Km",
+      "PERF": "-",
+      "CLASS": "-"
+    },
+    {
+      "Dossards": "-",
+      "Nom_Prenom": "EL HAMMAMI Malek",
+      "CLUB": "AAFahs",
+      "CAT": "JU",
+      "SEXE": "F",
+      "EPREUVE": "10Km",
+      "PERF": "-",
+      "CLASS": "-"
+    },
+    {
+      "Dossards": "-",
+      "Nom_Prenom": "TOUATI Feriel",
+      "CLUB": "AAFahs",
+      "CAT": "JU",
+      "SEXE": "F",
+      "EPREUVE": "10Km",
+      "PERF": "-",
+      "CLASS": "-"
+    },
+    {
+      "Dossards": "-",
+      "Nom_Prenom": "KHADRAOUI Sajiaa",
+      "CLUB": "AAFahs",
+      "CAT": "JU",
+      "SEXE": "F",
+      "EPREUVE": "10Km",
+      "PERF": "-",
+      "CLASS": "-"
+    },
+    {
+      "Dossards": "-",
+      "Nom_Prenom": "AYADI Waad",
+      "CLUB": "CAJendouba",
+      "CAT": "JU",
+      "SEXE": "F",
+      "EPREUVE": "10Km",
+      "PERF": "-",
+      "CLASS": "-"
+    }
+  ],
+  "JunM": [
+    {
+      "Dossards": "239",
+      "Nom_Prenom": "SAHLI Mohamed",
+      "CLUB": "CSGN",
+      "CAT": "JU",
+      "SEXE": "M",
+      "EPREUVE": "10Km",
+      "PERF": "49'25",
+      "CLASS": "1"
+    },
+    {
+      "Dossards": "246",
+      "Nom_Prenom": "LAARIBI Raed",
+      "CLUB": "CSGN",
+      "CAT": "JU",
+      "SEXE": "M",
+      "EPREUVE": "10Km",
+      "PERF": "55'56",
+      "CLASS": "2"
+    },
+    {
+      "Dossards": "245",
+      "Nom_Prenom": "RIAHI BAHAEDDINE",
+      "CLUB": "CSGN",
+      "CAT": "JU",
+      "SEXE": "M",
+      "EPREUVE": "10Km",
+      "PERF": "56(59",
+      "CLASS": "3"
+    },
+    {
+      "Dossards": "211",
+      "Nom_Prenom": "CHARGUI Houssem",
+      "CLUB": "CSGN",
+      "CAT": "JU",
+      "SEXE": "M",
+      "EPREUVE": "10Km",
+      "PERF": "1h02'0",
+      "CLASS": "4"
+    },
+    {
+      "Dossards": "  ",
+      "Nom_Prenom": "ARRAHALI Nidhal",
+      "CLUB": "AAFahs",
+      "CAT": "JU",
+      "SEXE": "M",
+      "EPREUVE": "10Km",
+      "PERF": "  ",
+      "CLASS": "  "
+    },
+    {
+      "Dossards": "  ",
+      "Nom_Prenom": "ENNAOUI Hayder",
+      "CLUB": "AAFahs",
+      "CAT": "JU",
+      "SEXE": "M",
+      "EPREUVE": "10Km",
+      "PERF": "  ",
+      "CLASS": "  "
+    }
+  ],
+  "SenF": [
+    {
+      "Dossards": "223",
+      "Nom_Prenom": "NASRI Chahinez",
+      "CLUB": "CSGN",
+      "CAT": "SE",
+      "SEXE": "F",
+      "EPREUVE": "20Km",
+      "PERF": "1h41'39",
+      "CLASS": "1"
+    },
+    {
+      "Dossards": "224",
+      "Nom_Prenom": "MEJRI Syrine",
+      "CLUB": "CSGN",
+      "CAT": "SE",
+      "SEXE": "F",
+      "EPREUVE": "20Km",
+      "PERF": "1h45'50/''",
+      "CLASS": "2"
+    },
+    {
+      "Dossards": "225",
+      "Nom_Prenom": "REZGUI Yasmine",
+      "CLUB": "CSGN",
+      "CAT": "SE",
+      "SEXE": "F",
+      "EPREUVE": "20Km",
+      "PERF": "2h10'13",
+      "CLASS": "3"
+    },
+    {
+      "Dossards": "-",
+      "Nom_Prenom": "SLIMENE Rim",
+      "CLUB": "CSGN",
+      "CAT": "SE",
+      "SEXE": "F",
+      "EPREUVE": "20Km",
+      "PERF": "-",
+      "CLASS": "-"
+    },
+    {
+      "Dossards": "-",
+      "Nom_Prenom": "BOUZID Khouloud",
+      "CLUB": "AAFahs",
+      "CAT": "SE",
+      "SEXE": "F",
+      "EPREUVE": "20Km",
+      "PERF": "-",
+      "CLASS": "-"
+    },
+    {
+      "Dossards": "-",
+      "Nom_Prenom": "EL ABBASSI Soumaya",
+      "CLUB": "AAFahs",
+      "CAT": "SE",
+      "SEXE": "F",
+      "EPREUVE": "20Km",
+      "PERF": "-",
+      "CLASS": "-"
+    }
+  ],
+  "SenM": [
+    {
+      "Dossards": "226",
+      "Nom_Prenom": "FERJAOUI Naim",
+      "CLUB": "ACAkouda",
+      "CAT": "SE",
+      "SEXE": "M",
+      "EPREUVE": "20Km",
+      "PERF": "1h41'30",
+      "CLASS": "1"
+    },
+    {
+      "Dossards": "221",
+      "Nom_Prenom": "GATRI Bahaedine",
+      "CLUB": "SyrasAC",
+      "CAT": "SE",
+      "SEXE": "M",
+      "EPREUVE": "20km",
+      "PERF": "1,41,36",
+      "CLASS": "2"
+    },
+    {
+      "Dossards": "228",
+      "Nom_Prenom": "BERGAOUI Radhouane",
+      "CLUB": "ACAkouda",
+      "CAT": "SE",
+      "SEXE": "M",
+      "EPREUVE": "20km",
+      "PERF": "2h06,20",
+      "CLASS": "3"
+    },
+    {
+      "Dossards": "-",
+      "Nom_Prenom": "BEN BAHI DRISI Raouf ",
+      "CLUB": "AAFahs",
+      "CAT": "SE",
+      "SEXE": "M",
+      "EPREUVE": "20Km",
+      "PERF": "-",
+      "CLASS": "-"
+    },
+    {
+      "Dossards": "-",
+      "Nom_Prenom": "AL AYARI Iskander",
+      "CLUB": "AAFahs",
+      "CAT": "SE",
+      "SEXE": "M",
+      "EPREUVE": "20Km",
+      "PERF": "-",
+      "CLASS": "-"
+    },
+    {
+      "Dossards": "-",
+      "Nom_Prenom": "HMIDI Hamza",
+      "CLUB": "AAFahs",
+      "CAT": "SE",
+      "SEXE": "M",
+      "EPREUVE": "20Km",
+      "PERF": "-",
+      "CLASS": "-"
+    }
+  ]
+}
+

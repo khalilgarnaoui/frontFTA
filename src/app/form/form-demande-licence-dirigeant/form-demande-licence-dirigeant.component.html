@@ -1,0 +1,205 @@
+<app-heading></app-heading>
+<div class="container" align="center">
+    <div class="col-md-8">
+        <div class="titles no-margin">
+            <h4>Demande De Licence Dirigeant</h4>
+        </div>
+        <br>
+        <div class="info-panel">
+            <!-- Form Contact -->
+            <form class="form-theme" [formGroup]="licenceDirigeantForm" (ngSubmit)="onSubmit() ">
+
+                <div class="row">
+                    <div class="col-md-6">
+                        <label>Nom *</label>
+                        <input
+                                type="text"
+                                class="form-control"
+                                formControlName="nom"
+                        >
+                    </div>
+                    <div class="col-md-6">
+                        <label>Prenom *</label>
+                        <input
+                                type="text"
+                                class="form-control"
+                                formControlName="prenom"
+                        >
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <label>Date De Naissance *</label>
+                        <input
+                                type="date"
+                                class="form-control"
+                                formControlName="dateNaissance"
+                        >
+                    </div>
+                    <div class="col-md-6">
+                        <label>Lieu *</label>
+                        <input
+                                type="text"
+                                class="form-control"
+                                formControlName="lieuNaissance"
+                        >
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <label>Adresse Personnelle *</label>
+                        <input
+                                type="text"
+                                class="form-control"
+                                formControlName="adresse"
+                        >
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <label>Code Postal *</label>
+                        <input
+                                type="number"
+                                class="form-control"
+                                formControlName="codePostal"
+                        >
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <label>Profession *</label>
+                        <input
+                                type="text"
+                                class="form-control"
+                                formControlName="profession"
+                        >
+                    </div>
+                </div>
+                <div class="row">
+                    <div
+                            class="col-md-12"
+                            formArrayName="diplomes"
+                    >
+                        <label>Diplomes Obtenus *</label>
+                        <br/>
+                        <div
+                                class="form-group"
+                                *ngFor="let diplome of licenceDirigeantForm.get('diplomes').controls; let i=index"
+                        >
+                            <input type="file" name="diplomes" (change)="onImagePicked($event)" class="form-control"
+                                   [formControlName]="i">
+                        </div>
+                        <button class="btn btn-primary" type="button" (click)="onAddDiplome()">Ajouter Diplome</button>
+                        <br>
+                        <br>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <label>Num CIN *</label>
+                        <input
+                                type="number"
+                                class="form-control"
+                                formControlName="cin"
+                        >
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <label>Date Emission *</label>
+                        <input
+                                type="date"
+                                class="form-control"
+                                formControlName="dateEmission"
+                        >
+                    </div>
+                    <div class="col-md-6">
+                        <label>Lieu Emission *</label>
+                        <input
+                                type="text"
+                                class="form-control"
+                                formControlName="lieuEmission"
+                        >
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <label>Numero De Telephone *</label>
+                        <input
+                                type="number"
+                                class="form-control"
+                                formControlName="numTel"
+                        >
+                    </div>
+                    <div class="col-md-6">
+                        <label>Email *</label>
+                        <input
+                                type="email"
+                                class="form-control"
+                                formControlName="email"
+                        >
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <label>Copie CIN *</label>
+                        <input
+                                type="file"
+                                class="form-control"
+                                name="ccin"
+                                (change)="onImagePicked($event)"
+                        >
+
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <label>Photo *</label>
+                        <input
+                                type="file"
+                                class="form-control"
+                                name="photo"
+                                (change)="onImagePicked($event)"
+                        >
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <label>Justificatif de Paiement *</label>
+                        <input
+                                type="file"
+                                class="form-control"
+                                name="paiement"
+                                (change)="onImagePicked($event)"
+                        >
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <button
+                                type="submit"
+                                class="btn btn-lg btn-primary"
+                                [disabled]="!licenceDirigeantForm.valid"
+                        >Envoyer
+                        </button>
+                    </div>
+                </div>
+            </form>
+            <!-- End Form Contact -->
+        </div>
+    </div>
+</div>
+<div class="container">
+    <h1 style="color: #4CDCB6">NB:</h1>
+    <ol>
+        L'entraineur est prie de fournir les pieces suivantes:
+        <li>Une demande de licence dirigeant dûment remplie.</li>
+        <li>Une copie de le CIN</li>
+        <li>Une photo d'identité</li>
+        <li>Copies des diplomes</li>
+        <li>Recu de la somme de ciquante dinars (50dt) au compte courant postal au nom de la FTA (148-69)</li>
+    </ol>
+</div>
+<br>
+<br>
+<br>

@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Kairouan",
+    "directeur": "M. Kamel HOUAS",
+    "tel": "77235876"
+  },
+  {
+    "id": 2,
+    "name": "Le Kef",
+    "directeur": "M. Lotfi HAMMEMI",
+    "tel": "78224024"
+  },
+  {
+    "id": 3,
+    "name": "Rades",
+    "directeur": "M. Abdeljalil ELHOUIJI",
+    "tel": "71468101"
+  },
+  {
+    "id": 4,
+    "name": "Sidi Bouzid",
+    "directeur": "M. Bechir NCIRI",
+    "tel": "76624280"
+  },
+  {
+    "id": 5,
+    "name": "Gabes",
+    "directeur": "M. Houssine GOUIDER",
+    "tel": "75398123"
+  },
+  {
+    "id": 6,
+    "name": "Kebeli",
+    "directeur": "M. Lotfi DRAOUILE",
+    "tel": "75494124"
+  },
+  {
+    "id": 7,
+    "name": "Gafsa",
+    "directeur": "M. Moncef MASSAOUD",
+    "tel": "76217304"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "Horaire": "10:00",
+    "Catégorie": "Minime F 2005",
+    "Distance": "2.5 km",
+    "Classement": 6
+  },
+  {
+    "id": 2,
+    "Horaire": "10:20",
+    "Catégorie": "Minime G 2005",
+    "Distance": "3.5 km",
+    "Classement": 6
+  },
+  {
+    "id": 3,
+    "Horaire": "10:40",
+    "Catégorie": "Cadette",
+    "Distance": "3.5 km",
+    "Classement": 4
+  },
+  {
+    "id": 4,
+    "Horaire": "11:00",
+    "Catégorie": "Cadet",
+    "Distance": "5 km",
+    "Classement": 4
+  },
+  {
+    "id": 5,
+    "Horaire": "11:20",
+    "Catégorie": "Masters MIXTE",
+    "Distance": "6 km",
+    "Classement": 4
+  },
+  {
+    "id": 6,
+    "Horaire": "12:00",
+    "Catégorie": "Junior F",
+    "Distance": "5 km",
+    "Classement": 4
+  },
+  {
+    "id": 7,
+    "Horaire": "12:30",
+    "Catégorie": "Junior G",
+    "Distance": "7 km",
+    "Classement": 4
+  },
+  {
+    "id": 8,
+    "Horaire": "13:00",
+    "Catégorie": "Senior F",
+    "Distance": "7 km",
+    "Classement": 4
+  },
+  {
+    "id": 9,
+    "Horaire": "13:30",
+    "Catégorie": "Senior H",
+    "Distance": "10 km",
+    "Classement": 4
+  },
+  {
+    "id": 10,
+    "Horaire": "14:10",
+    "Catégorie": "Cross cours",
+    "Distance": "4 km",
+    "Classement": 4
+  }
+]

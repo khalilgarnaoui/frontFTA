@@ -1,0 +1,33 @@
+<table class="table-striped table-responsive table-hover career">
+    <thead>
+    <tr>
+        <th> Annee</th>
+        <th>Compétition</th>
+        <th>Type</th>
+        <th>Performance</th>
+        <th>Date</th>
+        <th>Lieu</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr *ngFor="let perfo of p | paginate: { itemsPerPage: 8, currentPage: page }">
+        <td>{{perfo.annee}}</td>
+        <td>
+            {{perfo.competitionName}}
+        </td>
+        <td>
+            {{perfo.type}}
+        </td>
+        <td>{{perfo.performance}}</td>
+        <td>
+            {{perfo.date}}
+        </td>
+        <td>{{perfo.lieu}}</td>
+    </tr>
+    </tbody>
+</table>
+<br>
+<br>
+<br>
+<pagination-controls (pageChange)=" page = $event" class="text-center"></pagination-controls>
+

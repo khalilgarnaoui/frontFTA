@@ -1,0 +1,42 @@
+<div class="col-lg-12">
+  <h3 class="clear-title">{{course.annee}}</h3>
+</div>
+<div class="big-table">
+  <div class="col-md-12">
+
+    <table class=" records-table ">
+      <thead>
+      <tr>
+        <th>
+          Competition
+        </th>
+        <th>
+          Lieu
+        </th>
+        <th>
+          Organisateur
+        </th>
+        <th>
+          Date
+        </th>
+      </tr>
+      </thead>
+      <tbody >
+      <tr *ngFor="let info of course.calendrier">
+        <td data-th="Competition Category">
+          {{info.competition}}
+        </td>
+        <td data-th="Venue">
+          {{info.lieu}}
+        </td>
+        <td data-th="Country">
+          {{info.organisateur}}
+        </td>
+        <td data-th="Meeting Name">
+          {{info.date}}
+        </td>
+      </tr>
+      </tbody>
+    </table>
+  </div>
+</div>

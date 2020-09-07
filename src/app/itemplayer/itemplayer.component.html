@@ -1,0 +1,25 @@
+
+<!-- Item Player -->
+  <div class="forward">
+  <div class="item-player">
+    <div class="head-player" >
+      <img height="150" width="100%" class="image" src="http://localhost:3000/uploads/{{player.image}}"/>
+    </div>
+    <div class="info-player">
+      <h4>
+        {{player.prenom}} {{player.nom}}
+      </h4>
+      <ul>
+        <li><strong>CLUB:</strong> <span>{{player.club}}</span></li>
+        <li>
+          <strong>LIEU DE NAISSANCE:</strong> <span> {{player.lieu}} </span>
+        </li>
+        <li><strong>DATE DE NAISSANCE:</strong> <span>{{player.ddn | date :'dd/MM/yyyy'}}</span></li>
+      </ul>
+    </div>
+    <a class="btn" routerLink="/player-list/{{player._id}}">View Player <i aria-hidden="true"
+                                                            class="fa fa-angle-right"></i></a>
+  </div>
+
+<!-- End Item Player -->
+  </div>

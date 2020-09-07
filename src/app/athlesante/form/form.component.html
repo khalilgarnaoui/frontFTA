@@ -1,0 +1,359 @@
+<div class="container" align="center">
+  <div class="col-md-8">
+    <div class="titles no-margin">
+      <h4>Formulaire d’adhésion</h4>
+    </div>
+    <br>
+    <div class="info-panel">
+      <!-- Form Contact -->
+      <form [formGroup]="" class="form-theme">
+        <div class="row">
+          <div class="col-md-12">
+            <h4><strong>Vous souhaitez faire une demande de </strong></h4>
+            <SELECT name="type" size="1">
+              <OPTION>Renouvellement
+              <OPTION>1ere adhesion
+            </SELECT>
+          </div>
+        </div>
+        <br><br>
+        <div class="row">
+          <div class="col-md-12">
+              <h4><strong>Vous étes : </strong></h4>
+              <label><input type="radio" id="association" name="drone" checked style="width: 20px">Association</label>
+              <label><input type="radio" id="societe" name="drone" style="width: 20px">Société</label>
+              <label><input type="radio" id="indiv" name="drone" style="width: 20px">Individuel</label>
+          </div>
+          <br><br><br>
+        </div>
+        <div class="row">
+          <div class="col-md-6">
+            <label><strong>Saison sportive</strong></label>
+            <input
+              type="text"
+              class="form-control"
+              formControlName="saison"
+            >
+          </div>
+          <div class="col-md-6">
+            <label><strong>Association sportive</strong></label>
+            <input
+              type="text"
+              class="form-control"
+              formControlName="association"
+            >
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-6">
+            <label>Nom *</label>
+            <input
+              type="text"
+              class="form-control"
+              formControlName="nom"
+            >
+          </div>
+          <div class="col-md-6">
+            <label>Prenom *</label>
+            <input
+              type="text"
+              class="form-control"
+              formControlName="prenom"
+            >
+          </div>
+        </div>
+        <div class="row">
+          <div class="radio col-md-6" *ngFor="let sexe of sexes">
+            <input
+              type="radio"
+              name="sexe"
+              [value]="sexe"
+              formControlName="sexe"
+            > {{sexe}}
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-6">
+            <label>Date De Naissance *</label>
+            <input
+              type="date"
+              class="form-control"
+              formControlName="dateNaissance"
+            >
+          </div>
+          <div class="col-md-6">
+            <label>Lieu *</label>
+            <input
+              type="text"
+              class="form-control"
+              formControlName="lieu"
+            >
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-12">
+            <label>Nationalité</label>
+            <input
+              type="text"
+              class="form-control"
+              formControlName="nationalite"
+            >
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-6">
+            <label>Adresse *</label>
+            <input
+              type="text"
+              class="form-control"
+              formControlName="adresse"
+            >
+          </div>
+          <div class="col-md-6">
+            <label>Code postal *</label>
+            <input
+              type="text"
+              class="form-control"
+              formControlName="postal"
+            >
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-6">
+            <label>Adresse électronique</label>
+            <input
+              type="number"
+              class="form-control"
+              formControlName="email"
+            >
+          </div>
+          <div class="col-md-6">
+            <label>Numero De Telephone *</label>
+            <input
+              type="number"
+              class="form-control"
+              formControlName="numTel"
+            >
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-12">
+            <label>Profession</label>
+            <input
+              type="text"
+              class="form-control"
+              name="profession"
+            >
+          </div>
+        </div>
+        <br>
+        <div class="row">
+          <h4><strong>Veuillez cocher vos choix d activités :</strong></h4>
+          <br>
+          <table class="table">
+            <thead>
+            <tr>
+              <th></th>
+              <th>Lundi</th>
+              <th>Mardi</th>
+              <th>Mercredi</th>
+              <th>Jeudi</th>
+              <th>Vendredi</th>
+              <th>Samedi</th>
+              <th>Dimanche</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+              <th>De 8h à 10h</th>
+              <td style="background-color: #4CDCB6">
+                <input type="checkbox" id="marche" name="marche" class="largerCheckbox"
+                       checked ><br>
+                <label for="marche">La Marche</label>
+              </td>
+              <td style="background-color: #0c90d1">
+                <input type="checkbox" id="yoga" name="yoga" class="largerCheckbox"
+                       checked><br>
+                <label for="yoga">Yoga</label>
+              </td>
+              <td style="background-color: #4CDCB6">
+                <input type="checkbox" id="marche2" name="marche" class="largerCheckbox"
+                       checked ><br>
+                <label for="marche">La Marche</label>
+              </td>
+              <td style="background-color: yellow">
+                <input type="checkbox" id="cd" name="cd" class="largerCheckbox"
+                       checked><br>
+                <label for="cd">Condition Physique
+                </label>
+              </td>
+              <td style="background-color: #4CDCB6">
+                <input type="checkbox" id="marche2" name="marche" class="largerCheckbox"
+                       checked ><br>
+                <label for="marche">La Marche</label>
+              </td>
+              <td style="background-color: #4CDCB6">
+                <input type="checkbox" id="marche2" name="marche" class="largerCheckbox"
+                       checked ><br>
+                <label for="marche">La Marche</label>
+              </td>
+              <td style="background-color: #4CDCB6">
+                <input type="checkbox" id="marche2" name="marche" class="largerCheckbox"
+                       checked ><br>
+                <label for="marche">La Marche</label>
+              </td>
+            </tr>
+            <tr>
+              <th width=20%>De 10h à 12h</th>
+              <td style="background-color: #4cae4c">
+                <input type="checkbox" id="marche" name="marche" class="largerCheckbox"
+                       checked ><br>
+                <label for="marche">Remise en forme</label>
+              </td>
+              <td></td>
+              <td style="background-color: #4cae4c">
+                <input type="checkbox" id="marche" name="marche" class="largerCheckbox"
+                       checked ><br>
+                <label for="marche">Remise en forme</label>
+              </td>
+              <td style="background-color: #0c90d1">
+                <input type="checkbox" id="yoga" name="yoga" class="largerCheckbox"
+                       checked><br>
+                <label for="yoga">Yoga</label>
+              </td>
+              <td style="background-color: #4cae4c">
+                <input type="checkbox" id="marche" name="marche" class="largerCheckbox"
+                       checked ><br>
+                <label for="marche">Remise en forme</label>
+              </td>
+              <td style="background-color: orange">
+                <input type="checkbox" id="cd" name="cd" class="largerCheckbox"
+                       checked><br>
+                <label for="cd">Running
+                </label>
+              </td>
+              <td style="background-color: orange">
+                <input type="checkbox" id="cd" name="cd" class="largerCheckbox"
+                       checked><br>
+                <label for="cd">Running
+                </label>
+              </td>
+            </tr>
+            <tr>
+              <th>De 16h à 18h</th>
+              <td></td>
+              <td style="background-color: #4cae4c">
+                <input type="checkbox" id="marche" name="marche" class="largerCheckbox"
+                       checked ><br>
+                <label for="marche">Remise en forme</label>
+              </td>
+              <td style="background-color: red">
+                <input type="checkbox" id="marche" name="marche" class="largerCheckbox"
+                       checked ><br>
+                <label for="marche">Stretching</label>
+              </td>
+              <td style="background-color: #4cae4c">
+                <input type="checkbox" id="marche" name="marche" class="largerCheckbox"
+                       checked ><br>
+                <label for="marche">Remise en forme</label>
+              </td>
+              <td style="background-color: red">
+                <input type="checkbox" id="marche" name="marche" class="largerCheckbox"
+                       checked ><br>
+                <label for="marche">Stretching</label>
+              </td>
+              <td style="background-color: #4cae4c">
+                <input type="checkbox" id="marche" name="marche" class="largerCheckbox"
+                       checked ><br>
+                <label for="marche">Remise en forme</label>
+              </td>
+              <td></td>
+            </tr>
+            <tr>
+              <th>De 18h à 20h</th>
+              <td style="background-color: yellow">
+                <input type="checkbox" id="cd" name="cd" class="largerCheckbox"
+                       checked><br>
+                <label for="cd">Condition Physique
+                </label>
+              </td>
+              <td style="background-color: #4cae4c">
+                <input type="checkbox" id="marche" name="marche" class="largerCheckbox"
+                       checked ><br>
+                <label for="marche">Remise en forme</label>
+              </td>
+              <td style="background-color: yellow">
+                <input type="checkbox" id="cd" name="cd" class="largerCheckbox"
+                       checked><br>
+                <label for="cd">Condition Physique
+                </label>
+              </td>
+              <td style="background-color: #4cae4c">
+                <input type="checkbox" id="marche" name="marche" class="largerCheckbox"
+                       checked ><br>
+                <label for="marche">Remise en forme</label>
+              </td>
+              <td></td>
+              <td style="background-color: #0c90d1">
+                <input type="checkbox" id="yoga" name="yoga" class="largerCheckbox"
+                       checked><br>
+                <label for="yoga">Yoga</label>
+              </td>
+              <td></td>
+            </tr>
+            <tr>
+              <th>De 17h à 21h</th>
+              <td style="background-color: orange">
+                <input type="checkbox" id="cd" name="cd" class="largerCheckbox"
+                       checked><br>
+                <label for="cd">Running
+                </label>
+              </td>
+              <td style="background-color: orange">
+                <input type="checkbox" id="cd" name="cd" class="largerCheckbox"
+                       checked><br>
+                <label for="cd">Running
+                </label>
+              </td>
+              <td style="background-color: orange">
+                <input type="checkbox" id="cd" name="cd" class="largerCheckbox"
+                       checked><br>
+                <label for="cd">Running
+                </label>
+              </td>
+              <td style="background-color: orange">
+                <input type="checkbox" id="cd" name="cd" class="largerCheckbox"
+                       checked><br>
+                <label for="cd">Running
+                </label>
+              </td>
+              <td style="background-color: yellow">
+                <input type="checkbox" id="cd" name="cd" class="largerCheckbox"
+                       checked><br>
+                <label for="cd">Condition Physique
+                </label>
+              </td>
+              <td></td>
+              <td></td>
+            </tr>
+            </tbody>
+          </table>
+        </div>
+        <div class="row">
+          <div class="col-md-12">
+            <button
+              type="submit"
+              class="btn btn-lg btn-primary"
+              [disabled]="!licenceAthleteForm.valid"
+            >
+              Envoyer
+            </button>
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
+<br>
+
+

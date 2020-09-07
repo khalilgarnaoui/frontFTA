@@ -1,0 +1,39 @@
+[
+  {
+    "classId": 1,
+    "catégories": "Minimes 2 garçons et filles",
+    "engagement": "Minimum 06",
+    "classement": "06"
+  },{
+    "classId": 2,
+    "catégories": "Cadettes",
+    "engagement": "Minimum 04",
+    "classement": "04"
+  },{
+    "classId": 3,
+    "catégories": "Cadets",
+    "engagement": "Minimum 04",
+    "classement": "04"
+  },{
+    "classId": 4,
+    "catégories": "Juniors filles",
+    "engagement": "Minimum 04",
+    "classement": "04"
+  },{
+    "classId": 5,
+    "catégories": "Juniors garçons",
+    "engagement": "Minimum 04",
+    "classement": "04"
+  },{
+    "classId": 6,
+    "catégories": "Seniors filles",
+    "engagement": "Minimum 04",
+    "classement": "04"
+  },
+  {
+    "classId": 7,
+    "catégories": "Seniors garçons",
+    "engagement": "Minimum 04",
+    "classement": "04"
+  }
+]

@@ -1,0 +1,818 @@
+[
+ {
+   "id": "0002",
+   "name": "Association Sportive Militaire de Beja",
+   "codeLigue": 3,
+   "adresse": "Caseerne, Beja 9000",
+   "telFax": "78-454 075",
+   "sitClub": "R"
+ },
+ {
+   "id": "0004",
+   "name": "Aigle Sportif Amdounien",
+   "codeLigue": 3,
+   "adresse": "Amdoun 9030",
+   "telFax": "78-468 148",
+   "sitClub": "R"
+ },
+ {
+   "id": "0007",
+   "name": "Avenir Sportif d'Athlétisme de El Hamma",
+   "codeLigue": 5,
+   "adresse": "10 rue Bechir Sfar, El Hamma 6020",
+   "telFax": "75-335 575",
+   "sitClub": "R"
+ },
+ {
+   "id": "0009",
+   "name": "Club d'Athlétisme de Gabes",
+   "codeLigue": 5,
+   "adresse": "67 rue Sidi Boulbaba, Gabes 6002",
+   "telFax": "75-270 285",
+   "sitClub": "R"
+ },
+ {
+   "id": "0012",
+   "name": "Association Sportive Militaire du S.O. Gafsa",
+   "codeLigue": 6,
+   "adresse": "Caserne de Gafsa 2100",
+   "telFax": "76-226 500",
+   "sitClub": "R"
+ },
+ {
+   "id": "0014",
+   "name": "Club Ciments d'Om Kelil",
+   "codeLigue": 10,
+   "adresse": "Cimenterie d'Om Kelil, Tajerouine 7150 - BP 67",
+   "telFax": "78-279 369",
+   "sitClub": "R"
+ },
+ {
+   "id": "0018",
+   "name": "Club Municipal d'Athlétisme de Kairouan",
+   "codeLigue": 8,
+   "adresse": "Rue de Gabes, Kairouan 3100 - BP 97",
+   "telFax": "77-230 526",
+   "sitClub": ""
+ },
+ {
+   "id": "0019",
+   "name": "Club Athlétique de Jendouba",
+   "codeLigue": 7,
+   "adresse": "Rue Hanibi Thameur, Im. Krim Jerbi, Jendouba 8100",
+   "telFax": "78-613 118",
+   "sitClub": "R"
+ },
+ {
+   "id": "0024",
+   "name": "Club Sportif de la Garde Nationale",
+   "codeLigue": 21,
+   "adresse": "Caserne Garde Nationale, El Aouina 2045",
+   "telFax": "71-760 177",
+   "sitClub": "R"
+ },
+ {
+   "id": "0025",
+   "name": "Association Sportive de Zaouiet Jedidi",
+   "codeLigue": 14,
+   "adresse": "Municipalité, Zaouiet Jedidi - 8099",
+   "telFax": "",
+   "sitClub": "R"
+ },
+ {
+   "id": "0029",
+   "name": "Avenir Sportif de La Marsa",
+   "codeLigue": 21,
+   "adresse": "20 Place Hedi Khayachi, La Marsa 2070 - BP 20",
+   "telFax": "71-775 211",
+   "sitClub": "R"
+ },
+ {
+   "id": "0030",
+   "name": "Zitouna Sports de Tunis",
+   "codeLigue": 21,
+   "adresse": "Stade Pepinière, Av.Taieb Mhiri, Tunis 1002 - BP 182",
+   "telFax": "",
+   "sitClub": "R"
+ },
+ {
+   "id": "0035",
+   "name": "Athletic Club de Nabeul",
+   "codeLigue": 14,
+   "adresse": "Maison des associations, Rte Plage, Nabeul",
+   "telFax": "72-230 120",
+   "sitClub": "R"
+ },
+ {
+   "id": "0043",
+   "name": "Association Sportive Militaire de Jendouba",
+   "codeLigue": 7,
+   "adresse": "Caserne de Jendouba 8100",
+   "telFax": "78-601 277",
+   "sitClub": "R"
+ },
+ {
+   "id": "0051",
+   "name": "Club Athlétique de Maknassy",
+   "codeLigue": 15,
+   "adresse": "Av. Bechir BouSaueh, Maknassy 9140 - BP 45",
+   "telFax": "76-645 584",
+   "sitClub": "R"
+ },
+ {
+   "id": "0065",
+   "name": "Oasis Sportif de Kebili",
+   "codeLigue": 9,
+   "adresse": "Kebili, 4200",
+   "telFax": "75-493 828",
+   "sitClub": "R"
+ },
+ {
+   "id": "0066",
+   "name": "Essor Sportif Féminin de Nabeul",
+   "codeLigue": 14,
+   "adresse": "U.N.F.T., Nabeul",
+   "telFax": "72-285 321",
+   "sitClub": ""
+ },
+ {
+   "id": "0067",
+   "name": "Ass. Sp. Académie Militaire, Fondouk Jedid",
+   "codeLigue": 14,
+   "adresse": "Academie Militaire Fondouk Djedid 8012",
+   "telFax": "72-250 337",
+   "sitClub": ""
+ },
+ {
+   "id": "0069",
+   "name": "Association Sportive Militaire du Kef",
+   "codeLigue": 10,
+   "adresse": "Caserne, Le Kef",
+   "telFax": "78-223 800",
+   "sitClub": ""
+ },
+ {
+   "id": "0071",
+   "name": "Sfax Université Club",
+   "codeLigue": 16,
+   "adresse": "ISSEP, Rte Aérodrome, Km3, Sfax 3018 - BP 1068",
+   "telFax": "74-278 502",
+   "sitClub": "R"
+ },
+ {
+   "id": "0074",
+   "name": "Club Sportif de Megrine Chaker",
+   "codeLigue": 2,
+   "adresse": "17 rue. de la Liberté, Megrine Chaker",
+   "telFax": "71-415 861",
+   "sitClub": "R"
+ },
+ {
+   "id": "0079",
+   "name": "Club Sportif Sfaxien",
+   "codeLigue": 16,
+   "adresse": "Complexe Route de l'aéodrome Km3,5, Sfax",
+   "telFax": "74-497 158",
+   "sitClub": "R"
+ },
+ {
+   "id": "0081",
+   "name": "Club Sportif des Cheminots",
+   "codeLigue": 21,
+   "adresse": "67 av. Farhat Hached, Tunis 1002 - BP 1560 TRP",
+   "telFax": "",
+   "sitClub": "R"
+ },
+ {
+   "id": "0084",
+   "name": "Aigle Sportif de Somaa",
+   "codeLigue": 14,
+   "adresse": "Stade Municipal de Somaa 8023",
+   "telFax": "72-355 344",
+   "sitClub": ""
+ },
+ {
+   "id": "0091",
+   "name": "Club Athlétique de Mareth",
+   "codeLigue": 5,
+   "adresse": "Mareth 6080 - BP223",
+   "telFax": " - ",
+   "sitClub": "R"
+ },
+ {
+   "id": "0093",
+   "name": "Jeunesse Sportive de Blidette",
+   "codeLigue": 9,
+   "adresse": "Centre postal de Kebili 4200 - BP 120",
+   "telFax": "75-490 859",
+   "sitClub": "R"
+ },
+ {
+   "id": "0104",
+   "name": "Astre Sportif de Agareb",
+   "codeLigue": 16,
+   "adresse": "Stade Municipal de Agareb 3030",
+   "telFax": "74-644 261",
+   "sitClub": "R"
+ },
+ {
+   "id": "0106",
+   "name": "Association Sportive de Zaafrane",
+   "codeLigue": 9,
+   "adresse": "Zaafrane 4261",
+   "telFax": "75-450 120",
+   "sitClub": "N"
+ },
+ {
+   "id": "0109",
+   "name": "Association Sportive Militaire de Tunis",
+   "codeLigue": 21,
+   "adresse": "DEPSM, Le Bardo 2000",
+   "telFax": "71-222 133",
+   "sitClub": "R"
+ },
+ {
+   "id": "0121",
+   "name": "Sahara Sport de Douz",
+   "codeLigue": 9,
+   "adresse": "Douz 4260",
+   "telFax": "75-474 277",
+   "sitClub": "R"
+ },
+ {
+   "id": "0125",
+   "name": "Etoiles Sportives de Dar Allouche",
+   "codeLigue": 14,
+   "adresse": "24 Av. 11/02/1987, Dar Allouch 8055",
+   "telFax": "72-294 116",
+   "sitClub": ""
+ },
+ {
+   "id": "0130",
+   "name": "Club Athlétique de Ksour Essaf, Selakta",
+   "codeLigue": 12,
+   "adresse": "Ksour Essaf 5180",
+   "telFax": "",
+   "sitClub": ""
+ },
+ {
+   "id": "0198",
+   "name": "Athletic Club de Hammamet",
+   "codeLigue": 14,
+   "adresse": "Rue Taeb Azabi, Hamamet, 2015",
+   "telFax": "72-260 706",
+   "sitClub": ""
+ },
+ {
+   "id": "0203",
+   "name": "I.S.S.E.P. de Kassar Said",
+   "codeLigue": 1,
+   "adresse": "I.S.S.E.P. Kassar-Said 2010",
+   "telFax": "71-654 282",
+   "sitClub": "R"
+ },
+ {
+   "id": "0207",
+   "name": "Club Athlétique de Zarat",
+   "codeLigue": 5,
+   "adresse": "Rue de Gabes, Souk Municipal, Zarat 6026",
+   "telFax": "75-300 277",
+   "sitClub": "R"
+ },
+ {
+   "id": "0211",
+   "name": "Enfida Sports",
+   "codeLigue": 18,
+   "adresse": "Av. de la Republique, Enfida",
+   "telFax": "31-404648",
+   "sitClub": "R"
+ },
+ {
+   "id": "0216",
+   "name": "Oasis Athlétique de Tozeur",
+   "codeLigue": 20,
+   "adresse": "Ras Dhraa, Cité Montazaa, Tozeur 2200",
+   "telFax": "",
+   "sitClub": "R"
+ },
+ {
+   "id": "0220",
+   "name": "Association Sportive Militaire de Kairouan",
+   "codeLigue": 8,
+   "adresse": "Base Militaire de Kairouan 3140 - BP 66",
+   "telFax": "77-320 035",
+   "sitClub": "R"
+ },
+ {
+   "id": "0221",
+   "name": "Avenir Sportif de Sidi Bouzid",
+   "codeLigue": 15,
+   "adresse": "Av. du 20 mars 1956, Sidi Bouzid 9100",
+   "telFax": "",
+   "sitClub": "R"
+ },
+ {
+   "id": "0222",
+   "name": "Association d'Athlétisme de Gaafour",
+   "codeLigue": 17,
+   "adresse": "Comité RCD, Av.Hedi Chaker, Gaafour",
+   "telFax": "78-817 117",
+   "sitClub": "R"
+ },
+ {
+   "id": "0232",
+   "name": "Athletic Club de Akouda",
+   "codeLigue": 18,
+   "adresse": "Stade Municipal de Akouda 4022 - BP 07",
+   "telFax": "73-358 534",
+   "sitClub": "R"
+ },
+ {
+   "id": "0239",
+   "name": "Jeunesse Sportive de Majel Belabbes",
+   "codeLigue": 11,
+   "adresse": "Majel Belabbes 1214",
+   "telFax": "77-445 124",
+   "sitClub": ""
+ },
+ {
+   "id": "0253",
+   "name": "Club des Sports Individuels, Ghannouche (ex CAGhan)",
+   "codeLigue": 5,
+   "adresse": "Siége de la Délégation de Ghannouche 6021",
+   "telFax": "75-225 120",
+   "sitClub": "R"
+ },
+ {
+   "id": "0273",
+   "name": "Atletico Menzel Bourguiba",
+   "codeLigue": 4,
+   "adresse": "Salle des Fètes, Menzel Bourguiba 7050",
+   "telFax": "72-518 007",
+   "sitClub": "R"
+ },
+ {
+   "id": "0278",
+   "name": "Avenir d'Athlétisme Fahs",
+   "codeLigue": 22,
+   "adresse": "9 rue de Beja, cité Saada, Le Fahs 1140",
+   "telFax": "27-753 685",
+   "sitClub": "R"
+ },
+ {
+   "id": "0280",
+   "name": "Club d'Athlétisme de Skhira",
+   "codeLigue": 16,
+   "adresse": "Municipalité de Skhira, Rue Bechir Mhedhbi 3050",
+   "telFax": "74-667 126",
+   "sitClub": ""
+ },
+ {
+   "id": "0282",
+   "name": "Club d'Athlétisme \"Rihan\" Gafsa",
+   "codeLigue": 6,
+   "adresse": "Gafsa - Lycée cité des Jeunes",
+   "telFax": "",
+   "sitClub": "R"
+ },
+ {
+   "id": "0285",
+   "name": "Union Sportive de Kelibia",
+   "codeLigue": 14,
+   "adresse": "Kelibia 8090 - BP 103",
+   "telFax": "72 295 549",
+   "sitClub": "R"
+ },
+ {
+   "id": "0287",
+   "name": "Avenir Sportif de Touiref",
+   "codeLigue": 10,
+   "adresse": "Municipalité de Touiref 7112",
+   "telFax": "78-240 027",
+   "sitClub": "R"
+ },
+ {
+   "id": "0291",
+   "name": "I.S.S.E.P. Le Kef",
+   "codeLigue": 10,
+   "adresse": "I.S.S.E.P. Le Kef 7100",
+   "telFax": "78 238 018",
+   "sitClub": "R"
+ },
+ {
+   "id": "0296",
+   "name": "Starting Club de Bizerte",
+   "codeLigue": 4,
+   "adresse": "9 rue Jahwer Tabak, Bizerte 7000",
+   "telFax": "72 532 657",
+   "sitClub": ""
+ },
+ {
+   "id": "0298",
+   "name": "Club Athlétique de Korba",
+   "codeLigue": 14,
+   "adresse": "Av. H.Bourguiba, Korba 8070",
+   "telFax": "72 386 656",
+   "sitClub": "R"
+ },
+ {
+   "id": "0301",
+   "name": "Association Sportive Militaire de Ben Gardane",
+   "codeLigue": 23,
+   "adresse": "Caserne de Ben Gardane",
+   "telFax": "75 720 135",
+   "sitClub": "R"
+ },
+ {
+   "id": "0302",
+   "name": "Rades Athletic Club",
+   "codeLigue": 2,
+   "adresse": "Maison des Jeunes, Rades 2040",
+   "telFax": "  ",
+   "sitClub": "R"
+ },
+ {
+   "id": "0303",
+   "name": "Club Sportif Municipal des Jeux Individuels de Midoun",
+   "codeLigue": 23,
+   "adresse": "Municipalité de Jerba-Midoun",
+   "telFax": "75 731 220",
+   "sitClub": ""
+ },
+ {
+   "id": "0305",
+   "name": "Avenir Ariana (ex. Avenir Athlétique de l'Ariana)",
+   "codeLigue": 1,
+   "adresse": "20 Av. de l'Indépendance, Ariana 2080",
+   "telFax": "71 370 450",
+   "sitClub": "R"
+ },
+ {
+   "id": "0310",
+   "name": "Club Sportif de la Protection Civile",
+   "codeLigue": 2,
+   "adresse": "Bir Kassaa",
+   "telFax": "79 398 352",
+   "sitClub": "R"
+ },
+ {
+   "id": "0320",
+   "name": "Croissant Sportif Athlétique de Regueb",
+   "codeLigue": 15,
+   "adresse": "Regueb 9170 - BP 34",
+   "telFax": "76 623 330",
+   "sitClub": "R"
+ },
+ {
+   "id": "0323",
+   "name": "Club Sportif Athlétique de Faiedh",
+   "codeLigue": 15,
+   "adresse": "Faiedh 9112",
+   "telFax": "76 626 846",
+   "sitClub": "R"
+ },
+ {
+   "id": "0326",
+   "name": "Syres Athletic Club",
+   "codeLigue": 10,
+   "adresse": "Stade municipal, Le Sers 7180",
+   "telFax": "78 262 579",
+   "sitClub": "R"
+ },
+ {
+   "id": "0329",
+   "name": "Athletic Club Essaada de Monastir (ACEM)",
+   "codeLigue": 13,
+   "adresse": "43 Cité Essaada, Monastir 5000",
+   "telFax": "73 460 405",
+   "sitClub": "R"
+ },
+ {
+   "id": "0340",
+   "name": "Club Athlétique de Grombalia",
+   "codeLigue": 14,
+   "adresse": "Av. Salem, Grombalia 8030",
+   "telFax": "",
+   "sitClub": "R"
+ },
+ {
+   "id": "0341",
+   "name": "Club d'Athlétisme de Gafsa",
+   "codeLigue": 6,
+   "adresse": "Gafsa",
+   "telFax": "76 221 475",
+   "sitClub": ""
+ },
+ {
+   "id": "0343",
+   "name": "Club d'Athlétisme Scout de Bradaa",
+   "codeLigue": 12,
+   "adresse": "Centre des scouts rue 14 janvier, Bradaa 5115",
+   "telFax": "73 650 911",
+   "sitClub": ""
+ },
+ {
+   "id": "0345",
+   "name": "Club d'Athlétisme de Tataouine",
+   "codeLigue": 19,
+   "adresse": "Complexe de la jeunesse , Cité Mahrajene Tataouine 3200",
+   "telFax": "75 863 604",
+   "sitClub": "R"
+ },
+ {
+   "id": "0354",
+   "name": "Espoir Sportif de Medjez El Bab",
+   "codeLigue": 3,
+   "adresse": "Av.de la République, Medjez El Bab",
+   "telFax": "78 564 092",
+   "sitClub": "R"
+ },
+ {
+   "id": "0355",
+   "name": "Majd Sport Individuel, Sfax",
+   "codeLigue": 16,
+   "adresse": "Rue Nasria Amara, Im. Vinizia 5e étage, Sfax 3027",
+   "telFax": "74 442 00",
+   "sitClub": ""
+ },
+ {
+   "id": "0356",
+   "name": "Athlétique Club de Menzel Temime",
+   "codeLigue": 14,
+   "adresse": "7 rue Mongi Slim, Menzel Temime 8080",
+   "telFax": "72 300 521",
+   "sitClub": "R"
+ },
+ {
+   "id": "0358",
+   "name": "Jeux Individuels de l'Espoir de Bouchemma",
+   "codeLigue": 5,
+   "adresse": "Maison de Jeunes de Bouchemma - Gabes 6031",
+   "telFax": "75 350 387",
+   "sitClub": "R"
+ },
+ {
+   "id": "0365",
+   "name": "ASFeminine de Testour",
+   "codeLigue": 3,
+   "adresse": "Testour 9060",
+   "telFax": "78 570 773",
+   "sitClub": "R"
+ },
+ {
+   "id": "0366",
+   "name": "A.S. Hopital Sahloul de Sousse",
+   "codeLigue": 18,
+   "adresse": "Hopital Sahloul Sousse 4054",
+   "telFax": "73 369 411",
+   "sitClub": ""
+ },
+ {
+   "id": "0367",
+   "name": "Club Athlétique de Borj Cedria",
+   "codeLigue": 2,
+   "adresse": "Stade municipal de Borj Cedria 2084",
+   "telFax": "71 430 722",
+   "sitClub": "R"
+ },
+ {
+   "id": "0368 ?",
+   "name": "Club Sportif de Ghar El Melh",
+   "codeLigue": 4,
+   "adresse": "Ghar El Melh 211è",
+   "telFax": "76 224 827",
+   "sitClub": "R"
+ },
+ {
+   "id": "0371",
+   "name": "Golf Sportif Kettana",
+   "codeLigue": 5,
+   "adresse": "Kettana 6036",
+   "telFax": "75 237 244",
+   "sitClub": "R"
+ },
+ {
+   "id": "0375",
+   "name": "Association Sportive de Ghriba",
+   "codeLigue": 16,
+   "adresse": "Avenue Farhat Hached, Ghriba, Sfax 3034",
+   "telFax": "74 283 785",
+   "sitClub": ""
+ },
+ {
+   "id": "0377",
+   "name": "Athletic Club de Jemna",
+   "codeLigue": 15,
+   "adresse": "rue Benna, Jemna 4214",
+   "telFax": "75 465 555",
+   "sitClub": "R"
+ },
+ {
+   "id": "0378",
+   "name": "Avenir Sportif Gafsien",
+   "codeLigue": 6,
+   "adresse": "Gafsa 2117- BP 1138",
+   "telFax": "76 244 827",
+   "sitClub": "R"
+ },
+ {
+   "id": "0379",
+   "name": "Association Sportive de Bousalem",
+   "codeLigue": 7,
+   "adresse": "Rue Mohamed Ali, Bousalem 8170",
+   "telFax": "78 634 344",
+   "sitClub": "R"
+ },
+ {
+   "id": "0381",
+   "name": "A.S.Fem. Olmpique de Nabeul",
+   "codeLigue": 14,
+   "adresse": "42 rue Abdallah Ben Zoubayer, Rmila-Bir Chellouf",
+   "telFax": " ",
+   "sitClub": "R"
+ },
+ {
+   "id": "0385",
+   "name": "Association Spotive d'Athlétisme de Ksar Hellal",
+   "codeLigue": 13,
+   "adresse": "165 av. Habib Burguiba, Ksar Hellal 5070",
+   "telFax": "73 587 171",
+   "sitClub": "R"
+ },
+ {
+   "id": "0386",
+   "name": "Association des Jeux Individuels de Sidi Thabet",
+   "codeLigue": 1,
+   "adresse": "Maison des Jeunes de Sidi Thabet 2020",
+   "telFax": "",
+   "sitClub": "R"
+ },
+ {
+   "id": "0387",
+   "name": "Association Sportive Féminine de La Chebba",
+   "codeLigue": 12,
+   "adresse": "11 av. de Libye, La Chebba 5170",
+   "telFax": "73 643 825",
+   "sitClub": "R"
+ },
+ {
+   "id": "0388",
+   "name": "Club Athlétique de Medenine",
+   "codeLigue": 23,
+   "adresse": "375 Cité Ennour, Médenine 4100",
+   "telFax": "75 630 607",
+   "sitClub": "R"
+ },
+ {
+   "id": "0389",
+   "name": "Olympique Sportif de La Manouba",
+   "codeLigue": 1,
+   "adresse": "Bloc 36 Av N°3 SPROLS",
+   "telFax": "71 606 607",
+   "sitClub": ""
+ },
+ {
+   "id": "0390",
+   "name": "AZahraMAS",
+   "codeLigue": 2,
+   "adresse": "23 rue Larbi Kabadi, Ezzahra 2034",
+   "telFax": "71 802 647",
+   "sitClub": "R"
+ },
+ {
+   "id": "0392",
+   "name": "Asociation.Sportive Féminine de Nefza",
+   "codeLigue": 3,
+   "adresse": "Nefza 9010 - BP 119",
+   "telFax": "78 471 623",
+   "sitClub": "R"
+ },
+ {
+   "id": "0394",
+   "name": "Sabra Club (ex Club Athlétique de Kairouan)",
+   "codeLigue": 8,
+   "adresse": "Cité Ennasr, Im. Ceprols N°6, App N°103 Kairouan 3100",
+   "telFax": "  ",
+   "sitClub": ""
+ },
+ {
+   "id": "0395",
+   "name": "Association des Jeux Individuels de Douz",
+   "codeLigue": 9,
+   "adresse": "Route de Matmata à Douz 4260",
+   "telFax": " ",
+   "sitClub": ""
+ },
+ {
+   "id": "0396",
+   "name": "La Perle Sportive Féminine de Sfax",
+   "codeLigue": 16,
+   "adresse": "Route Menzel Chaker km5, Sfax",
+   "telFax": "74 625 279",
+   "sitClub": "R"
+ },
+ {
+   "id": "0397a",
+   "name": "Avenir Sportif de Ezzahra",
+   "codeLigue": 2,
+   "adresse": "visa N° 2015R02491APSF1 du 11-06-2015",
+   "telFax": "08-03-2018",
+   "sitClub": "R"
+ },
+ {
+   "id": "0397b",
+   "name": "Starting Club de Nabeul",
+   "codeLigue": 14,
+   "adresse": "Rue Hedi Nouira, Nabeeul 8000",
+   "telFax": "72 224 564",
+   "sitClub": "R"
+ },
+ {
+   "id": "0398",
+   "name": "Association.Sportive Féminine de Somaa",
+   "codeLigue": 14,
+   "adresse": "72 Av. de l'Indépendance, Somaa 8023",
+   "telFax": "72 355 945",
+   "sitClub": "R"
+ },
+ {
+   "id": "0378b",
+   "name": "Joggers Club de Nabeul ",
+   "codeLigue": 14,
+   "adresse": "Nabeul",
+   "telFax": "",
+   "sitClub": "N"
+ },
+ {
+   "id": "",
+   "name": "Al Hanaya Sportive de Mhamdia",
+   "codeLigue": 2,
+   "adresse": "Mhamdia, Ben Arous",
+   "telFax": "",
+   "sitClub": "N"
+ },
+ {
+   "id": "",
+   "name": "As.Sp.Individuels et Arts de Défense de Mateur",
+   "codeLigue": 4,
+   "adresse": "118 Cité Andalous, Mateur",
+   "telFax": "",
+   "sitClub": "N"
+ },
+ {
+   "id": "",
+   "name": "Association Sportive Militaire de Medenine",
+   "codeLigue": 23,
+   "adresse": "Medenine 4100",
+   "telFax": "75648 138",
+   "sitClub": "N"
+ },
+ {
+   "id": "",
+   "name": "Espoir Sportif Individuel de Bargou ",
+   "codeLigue": 14,
+   "adresse": "Av. Habib Bourguiba, Bargou, 6170",
+   "telFax": " ",
+   "sitClub": "N"
+ },
+ {
+   "id": "",
+   "name": "Olympique Sportif de Den Den",
+   "codeLigue": 1,
+   "adresse": "Den Den",
+   "telFax": "71 606 607",
+   "sitClub": "N"
+ },
+ {
+   "id": "",
+   "name": "Sporting Medjez El Bab",
+   "codeLigue": 3,
+   "adresse": "Salle de Sport",
+   "telFax": "",
+   "sitClub": "N"
+ },
+ {
+   "id": "",
+   "name": "Zaouiet Kontech Sport, Monastir",
+   "codeLigue": 13,
+   "adresse": "Zaouiet Kontech, 5028",
+   "telFax": "73 582 782",
+   "sitClub": "N"
+ },
+ {
+   "id": "",
+   "name": "Union Sportive Gafsienne ",
+   "codeLigue": 6,
+   "adresse": "Gafsa ",
+   "telFax": "",
+   "sitClub": "N"
+ },
+ {
+   "id": "",
+   "name": "CSA Henchir Guellel  ",
+   "codeLigue": 15,
+   "adresse": "Guellel, 9139",
+   "telFax": "76 673 510",
+   "sitClub": "N"
+ }
+]

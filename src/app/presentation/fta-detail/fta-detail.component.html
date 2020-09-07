@@ -1,0 +1,11 @@
+<div class="panel-box">
+  <ul class="list-panel">
+    <li *ngFor="let caractere of caracteristiques | keyvalue">
+      <div class="titles no-margin"><h4>{{caractere.key}}<span><b>{{caractere.value}}</b></span></h4>
+      </div>
+    </li>
+    <li *ngIf="pageFacebook">
+      <div class="titles no-margin" align="center" style="color: darkblue"><h4><span><a href="{{pageFacebook}}"><i class="fa-facebook fa"></i></a></span></h4>
+      </div></li>
+  </ul>
+</div>

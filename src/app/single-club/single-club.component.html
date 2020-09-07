@@ -1,0 +1,33 @@
+<div class="section-title-team">
+  <div class="container">
+    <div class="row">
+      <div class="col-xl-7">
+        <div class="row">
+          <div class="col-md-3">
+            <img src="assets/img/clubs-logos/col_logo.png" alt="">
+          </div>
+          <div class="col-md-3">
+            <img [src]="((club.image)?('assets/img/teams/'+club.image):('assets/img/clubs/FTA.png'))" alt="">
+          </div>
+          <div class="col-md-9">
+            <h1>{{club.name}}</h1>
+            <ul class="general-info">
+              <li *ngIf="club.president_secretaireGenerale"><h6><strong><i class="fa fa-suitcase"></i>Président Secretaire Géneral</strong><br> {{club.president_secretaireGenerale}}</h6></li>
+              <li *ngIf="club.mobileClub"><h6><strong><i class="fa fa-phone"> </i>Téléphone</strong><br>{{club.mobileClub}}</h6></li>
+              <li *ngIf="club.mobilePresident_secretaireGenerale"><h6><strong><i class="fa fa-phone"> </i>Téléphone du président </strong><br>{{club.mobilePresident_secretaireGenerale}}</h6></li>
+              <li *ngIf="club.faxClub"><h6><strong><i class="fa fa-fax"></i>Fax</strong><br>{{club.faxClub}}</h6></li>
+              <li *ngIf="club.adresse"><h6><strong><i class="fa fa-map-marker"></i>Adresse</strong><br>{{club.adresse}}</h6></li>
+              <li *ngIf="club.gouvernorat"><h6><strong><i class="fa fa-map-marker"></i>Gouvernorat</strong><br>{{club.gouvernorat}}</h6></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="bg-image-team" [ngStyle]="{'background' : (club.image)?'url('+club.image+')':'url(assets/img/clubs/colombia.jpg)'}"></div>
+</div>
+<br>
+<br>
+<br>
+<section class="content-info">
+</section>

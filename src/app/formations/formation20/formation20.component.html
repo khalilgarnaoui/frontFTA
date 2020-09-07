@@ -1,0 +1,51 @@
+<section class="container">
+    <div>
+        <br>
+        <br>
+        <h1 class="text-center"> Liste des formations </h1>
+        <br>
+        <table>
+            <thead>
+            <tr>
+                <th scope="col">Activité</th>
+                <th scope="col">Nature de l'activité</th>
+                <th scope="col">Période</th>
+                <th scope="col">Lieu</th>
+                <th scope="col">Nombre de participants</th>
+                <th scope="col">Organisme</th>
+                <th scope="col"></th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr *ngFor="let s of formation2020 | paginate: { itemsPerPage: 10, currentPage: page }">
+                <td>
+                    {{s.name}}
+                </td>
+                <td>
+                    {{s.nature}}
+                </td>
+                <td>
+                    {{s.date_formation | date: 'dd/MM/yyyy'}}
+                </td>
+                <td>
+                    {{s.lieu}}
+                </td>
+                <td>
+                    {{s.nombreParticipant}}
+                </td>
+                <td>
+                    {{s.organisme}}
+                </td>
+                <td>
+                    <button type="button" class="btn btn-primary" routerLink="{{s._id}}"> voir plus</button>
+                </td>
+
+            </tr>
+            </tbody>
+        </table>
+        <br>
+        <br>
+        <pagination-controls (pageChange)=" page = $event" class="text-center"></pagination-controls>
+        <br>
+    </div>
+</section>

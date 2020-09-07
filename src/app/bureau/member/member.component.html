@@ -1,0 +1,28 @@
+<div>
+    <div class="image-flip">
+        <div class="mainflip">
+            <div class="frontside">
+                <div class="card">
+                    <div class="card-body text-center">
+                        <p><img class="img-fluid" src="http://localhost:3000/uploads/{{worker.image}}">
+                        </p>
+                        <h4 class="card-title">{{worker.name}}</h4>
+                        <p class="card-text">{{worker.tache}}</p>
+                        <a href="#" class="btn btn-primary btn-sm"><i class="fa fa-plus"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="backside" style="width: 100%">
+                <div class="card">
+                    <div class="card-body mt-4">
+                        <h4 class="card-title">{{worker.name}}</h4>
+                        <p><i class="fa fa-envelope-o"></i> Email : {{worker.email}}</p>
+                        <p> Date De Naissance : {{worker.dateNaissance}}</p>
+                        <p><i class="fa fa-phone"></i> {{worker.mobile}}</p>
+                        <p *ngIf="worker.mobile2"><i class="fa fa-phone"></i> {{worker.mobile2}}</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

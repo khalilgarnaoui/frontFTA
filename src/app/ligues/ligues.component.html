@@ -1,0 +1,10 @@
+<!-- layout-->
+<div id="layout">
+  <section class="content-info">
+    <div class="container padding-top">
+      <div class="row portfolioContainer">
+        <app-ligue *ngFor="let ligue of ligues" class="col-md-3 col-lg-4 col-xl-3" [ligue]="ligue"></app-ligue>
+      </div>
+    </div>
+  </section>
+</div>

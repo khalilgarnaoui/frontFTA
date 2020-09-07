@@ -1,0 +1,22 @@
+[
+  {
+    "Catégorie": "Minime",
+    "Masculin": "5000m",
+    "Feminin": "3000m"
+  },
+  {
+    "Catégorie": "Cadet",
+    "Masculin": "10000m",
+    "Feminin": "5000m"
+  },
+  {
+    "Catégorie": "Junior",
+    "Masculin": "10000m",
+    "Feminin": "10000m"
+  },
+  {
+    "Catégorie": "Senior",
+    "Masculin": "10000m",
+    "Feminin": "10000m"
+  }
+]

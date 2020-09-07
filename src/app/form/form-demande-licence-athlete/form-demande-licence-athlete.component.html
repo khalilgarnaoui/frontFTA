@@ -1,0 +1,237 @@
+<app-heading></app-heading>
+<div class="container" align="center">
+    <div class="col-md-8">
+        <div class="titles no-margin">
+            <h4>Demande De Licence Athlete</h4>
+        </div>
+        <br>
+        <div class="info-panel">
+            <!-- Form Contact -->
+            <form [formGroup]="licenceAthleteForm" (submit)="onSubmit()" class="form-theme">
+                <div class="row">
+                    <div class="col-md-6">
+                        <label>Club *</label>
+                        <input
+                                type="text"
+                                class="form-control"
+                                formControlName="club"
+                        >
+                    </div>
+                    <div class="col-md-6">
+                        <label>Ligue *</label>
+                        <input
+                                type="text"
+                                class="form-control"
+                                formControlName="ligue"
+                        >
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <label>Nom *</label>
+                        <input
+                                type="text"
+                                class="form-control"
+                                formControlName="nom"
+                        >
+                    </div>
+                    <div class="col-md-6">
+                        <label>Prenom *</label>
+                        <input
+                                type="text"
+                                class="form-control"
+                                formControlName="prenom"
+                        >
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <label>Date De Naissance *</label>
+                        <input
+                                type="date"
+                                class="form-control"
+                                formControlName="dateNaissance"
+                        >
+                    </div>
+                    <div class="col-md-6">
+                        <label>Lieu *</label>
+                        <input
+                                type="text"
+                                class="form-control"
+                                formControlName="lieu"
+                        >
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <label>Poids *</label>
+                        <input
+                                type="number"
+                                class="form-control"
+                                formControlName="poids"
+                        >
+                    </div>
+                    <div class="col-md-6">
+                        <label>Taille *</label>
+                        <input
+                                type="number"
+                                class="form-control"
+                                formControlName="taille"
+                        >
+                    </div>
+                </div>
+                <br>
+                <div>
+                    <label align="center">Sexe *</label>
+                </div>
+                <br>
+                <div class="row">
+                    <div class="radio col-md-6" *ngFor="let sexe of sexes">
+                        <input
+                                type="radio"
+                                name="sexe"
+                                [value]="sexe"
+                                formControlName="sexe"
+                        > {{sexe}}
+                    </div>
+                </div>
+                <br>
+                <div class="row">
+                    <div class="col-md-12">
+                        <label>Nationalité</label>
+                        <input
+                                type="text"
+                                class="form-control"
+                                formControlName="nationalite"
+                        >
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <label>Categorie *</label>
+                        <input
+                                type="text"
+                                class="form-control"
+                                formControlName="categorie"
+                        >
+                    </div>
+                    <div class="col-md-6">
+                        <label>Num Ancienne Licence *</label>
+                        <input
+                                type="number"
+                                class="form-control"
+                                formControlName="numAncienneLicence"
+                        >
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <label>Adresse *</label>
+                        <input
+                                type="text"
+                                class="form-control"
+                                formControlName="adresse"
+                        >
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <label>Numero De Telephone *</label>
+                        <input
+                                type="number"
+                                class="form-control"
+                                formControlName="numTel"
+                        >
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <label>Photo *</label>
+                        <input
+                                type="file"
+                                class="form-control"
+                                name="photo"
+                                (change)="onImagePicked($event)"
+                        >
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <label>CIN *</label>
+                        <input
+                                type="file"
+                                class="form-control"
+                                name="cin"
+                                (change)="onImagePicked($event)"
+                        >
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <label>Justificatif de Paiement *</label>
+                        <input
+                                type="file"
+                                class="form-control"
+                                name="paiement"
+                                (change)="onImagePicked($event)"
+                        >
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <label>Certificat Médical *</label>
+                        <input
+                                type="file"
+                                class="form-control"
+                                name="certificat"
+                                (change)="onImagePicked($event)"
+                        >
+                    </div>
+                </div>
+                <br>
+                <div>
+                    <label align="center">Enregistrement ou Renouvellement *</label>
+                </div>
+                <br>
+                <div class="row">
+                    <div class="radio col-md-6" *ngFor="let type of types">
+                        <input
+                                type="radio"
+                                name="type"
+                                [value]="type"
+                                formControlName="type"
+                        > {{type}}
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <button
+                                type="submit"
+                                class="btn btn-lg btn-primary"
+                                [disabled]="!licenceAthleteForm.valid"
+                        >
+                            Envoyer
+                        </button>
+                    </div>
+                </div>
+            </form>
+            <!-- End Form Contact -->
+        </div>
+    </div>
+</div>
+<br>
+<br>
+<br>
+<app-nb [montant]="montant" [ext]="ext"></app-nb>
+<div class="container" align="center">
+    <div class="col-md-8">
+        <div class="titles no-margin">
+            <h4>+ Certificat medical d'aptitude de Sport (exemple)</h4>
+            <a href="assets/img/certificat.pdf" download>Telecharger le certificat</a>
+            <img src="assets/img/image_viber_2020-01-24_22-24-58.jpg">
+        </div>
+    </div>
+</div>
+<br>
+<br>
+<br>

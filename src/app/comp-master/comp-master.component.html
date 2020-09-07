@@ -1,0 +1,89 @@
+<!-- layout-->
+<div id="layout" >
+
+
+  <!-- Section Title -->
+  <div class="section-title" style="background:url(assets/img/slide/1.jpg)">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8">
+          <h1>Masters</h1>
+        </div>
+
+        <div class="col-md-4">
+          <div class="breadcrumbs">
+            <ul>
+              <li><a href="index.html">Home</a></li>
+              <li>Inner Page</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- End Section Title -->
+  <!-- Dark Home -->
+  <div class="col-xl-10 mx-auto col-md-12" style="padding-bottom: 150px">
+    <!-- Nav Tabs -->
+    <ul class="nav nav-tabs" id="myTab">
+      <li class="active" ><a href="#description" data-toggle="tab" >DESCRIPTION</a></li>
+      <li  ><a href="#masters" data-toggle="tab" >MASTERS</a></li>
+      <li><a href="#course" data-toggle="tab">COURSE SUR ROUTE</a></li>
+    </ul>
+    <!-- End Nav Tabs -->
+
+    <!-- Content Tabs -->
+    <div class="tab-content">
+      <!-- Tab One - Description -->
+      <div class="tab-pane active" id="description">
+        <div class="row">
+          <div class="col-md-4">
+            <img src="assets/img/competitions/IMG_1421.JPG" alt="" style="margin-top: 10px; height: 350px">
+          </div>
+
+          <div class="col-md-8">
+            <h1>Championnat méditerranéen d'athlétisme des Masters 2020 </h1>
+            <h5> << Plus vite, Plus fort, Plus profond >></h5>
+            <p class="lead" style="color: #0d0d0d">Près de 3000 spectateurs et invités vont assister à l'évènement qui regroupera 500 Master, représentant les pays africains et européens, participeront à Tunis , au mois d'octobre, à la 1ère édition des championnats méditerranéens Open d'athlétisme des masters.
+              Le stade de Rades sera le théâtre de cet évènement important.
+              Durant 4 jours le stade de Rades ne verra pas moins de 60 épreuves disputées par les masters de ces pays, dans une ambiance à la fois conviviale et rigoureuse.
+              Pas moins de 150 bénévoles sont mobilisés pour assurer le bon déroulement de l'évènement.</p>
+          </div>
+
+          <div class="container " align="center" style="padding-top: 70px">
+            <div class="row">
+              <div class="col-md-6" >
+                <h3>Nombre de Participants étrangers:</h3>
+                <h1><span class="counter">250</span></h1>
+                <i class="fa fa-users"></i>
+
+              </div>
+
+              <div class="col-md-6">
+                <h3>Nombre global de participants:</h3>
+                <h1><span class="counter">500</span></h1>
+                <i class="fa fa-users"></i>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- end Tab One - Description -->
+      <!-- Tab Theree - Course -->
+      <div class="tab-pane" id="course">
+        <app-coursemaster *ngFor="let course of courses" [course]="course"></app-coursemaster>
+      </div>
+      <!-- End Tab One - Course -->
+      <!-- Tab One - Masters -->
+      <div class="tab-pane" id="masters">
+        <app-calendriermaster *ngFor="let course of calendrier" [course]="course"></app-calendriermaster>
+      </div>
+      <!-- End Tab One - Masters -->
+    </div>
+    <!-- Content Tabs -->
+  </div>
+  <!-- Left Content - Tabs and Carousel -->
+
+</div>
+<!-- End layout-->
+

@@ -1,0 +1,18 @@
+[
+{
+	"annee": "2019/2020",
+	"calendrier": [{
+		"date": "09/02/2020",
+		"competition": "Championnat National de Cross (Master Mixte)",
+		"lieu": "Grombalia",
+		"organisateur": "FTA"
+	},
+	{
+		"date": "03-04-05/07/2020",
+		"competition": "Championnats Nationaux sur Piste",
+		"lieu": "Rades",
+		"organisateur": "FTA"
+	}
+	]
+}
+]

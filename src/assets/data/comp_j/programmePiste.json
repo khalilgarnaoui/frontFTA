@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "Catégorie": "Minimes",
+    "Filles": "80m – 150m – 600m – 2000m –  60m Haies - 200m Haies - 4x80m - Longueur – T.Saut - Hauteur – Perche – Poids - Disque - Javelot - Marteau",
+    "Garçons": "80m – 150m – 600m – 2000m –  60m Haies - 200m Haies- 4x80m- Longueur – T.Saut - Hauteur – Perche – Poids – Disque - Javelot - Marteau"
+  },
+  {
+    "id": 2,
+    "Catégorie": "Cadets",
+    "Filles": "100m - 200m - 400m - 800m - 1500m - 3000m - 100m Haies - 400m Haies - 2000m - Steeple - 4x100m – 4x400m – Longueur - Hauteur - Triple saut – Perche – Poids Disque – Javelot - Marteau",
+    "Garçons": "100m - 200m - 400m - 800m - 1500m - 3000m - 110m Haies - 400m Haies - 2000m Steeple - 4x100m - 4x400m - Longueur –Hauteur - Triple saut - Perche – Poids – Disque - Javelot - Marteau"
+  },
+  {
+    "id": 3,
+    "Catégorie": "Juniors",
+    "Filles": "100m - 200m - 400m - 800m - 1500m - 5000m - 100m Haies - 400m Haies - 3000m Steeple - 4x100m – 4x400m Longueur – Hauteur - Triple Saut – Perche - Poids – Disque – Javelot - Marteau",
+    "Garçons": "100m - 200m - 400m - 800m -1500m - 5000m - 110m Haies - 400m Haies - 3000m Steeple - 4x100m - 4x400m – Longueur - Hauteur - Triple Saut – Perche – Poids – Disque - Javelot - Marteau"
+  },
+  {
+    "id": 4,
+    "Catégorie": "Seniors",
+    "Filles": "100m-200m-400m-800m-1500m-5000m - 100m Haies - 400m Haies - 3000m Steeple - 4x100m - 4x400m - Longueur - Hauteur - Triple Saut – Perche - Poids - Disque - Javelot - Marteau",
+    "Garçons": "100m-200m-400m-800m-1500m-5000m - 110m Haies - 400m Haies - 3000m Steeple - 4x100m - 4x400m - Longueur - Hauteur - Triple Saut - Perche - Poids - Disque - Javelot - Marteau"
+  },
+  {
+    "id": 5,
+    "Catégorie": "Masters",
+    "Filles": "100m - 400m - 1500m - 5000m – Longueur - Poids – 4 x 100m Mixte",
+    "Garçons": "100m - 400m - 1500m - 5000m – Longueur - Poids – 4 x 100m Mixte"
+  }
+]

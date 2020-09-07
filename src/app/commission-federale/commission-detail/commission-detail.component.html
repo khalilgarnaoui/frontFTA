@@ -1,0 +1,18 @@
+<div>
+    <div class="image-flip">
+        <div class="mainflip">
+            <div class="frontside">
+                <div class="card" style="height: 350px;margin-top: 20px">
+                    <div class="card-body text-center">
+                        <p><img
+                                [src]="((commission.image)?(+commission.image):('assets/img/commissions/default.jpg'))">
+                        </p>
+                        <h4 class="card-title">{{commission.commission}}</h4>
+                        <p class="card-text" *ngIf="commission.name"> Président : {{commission.name}}</p>
+                        <p *ngIf="commission.email"><i class="fa fa-envelope-o"></i> Email : {{commission.email}}</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,44 @@
+[
+  {
+    "Horaire": "15:00",
+    "Courses": "5000m Marche Cad (F)",
+    "Lancers": "Javelot Décathlon Cad (G)",
+    "Sauts": ""
+  },
+  {
+    "Horaire": "15:45",
+    "Courses": "10000m Marche Cad (G)",
+    "Lancers": "Javelot Décathlon Jun (G) Sen (G)",
+    "Sauts": ""
+  },
+  {
+    "Horaire": "17:00",
+    "Courses": "800m Heptathlon Cad (F)",
+    "Lancers": "",
+    "Sauts": ""
+  },
+  {
+    "Horaire": "17:15",
+    "Courses": "800m Heptathlon Jun (F) + Sen (F)",
+    "Lancers": "",
+    "Sauts": ""
+  },
+  {
+    "Horaire": "17:30",
+    "Courses": "1500m Décathlon Cad (G)",
+    "Lancers": "",
+    "Sauts": ""
+  },
+  {
+    "Horaire": "17:45",
+    "Courses": "1500m Décathlon Jun (G)  + Sen (G)",
+    "Lancers": "",
+    "Sauts": ""
+  },
+  {
+    "Horaire": "18:00",
+    "Courses": "10000m Marche Jun (F) + Sen (F)",
+    "Lancers": "",
+    "Sauts": ""
+  }
+]

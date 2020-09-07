@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "Appel": "09:30",
+    "Depart": "10:00",
+    "Catégorie": "Minime F 2005/2006"
+  },
+  {
+    "id": 2,
+    "Appel": "09:50",
+    "Depart": "10:20",
+    "Catégorie": "Minime G 2005/2006"
+  },
+  {
+    "id": 3,
+    "Appel": "10:20",
+    "Depart": "10:50",
+    "Catégorie": "Cadette"
+  },
+  {
+    "id": 4,
+    "Appel": "10:50",
+    "Depart": "11:20",
+    "Catégorie": "Cadet"
+  },
+  {
+    "id": 5,
+    "Appel": "11:50",
+    "Depart": "12:20",
+    "Catégorie": "Junior G + Junior F"
+  },
+  {
+    "id": 6,
+    "Appel": "12:50",
+    "Depart": "13:20",
+    "Catégorie": "Senior H + Senior D"
+  }
+]

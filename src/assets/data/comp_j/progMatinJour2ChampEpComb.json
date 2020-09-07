@@ -1,0 +1,62 @@
+[
+  {
+    "Horaire": "08:30",
+    "Courses": "10000m marche jun (G) + Sen (G)",
+    "Lancers": "",
+    "Sauts": ""
+  },
+  {
+    "Horaire": "09:30",
+    "Courses": "110mH Décathlon Cad (G)",
+    "Lancers": "",
+    "Sauts": "Longueur Heptathlon Cad (F)"
+  },
+  {
+    "Horaire": "09:45",
+    "Courses": "110mH Decathlon Jun (G)",
+    "Lancers": "",
+    "Sauts": ""
+  },
+  {
+    "Horaire": "10:00",
+    "Courses": "110mH Decathlon Sen (G)",
+    "Lancers": "Disque Décathlon Cad (G)",
+    "Sauts": ""
+  },
+  {
+    "Horaire": "10:15",
+    "Courses": "",
+    "Lancers": "",
+    "Sauts": "Longueur Heptathlon Jun (F) + Sen (F)"
+  },
+  {
+    "Horaire": "10:30",
+    "Courses": "",
+    "Lancers": "",
+    "Sauts": ""
+  },
+  {
+    "Horaire": "10:45",
+    "Courses": "",
+    "Lancers": "Disque Décathlon Jun (G) + Sen (G)",
+    "Sauts": ""
+  },
+  {
+    "Horaire": "11:00",
+    "Courses": "",
+    "Lancers": "",
+    "Sauts": ""
+  },
+  {
+    "Horaire": "11:15",
+    "Courses": "",
+    "Lancers": "",
+    "Sauts": ""
+  },
+  {
+    "Horaire": "11:45",
+    "Courses": "",
+    "Lancers": "Javelot Heptathlon Cad (F) + Jun (F) + Sen (F)",
+    "Sauts": "Perche Décathlon Cad (G)  + Jun (G) + Sen (G)"
+  }
+]

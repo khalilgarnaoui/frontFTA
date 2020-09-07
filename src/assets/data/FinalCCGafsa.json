@@ -1,0 +1,4618 @@
+{
+  "SEM": [
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "KHALFI Tallel",
+      "CLUB": "CMAK1",
+      "CAT": "SE",
+      "SEXE": "M",
+      "Dossards": "877",
+      "PERF": "32,43",
+      "CLASS": "1"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "ZNAIDI Amar",
+      "CLUB": "ASMTunis1",
+      "CAT": "SE",
+      "SEXE": "M",
+      "Dossards": "917",
+      "PERF": "32,5",
+      "CLASS": "2"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "BEN OTHMEN Zied",
+      "CLUB": "ASMTunis1",
+      "CAT": "SE",
+      "SEXE": "M",
+      "Dossards": "821",
+      "PERF": "32,57",
+      "CLASS": "3"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "BOUBAKER Abderaouf",
+      "CLUB": "CSGN ",
+      "CAT": "SE",
+      "SEXE": "M",
+      "Dossards": "827",
+      "PERF": "32,57",
+      "CLASS": "4"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "ZAABOUTI Khalil",
+      "CLUB": "CSGN",
+      "CAT": "SE",
+      "SEXE": "M",
+      "Dossards": "914",
+      "PERF": "33,05",
+      "CLASS": "5"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "HACHANI Tarek",
+      "CLUB": "ASMTunis1",
+      "CAT": "SE",
+      "SEXE": "M",
+      "Dossards": "854",
+      "PERF": "33,11",
+      "CLASS": "6"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "HOSNI Wissem",
+      "CLUB": "CSGN",
+      "CAT": "SE",
+      "SEXE": "M",
+      "Dossards": "867",
+      "PERF": "33,18",
+      "CLASS": "7"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "JERBI Med Amine",
+      "CLUB": "ASMTunis1",
+      "CAT": "SE",
+      "SEXE": "M",
+      "Dossards": "901",
+      "PERF": "33,3",
+      "CLASS": "8"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "LAGHA Mosbah",
+      "CLUB": "CSGN",
+      "CAT": "SE",
+      "SEXE": "M",
+      "Dossards": "879",
+      "PERF": "33,36",
+      "CLASS": "9"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "HADEJI Adem",
+      "CLUB": "CMAK1",
+      "CAT": "SE",
+      "SEXE": "M",
+      "Dossards": "856",
+      "PERF": "33,42",
+      "CLASS": "10"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "yousfi rabii",
+      "CLUB": "CAMFJ",
+      "CAT": "SE",
+      "SEXE": "M",
+      "Dossards": "913",
+      "PERF": "33,46",
+      "CLASS": "12"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "SOLTANI Khalil ",
+      "CLUB": "ASMTunis1",
+      "CAT": "SE",
+      "SEXE": "M",
+      "Dossards": "906",
+      "PERF": "34,04",
+      "CLASS": "13"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "GEBELLI MOHAMED",
+      "CLUB": "ASMTunis1  ",
+      "CAT": "SE",
+      "SEXE": "M",
+      "Dossards": "849",
+      "PERF": "34,06",
+      "CLASS": "14"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "RARHAT Yousri",
+      "CLUB": "CSGN",
+      "CAT": "SE",
+      "SEXE": "M",
+      "Dossards": "920",
+      "PERF": "34,14",
+      "CLASS": "15"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "MEKNI ALAA",
+      "CLUB": "ASMFJ",
+      "CAT": "SE",
+      "SEXE": "M",
+      "Dossards": "888",
+      "PERF": "34,15",
+      "CLASS": "16"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": " BOUKHILI Wajdi",
+      "CLUB": "CAJend ",
+      "CAT": "SE",
+      "SEXE": "M",
+      "Dossards": "804",
+      "PERF": "34,16",
+      "CLASS": "17"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "SUISSI Nassim",
+      "CLUB": "ASMTunis2",
+      "CAT": "SE",
+      "SEXE": "M",
+      "Dossards": "909",
+      "PERF": "34,44",
+      "CLASS": "18"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "BOUGHDIRI Hamza",
+      "CLUB": "ASMTunis2",
+      "CAT": "SE",
+      "SEXE": "M",
+      "Dossards": "830",
+      "PERF": "35,14",
+      "CLASS": "19"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "LAKHDHER Oussama",
+      "CLUB": "CMAK1",
+      "CAT": "SE",
+      "SEXE": "M",
+      "Dossards": "881",
+      "PERF": "35,15",
+      "CLASS": "20"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "FADAOUI Faicel",
+      "CLUB": "CAGrombalia",
+      "CAT": "SE",
+      "SEXE": "M",
+      "Dossards": "844",
+      "PERF": "35,27",
+      "CLASS": "21"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "KADECHI Ali",
+      "CLUB": "CAFayedh",
+      "CAT": "SE",
+      "SEXE": "M",
+      "Dossards": "926",
+      "PERF": "35,3",
+      "CLASS": "22"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "SAIDI Sabeur",
+      "CLUB": "ASMBeja",
+      "CAT": "SE",
+      "SEXE": "M",
+      "Dossards": "903",
+      "PERF": "35,33",
+      "CLASS": "23"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "ALOUI Driss",
+      "CLUB": "ASMTunis2",
+      "CAT": "SE",
+      "SEXE": "M",
+      "Dossards": "808",
+      "PERF": "35,5",
+      "CLASS": "24"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "HAMDI AMIR",
+      "CLUB": "ASMFJ",
+      "CAT": "SE",
+      "SEXE": "M",
+      "Dossards": "860",
+      "PERF": "35,56",
+      "CLASS": "25"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "TAYARI Abderrazak",
+      "CLUB": "ASMTunis2",
+      "CAT": "SE",
+      "SEXE": "M",
+      "Dossards": "911",
+      "PERF": "36,04",
+      "CLASS": "26"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "TABABI ATEF",
+      "CLUB": "ASMFJ",
+      "CAT": "SE",
+      "SEXE": "M",
+      "Dossards": "910",
+      "PERF": "36,4",
+      "CLASS": "27"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": " BOUKHILI Omar",
+      "CLUB": "CAJend ",
+      "CAT": "SE",
+      "SEXE": "M",
+      "Dossards": "802",
+      "PERF": "36,51",
+      "CLASS": "28"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "REBHI KHALED",
+      "CLUB": "ASMTunis2",
+      "CAT": "SE",
+      "SEXE": "M",
+      "Dossards": "898",
+      "PERF": "37,11",
+      "CLASS": "29"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "BADRI Houcine",
+      "CLUB": "ASSBouz",
+      "CAT": "SE",
+      "SEXE": "M",
+      "Dossards": "921",
+      "PERF": "37,17",
+      "CLASS": "30"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "CHAABAN Med Amine",
+      "CLUB": "CMAK1",
+      "CAT": "SE",
+      "SEXE": "M",
+      "Dossards": "832",
+      "PERF": "37,19",
+      "CLASS": "31"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "BENNASSER Adem",
+      "CLUB": "CAGrombalia",
+      "CAT": "SE",
+      "SEXE": "M",
+      "Dossards": "825",
+      "PERF": "37,29",
+      "CLASS": "32"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "Zgoulli Achref",
+      "CLUB": "cak",
+      "CAT": "SE",
+      "SEXE": "M",
+      "Dossards": "123",
+      "PERF": "37,39",
+      "CLASS": "33"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "BRAHMI Majdi",
+      "CLUB": "ASSBouz",
+      "CAT": "SE",
+      "SEXE": "M",
+      "Dossards": "924",
+      "PERF": "37,45",
+      "CLASS": "34"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "ZARROUG Sabri  ",
+      "CLUB": "CMAK1",
+      "CAT": "SE",
+      "SEXE": "M",
+      "Dossards": "916",
+      "PERF": "37,48",
+      "CLASS": "35"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "AZREK DHIA",
+      "CLUB": "ASMFJ",
+      "CAT": "SE",
+      "SEXE": "M",
+      "Dossards": "813",
+      "PERF": "37,49",
+      "CLASS": "36"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "Siidi abbes",
+      "CLUB": "Fayeth",
+      "CAT": "SE",
+      "SEXE": "M",
+      "Dossards": "905",
+      "PERF": "38,04",
+      "CLASS": "37"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "SHILI Thameur",
+      "CLUB": "CAGrombalia",
+      "CAT": "SE",
+      "SEXE": "M",
+      "Dossards": "997",
+      "PERF": "38,06",
+      "CLASS": "38"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "ben saiida nijed",
+      "CLUB": "OSTozeur",
+      "CAT": "SE",
+      "SEXE": "M",
+      "Dossards": "822",
+      "PERF": "38,07",
+      "CLASS": "39"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "SRIOUI Motaz",
+      "CLUB": "CAGrombalia",
+      "CAT": "SE",
+      "SEXE": "M",
+      "Dossards": "998",
+      "PERF": "38,23",
+      "CLASS": "40"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "MAARFI Naji",
+      "CLUB": "CAGrombalia",
+      "CAT": "SE",
+      "SEXE": "M",
+      "Dossards": "883",
+      "PERF": "38,49",
+      "CLASS": "41"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "CHERNI Hassen",
+      "CLUB": "CIOK",
+      "CAT": "SE",
+      "SEXE": "M",
+      "Dossards": "837",
+      "PERF": "38,5",
+      "CLASS": "42"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "Naffati Foued",
+      "CLUB": "CAGrombalia",
+      "CAT": "SE",
+      "SEXE": "M",
+      "Dossards": "892",
+      "PERF": "38,57",
+      "CLASS": "43"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "AYACHI Sami",
+      "CLUB": "ASMKair",
+      "CAT": "SE",
+      "SEXE": "M",
+      "Dossards": "812",
+      "PERF": "39,04",
+      "CLASS": "44"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "ILAHI Hamza",
+      "CLUB": "ASMKair",
+      "CAT": "SE",
+      "SEXE": "M",
+      "Dossards": "869",
+      "PERF": "39,18",
+      "CLASS": "45"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "SAIDI Oussama",
+      "CLUB": "ASMKair",
+      "CAT": "SE",
+      "SEXE": "M",
+      "Dossards": "902",
+      "PERF": "39,3",
+      "CLASS": "46"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "Hafsawi Jalel",
+      "CLUB": "ASMSO",
+      "CAT": "SE",
+      "SEXE": "M",
+      "Dossards": "857",
+      "PERF": "39,31",
+      "CLASS": "47"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "MISSAOUI OUSSAMA",
+      "CLUB": "ASMFJ",
+      "CAT": "SE",
+      "SEXE": "M",
+      "Dossards": "890",
+      "PERF": "39,32",
+      "CLASS": "48"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "AMARA Jael",
+      "CLUB": "ASSBouz",
+      "CAT": "SE",
+      "SEXE": "M",
+      "Dossards": "922",
+      "PERF": "39,32",
+      "CLASS": "49"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": " KHALFAOUI Alaeddine",
+      "CLUB": "CAJend ",
+      "CAT": "SE",
+      "SEXE": "M",
+      "Dossards": "806",
+      "PERF": "39,33",
+      "CLASS": "50"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "SAIDANI Chaker",
+      "CLUB": "ASMKair",
+      "CAT": "SE",
+      "SEXE": "M",
+      "Dossards": "900",
+      "PERF": "39,34",
+      "CLASS": "51"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": " AYADI Abderrahmen",
+      "CLUB": "CAJend ",
+      "CAT": "SE",
+      "SEXE": "M",
+      "Dossards": "801",
+      "PERF": "40,02",
+      "CLASS": "52"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "BOUELLEGUI Ghazi",
+      "CLUB": "ASSBouz",
+      "CAT": "SE",
+      "SEXE": "M",
+      "Dossards": "923",
+      "PERF": "40,23",
+      "CLASS": "53"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": " ALOUI Firas",
+      "CLUB": "CAJend ",
+      "CAT": "SE",
+      "SEXE": "M",
+      "Dossards": "800",
+      "PERF": "40,51",
+      "CLASS": "54"
+    }
+  ],
+  "SEF": [
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "MARWA Bouzayani",
+      "CLUB": "CSRegueb",
+      "CAT": "SE",
+      "SEXE": "F",
+      "Dossards": "706",
+      "PERF": "26,25",
+      "CLASS": "1"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "HAMDI Hela",
+      "CLUB": "CAFayedh",
+      "CAT": "SE",
+      "SEXE": "F",
+      "Dossards": "728",
+      "PERF": "27,09",
+      "CLASS": "2"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "TARCHOUNE Haifa",
+      "CLUB": "CSGN 1",
+      "CAT": "SE",
+      "SEXE": "F",
+      "Dossards": "9",
+      "PERF": "27,36",
+      "CLASS": "3"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "DHAHRI Soumaya",
+      "CLUB": "ASMTunis",
+      "CAT": "SE",
+      "SEXE": "F",
+      "Dossards": "695",
+      "PERF": "28,10",
+      "CLASS": "4"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "REZGUI Yesmine",
+      "CLUB": "CSGN 1",
+      "CAT": "SE",
+      "SEXE": "F",
+      "Dossards": "5",
+      "PERF": "28,46",
+      "CLASS": "5"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "MEJRI  Sirine",
+      "CLUB": "CSGN 1",
+      "CAT": "SE",
+      "SEXE": "F",
+      "Dossards": "4",
+      "PERF": "29,36",
+      "CLASS": "6"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "HOUAS Rania",
+      "CLUB": "CSGN 2",
+      "CAT": "SE",
+      "SEXE": "F",
+      "Dossards": "2",
+      "PERF": "29,42",
+      "CLASS": "7"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "JALLALI Abir",
+      "CLUB": "CSGN 2",
+      "CAT": "SE",
+      "SEXE": "F",
+      "Dossards": "3",
+      "PERF": "29,52",
+      "CLASS": "8"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "ZAIRI Marwa",
+      "CLUB": "CMAK",
+      "CAT": "SE",
+      "SEXE": "F",
+      "Dossards": "715",
+      "PERF": "29,58",
+      "CLASS": "9"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "CHOUAYA Najah",
+      "CLUB": "CSGN 2",
+      "CAT": "SE",
+      "SEXE": "F",
+      "Dossards": "1",
+      "PERF": "30,01",
+      "CLASS": "10"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "ABD ENNEBI RAFIKA",
+      "CLUB": "ASMTunis",
+      "CAT": "SE",
+      "SEXE": "F",
+      "Dossards": "690",
+      "PERF": "30,10",
+      "CLASS": "11"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "NASRI  Chahinez  ",
+      "CLUB": "CSGN 2",
+      "CAT": "SE",
+      "SEXE": "F",
+      "Dossards": "7",
+      "PERF": "30,28",
+      "CLASS": "12"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "GAMOUN Emna",
+      "CLUB": "CMAK",
+      "CAT": "SE",
+      "SEXE": "F",
+      "Dossards": "696",
+      "PERF": "31,20",
+      "CLASS": "13"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "SLIMENI Rim",
+      "CLUB": "CSGN 1",
+      "CAT": "SE",
+      "SEXE": "F",
+      "Dossards": "6",
+      "PERF": "31,41",
+      "CLASS": "14"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "TLILI Maram  ",
+      "CLUB": "CSGN 2",
+      "CAT": "SE",
+      "SEXE": "F",
+      "Dossards": "8",
+      "PERF": "32,09",
+      "CLASS": "15"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "HAMMOUDA THEKRA",
+      "CLUB": "ASMTunis",
+      "CAT": "SE",
+      "SEXE": "F",
+      "Dossards": "700",
+      "PERF": "32,48",
+      "CLASS": "16"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "HKIMI Sabrine",
+      "CLUB": "ASMFJ",
+      "CAT": "SE",
+      "SEXE": "F",
+      "Dossards": "833",
+      "PERF": "33,25",
+      "CLASS": "17"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "WATHEK imen",
+      "CLUB": "StCNabeul",
+      "CAT": "SE",
+      "SEXE": "F",
+      "Dossards": "714",
+      "PERF": "33,41",
+      "CLASS": "18"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "OMRI Fatma",
+      "CLUB": "CSRegueb",
+      "CAT": "SE",
+      "SEXE": "F",
+      "Dossards": "951",
+      "PERF": "34,39",
+      "CLASS": "19"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "ZOUAOUI Ghofrane",
+      "CLUB": "ASMTunis",
+      "CAT": "SE",
+      "SEXE": "F",
+      "Dossards": "716",
+      "PERF": "35,35",
+      "CLASS": "20"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "FELHI Amal",
+      "CLUB": "CSRegueb",
+      "CAT": "SE",
+      "SEXE": "F",
+      "Dossards": "952",
+      "PERF": "35,56",
+      "CLASS": "21"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "DHAHRI Oumaima",
+      "CLUB": "CMAK",
+      "CAT": "SE",
+      "SEXE": "F",
+      "Dossards": "694",
+      "PERF": "36,13",
+      "CLASS": "22"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "DHIFI Hayet",
+      "CLUB": "CSRegueb",
+      "CAT": "SE",
+      "SEXE": "F",
+      "Dossards": "173",
+      "PERF": "36,55",
+      "CLASS": "23"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "GHOMRI Aya",
+      "CLUB": "StCNabeul",
+      "CAT": "SE",
+      "SEXE": "F",
+      "Dossards": "119",
+      "PERF": "37,51",
+      "CLASS": "24"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "TRABELSI Jannet",
+      "CLUB": "StCNabeul",
+      "CAT": "SE",
+      "SEXE": "F",
+      "Dossards": "120",
+      "PERF": "41,39",
+      "CLASS": "25"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "WATHEK Imen",
+      "CLUB": "StCNabeul",
+      "CAT": "SE",
+      "SEXE": "F",
+      "Dossards": "713",
+      "PERF": "43,03",
+      "CLASS": "26"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "SAYARI Rahma",
+      "CLUB": "CMAK",
+      "CAT": "SE",
+      "SEXE": "F",
+      "Dossards": "719",
+      "PERF": "43,23",
+      "CLASS": "27"
+    }
+  ],
+  "JUF": [
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "BELHEDIF Tasnime",
+      "CLUB": "ASSBouz",
+      "CAT": "JU",
+      "SEXE": "F",
+      "Dossards": "544",
+      "PERF": "19,05",
+      "CLASS": "1"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "BAHIJA Omri",
+      "CLUB": "CSRegueb",
+      "CAT": "JU",
+      "SEXE": "F",
+      "Dossards": "20",
+      "PERF": "19,33",
+      "CLASS": "2"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "AMRAOUI SIRINE ",
+      "CLUB": "COSB",
+      "CAT": "JU",
+      "SEXE": "F",
+      "Dossards": "561",
+      "PERF": "19,52",
+      "CLASS": "3"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "MOKNI Marwa",
+      "CLUB": "CMAK",
+      "CAT": "JU",
+      "SEXE": "F",
+      "Dossards": "552",
+      "PERF": "20,18",
+      "CLASS": "4"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "MOKNI Safa",
+      "CLUB": "CMAK",
+      "CAT": "JU",
+      "SEXE": "F",
+      "Dossards": "557",
+      "PERF": "20,30",
+      "CLASS": "5"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "HAJJI Sana",
+      "CLUB": "ASSBouz",
+      "CAT": "JU",
+      "SEXE": "F",
+      "Dossards": "545",
+      "PERF": "20,47",
+      "CLASS": "6"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "BOUGHANMI Marwa",
+      "CLUB": "CIOK",
+      "CAT": "JU",
+      "SEXE": "F",
+      "Dossards": "551",
+      "PERF": "21,03",
+      "CLASS": "7"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "MANNAII Chaima",
+      "CLUB": "CMAK",
+      "CAT": "JU",
+      "SEXE": "F",
+      "Dossards": "553",
+      "PERF": "21,04",
+      "CLASS": "8"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "Kadri Maissa",
+      "CLUB": "CSGN",
+      "CAT": "JU",
+      "SEXE": "F",
+      "Dossards": "563",
+      "PERF": "21,08",
+      "CLASS": "9"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "ZAGHMI Jamila",
+      "CLUB": "ACAkouda",
+      "CAT": "JU",
+      "SEXE": "F",
+      "Dossards": "520",
+      "PERF": "21,16",
+      "CLASS": "10"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "BOUZID Rihem",
+      "CLUB": "CSGN",
+      "CAT": "JU",
+      "SEXE": "F",
+      "Dossards": "562",
+      "PERF": "21,25",
+      "CLASS": "11"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "DOUZI Intissar",
+      "CLUB": "StCNabeul",
+      "CAT": "JU",
+      "SEXE": "F",
+      "Dossards": "581",
+      "PERF": "21,51",
+      "CLASS": "12"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "MAHFOUDHI Eya",
+      "CLUB": "SyrasAC",
+      "CAT": "JU",
+      "SEXE": "F",
+      "Dossards": "535",
+      "PERF": "21,53",
+      "CLASS": "13"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "ARIDHI Eya",
+      "CLUB": "CSGN",
+      "CAT": "JU",
+      "SEXE": "F",
+      "Dossards": "564",
+      "PERF": "22,10",
+      "CLASS": "14"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "ZARROUG Zoubaida",
+      "CLUB": "CMAK",
+      "CAT": "JU",
+      "SEXE": "F",
+      "Dossards": "555",
+      "PERF": "22,46",
+      "CLASS": "15"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "MTAWAA Manel",
+      "CLUB": "StCNabeul",
+      "CAT": "JU",
+      "SEXE": "F",
+      "Dossards": "582",
+      "PERF": "22,49",
+      "CLASS": "16"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "AYADI Waad",
+      "CLUB": "CAJendouba",
+      "CAT": "JU",
+      "SEXE": "F",
+      "Dossards": "549",
+      "PERF": "23,10",
+      "CLASS": "17"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "GMATI Maram",
+      "CLUB": "ASFSomaa",
+      "CAT": "JU",
+      "SEXE": "F",
+      "Dossards": "19",
+      "PERF": "23,12",
+      "CLASS": "18"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "BELWAFI Dalenda  ",
+      "CLUB": "CSSfaxien",
+      "CAT": "JU",
+      "SEXE": "F",
+      "Dossards": "569",
+      "PERF": "23,13",
+      "CLASS": "19"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "SELMI CHAIMA",
+      "CLUB": "CSGN",
+      "CAT": "JU",
+      "SEXE": "F",
+      "Dossards": "565",
+      "PERF": "23,14",
+      "CLASS": "20"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "DHOUIBI Oumaima",
+      "CLUB": "CMAK",
+      "CAT": "JU",
+      "SEXE": "F",
+      "Dossards": "558",
+      "PERF": "23,20",
+      "CLASS": "21"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "KTATA Sirine ",
+      "CLUB": "CSSfaxien",
+      "CAT": "JU",
+      "SEXE": "F",
+      "Dossards": "571",
+      "PERF": "23,55",
+      "CLASS": "22"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "MDINI Oumaima",
+      "CLUB": "ASMBeja",
+      "CAT": "JU",
+      "SEXE": "F",
+      "Dossards": "542",
+      "PERF": "24,00",
+      "CLASS": "23"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "BIN THABIT Chaima",
+      "CLUB": "StCNabeul",
+      "CAT": "JU",
+      "SEXE": "F",
+      "Dossards": "583",
+      "PERF": "24,05",
+      "CLASS": "24"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "SEBTI Ghaida",
+      "CLUB": "ASSBouz",
+      "CAT": "JU",
+      "SEXE": "F",
+      "Dossards": "547",
+      "PERF": "24,10",
+      "CLASS": "25"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "JABRI Islem",
+      "CLUB": "ASMBeja",
+      "CAT": "JU",
+      "SEXE": "F",
+      "Dossards": "543",
+      "PERF": "24,26",
+      "CLASS": "26"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "MANNAII Ameni",
+      "CLUB": "CMAK",
+      "CAT": "JU",
+      "SEXE": "F",
+      "Dossards": "556",
+      "PERF": "24,55",
+      "CLASS": "27"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "DARBELI Emna",
+      "CLUB": "ASSBouz",
+      "CAT": "JU",
+      "SEXE": "F",
+      "Dossards": "546",
+      "PERF": "25,10",
+      "CLASS": "28"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "YAHIA Maissa  ",
+      "CLUB": "CSSfaxien",
+      "CAT": "JU",
+      "SEXE": "F",
+      "Dossards": "570",
+      "PERF": "25,20",
+      "CLASS": "29"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "ELKOURI Fatma  ",
+      "CLUB": "CSSfaxien",
+      "CAT": "JU",
+      "SEXE": "F",
+      "Dossards": "572",
+      "PERF": "25,32",
+      "CLASS": "30"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "ALOUI Narimene",
+      "CLUB": "ASSBouz",
+      "CAT": "JU",
+      "SEXE": "F",
+      "Dossards": "548",
+      "PERF": "25,44",
+      "CLASS": "31"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "SELAWI Soulaima",
+      "CLUB": "StCNabeul",
+      "CAT": "JU",
+      "SEXE": "F",
+      "Dossards": "584",
+      "PERF": "26,27",
+      "CLASS": "32"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "HKLIFA SOUROUR",
+      "CLUB": "ASSBouz",
+      "CAT": "JU",
+      "SEXE": "F",
+      "Dossards": "395",
+      "PERF": "26,42",
+      "CLASS": "33"
+    }
+  ],
+  "JUM": [
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "JRIDI Brahim",
+      "CLUB": "CMAK",
+      "CAT": "JU",
+      "SEXE": "M",
+      "Dossards": "636",
+      "PERF": " ",
+      "CLASS": "1"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "CHARGUI Houssem",
+      "CLUB": "CSGN",
+      "CAT": "JU",
+      "SEXE": "M",
+      "Dossards": "615",
+      "PERF": " ",
+      "CLASS": "2"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "SLIMENI Oussama",
+      "CLUB": "ASSBouzid",
+      "CAT": "JU",
+      "SEXE": "M",
+      "Dossards": "664",
+      "PERF": " ",
+      "CLASS": "3"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "JDAY Aziz",
+      "CLUB": "CSGN",
+      "CAT": "JU",
+      "SEXE": "M",
+      "Dossards": "632",
+      "PERF": " ",
+      "CLASS": "4"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "OULED AHMED Wissem",
+      "CLUB": "ASSBouzid",
+      "CAT": "JU",
+      "SEXE": "M",
+      "Dossards": "661",
+      "PERF": " ",
+      "CLASS": "5"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "GUEDRI Yassine",
+      "CLUB": "ASSBouzid",
+      "CAT": "JU",
+      "SEXE": "M",
+      "Dossards": "623",
+      "PERF": " ",
+      "CLASS": "6"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "DIBER Nadhmi",
+      "CLUB": "ZitounaSport",
+      "CAT": "JU",
+      "SEXE": "M",
+      "Dossards": "620",
+      "PERF": " ",
+      "CLASS": "7"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "GOUISSEM Med Amine",
+      "CLUB": "CSGN",
+      "CAT": "JU",
+      "SEXE": "M",
+      "Dossards": "622",
+      "PERF": " ",
+      "CLASS": "8"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "MAAMER  Rayane",
+      "CLUB": "ASZJdidi",
+      "CAT": "JU",
+      "SEXE": "M",
+      "Dossards": "642",
+      "PERF": " ",
+      "CLASS": "9"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "NCIBI Med",
+      "CLUB": "CMAK",
+      "CAT": "JU",
+      "SEXE": "M",
+      "Dossards": "655",
+      "PERF": " ",
+      "CLASS": "10"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "BEN AMMAR Ghaith",
+      "CLUB": "CSMChak",
+      "CAT": "JU",
+      "SEXE": "M",
+      "Dossards": "608",
+      "PERF": " ",
+      "CLASS": "11"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "JDAY Med Amine",
+      "CLUB": "CMAK",
+      "CAT": "JU",
+      "SEXE": "M",
+      "Dossards": "633",
+      "PERF": " ",
+      "CLASS": "12"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "YAZIDI Abdelwahab",
+      "CLUB": "ASZJdidi",
+      "CAT": "JU",
+      "SEXE": "M",
+      "Dossards": "670",
+      "PERF": " ",
+      "CLASS": "13"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "BEN Ahmed Adem",
+      "CLUB": "CSGN",
+      "CAT": "JU",
+      "SEXE": "M",
+      "Dossards": "607",
+      "PERF": " ",
+      "CLASS": "14"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "MANNAI Sanad",
+      "CLUB": "ASMTunis",
+      "CAT": "JU",
+      "SEXE": "M",
+      "Dossards": "645",
+      "PERF": " ",
+      "CLASS": "15"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "HAMMAMI Omar",
+      "CLUB": "ASMFJ",
+      "CAT": "JU",
+      "SEXE": "M",
+      "Dossards": "626",
+      "PERF": " ",
+      "CLASS": "16"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "TLILI Sami",
+      "CLUB": "ASSBouzid",
+      "CAT": "JU",
+      "SEXE": "M",
+      "Dossards": "669",
+      "PERF": " ",
+      "CLASS": "17"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "HAZEM BIUKHSER",
+      "CLUB": "CAK ",
+      "CAT": "JU",
+      "SEXE": "M",
+      "Dossards": "628",
+      "PERF": " ",
+      "CLASS": "18"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "LAARIBI Raed",
+      "CLUB": "CSGN",
+      "CAT": "JU",
+      "SEXE": "M",
+      "Dossards": "639",
+      "PERF": " ",
+      "CLASS": "19"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "ADDAMI Mouheb",
+      "CLUB": "CMAK",
+      "CAT": "JU",
+      "SEXE": "M",
+      "Dossards": "692",
+      "PERF": " ",
+      "CLASS": "20"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "ghouili ghassen",
+      "CLUB": "CAGrombalia",
+      "CAT": "JU",
+      "SEXE": "M",
+      "Dossards": "621",
+      "PERF": " ",
+      "CLASS": "21"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "BEN GHZAYEL Achref",
+      "CLUB": "ASMarsa",
+      "CAT": "JU",
+      "SEXE": "M",
+      "Dossards": "609",
+      "PERF": " ",
+      "CLASS": "22"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "DARDOURI Omar",
+      "CLUB": "ACAkouda",
+      "CAT": "JU",
+      "SEXE": "M",
+      "Dossards": "617",
+      "PERF": " ",
+      "CLASS": "23"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "BEN SALEM Saif",
+      "CLUB": "ASZJdidi",
+      "CAT": "JU",
+      "SEXE": "M",
+      "Dossards": "610",
+      "PERF": " ",
+      "CLASS": "24"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "DAOUED Youssef",
+      "CLUB": "CMAK",
+      "CAT": "JU",
+      "SEXE": "M",
+      "Dossards": "616",
+      "PERF": " ",
+      "CLASS": "25"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "ZOMMIT Talel",
+      "CLUB": "ACAkouda",
+      "CAT": "JU",
+      "SEXE": "M",
+      "Dossards": "674",
+      "PERF": " ",
+      "CLASS": "26"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "AYADI Tarek",
+      "CLUB": "CSRegueb",
+      "CAT": "JU",
+      "SEXE": "M",
+      "Dossards": "141",
+      "PERF": " ",
+      "CLASS": "27"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "TARAWIT Wassime",
+      "CLUB": "CAK ",
+      "CAT": "JU",
+      "SEXE": "M",
+      "Dossards": "668",
+      "PERF": " ",
+      "CLASS": "28"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "MAAROUFI Badis",
+      "CLUB": "ASMJend  ",
+      "CAT": "JU",
+      "SEXE": "M",
+      "Dossards": "643",
+      "PERF": " ",
+      "CLASS": "29"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "CHAMAM Haythem",
+      "CLUB": "ASZJdidi",
+      "CAT": "JU",
+      "SEXE": "M",
+      "Dossards": "122",
+      "PERF": " ",
+      "CLASS": "30"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "MEJRI Ghassen",
+      "CLUB": "ASMJend  ",
+      "CAT": "JU",
+      "SEXE": "M",
+      "Dossards": "652",
+      "PERF": " ",
+      "CLASS": "31"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "HAMDI Malek",
+      "CLUB": "ASMBeja",
+      "CAT": "JU",
+      "SEXE": "M",
+      "Dossards": "625",
+      "PERF": " ",
+      "CLASS": "32"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "GHRAIRI Moez",
+      "CLUB": "CIOK",
+      "CAT": "JU",
+      "SEXE": "M",
+      "Dossards": "773",
+      "PERF": " ",
+      "CLASS": "33"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "YOUSSFI Oussama",
+      "CLUB": "COSB ",
+      "CAT": "JU",
+      "SEXE": "M",
+      "Dossards": "683",
+      "PERF": " ",
+      "CLASS": "34"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "TLILI Chiheb",
+      "CLUB": "CIOK",
+      "CAT": "JU",
+      "SEXE": "M",
+      "Dossards": "771",
+      "PERF": " ",
+      "CLASS": "35"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "TLILI MJAHED",
+      "CLUB": "CIOK",
+      "CAT": "JU",
+      "SEXE": "M",
+      "Dossards": "772",
+      "PERF": " ",
+      "CLASS": "36"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "OULED AHMED Amine",
+      "CLUB": "ASSBouzid",
+      "CAT": "JU",
+      "SEXE": "M",
+      "Dossards": "660",
+      "PERF": " ",
+      "CLASS": "37"
+    }
+  ],
+  "CAM": [
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "JDIDI Fedi",
+      "CLUB": "ASSBouzid ",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "935",
+      "PERF": "16,27",
+      "CLASS": "1"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "MHAMDI Koussey ",
+      "CLUB": "COSB ",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "979",
+      "PERF": "16,43",
+      "CLASS": "2"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "ZINOUBI Sabeur",
+      "CLUB": "ASSBouzid ",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "907",
+      "PERF": "16,44",
+      "CLASS": "3"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "ARFAOUI MedAmine",
+      "CLUB": "ISSEP KEF 1",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "789",
+      "PERF": "16,52",
+      "CLASS": "4"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "SALEM Malek",
+      "CLUB": "ASSBouzid ",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "908",
+      "PERF": "16,53",
+      "CLASS": "5"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "MBAREK Jed",
+      "CLUB": "RiheneGafsa",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "785",
+      "PERF": "17,04",
+      "CLASS": "6"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "ZAIRI Med",
+      "CLUB": "CMAK",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "970",
+      "PERF": "17,05",
+      "CLASS": "7"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "CHNINI Skender",
+      "CLUB": "CAGALLEL",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "949",
+      "PERF": "17,06",
+      "CLASS": "8"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "CHERNI Raed",
+      "CLUB": "ISSEP KEF 1",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "794",
+      "PERF": "17,10",
+      "CLASS": "9"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "ZAWECH Mootez",
+      "CLUB": "ASZJdidi",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "937",
+      "PERF": "17,11",
+      "CLASS": "10"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "BDIOUI Med Aziz",
+      "CLUB": "ISSEP KEF 1",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "790",
+      "PERF": "17,12",
+      "CLASS": "11"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "KADECHI Med Ayoub",
+      "CLUB": "COSB ",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "984",
+      "PERF": "17,15",
+      "CLASS": "12"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "ISSAOUI Sofiene",
+      "CLUB": "ASSBouzid ",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "930",
+      "PERF": "17,19",
+      "CLASS": "13"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "BRAHMI Wathik",
+      "CLUB": "ASSBouzid ",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "933",
+      "PERF": "17,20",
+      "CLASS": "14"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "SLIMENI Med Amine",
+      "CLUB": "COSB ",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "976",
+      "PERF": "17,28",
+      "CLASS": "15"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "HAMMAMI Hafedh",
+      "CLUB": "ASMFJ",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "855",
+      "PERF": "17,30",
+      "CLASS": "16"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "YAHYAOUI Med Amine",
+      "CLUB": "ISSEP KEF 1",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "796",
+      "PERF": "17,32",
+      "CLASS": "17"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "ABDESSALEM Amir",
+      "CLUB": "CSGN",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "989",
+      "PERF": "17,33",
+      "CLASS": "18"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "GHNIMI Amine",
+      "CLUB": "COSB ",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "982",
+      "PERF": "17,36",
+      "CLASS": "19"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "JELLITI Helmi",
+      "CLUB": "CMAK",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "974",
+      "PERF": "17,39",
+      "CLASS": "20"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "ABDOULI Koussay",
+      "CLUB": "ASSBouzid ",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "934",
+      "PERF": "17,40",
+      "CLASS": "21"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "GASMI Med Amine",
+      "CLUB": "CIOK",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "966",
+      "PERF": "17,45",
+      "CLASS": "22"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "CHIKHAOUI Ahmed",
+      "CLUB": "CSGN",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "986",
+      "PERF": "17,46",
+      "CLASS": "23"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "AMRI  Slim",
+      "CLUB": "ASTouiref",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "936",
+      "PERF": "17,48",
+      "CLASS": "24"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "ZAIRI Anis",
+      "CLUB": "COSB ",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "981",
+      "PERF": "17,50",
+      "CLASS": "25"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "SOUISSI Koussay",
+      "CLUB": "ACN",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "816",
+      "PERF": "17,52",
+      "CLASS": "26"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "BARHOUMI Koussay",
+      "CLUB": "SyrasAC",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "717",
+      "PERF": "17,55",
+      "CLASS": "27"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "ZIDI Zinifine",
+      "CLUB": " CAFayedh",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "948",
+      "PERF": "17,57",
+      "CLASS": "28"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "BAKOUCH Louay",
+      "CLUB": "CSGN",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "987",
+      "PERF": "18,00",
+      "CLASS": "29"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "SLIMI Jasser",
+      "CLUB": "CSRegueb",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "163",
+      "PERF": "18,06",
+      "CLASS": "30"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "HAJRI Yassine",
+      "CLUB": "CMAK",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "975",
+      "PERF": "18,07",
+      "CLASS": "31"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "KAABI Omar",
+      "CLUB": "CMAK",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "973",
+      "PERF": "18,10",
+      "CLASS": "32"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "ZIDI Rayan",
+      "CLUB": "CIOK",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "964",
+      "PERF": "18,11",
+      "CLASS": "33"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "TIBI ZINEDDINE",
+      "CLUB": " CAFayedh",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "942",
+      "PERF": "18,12",
+      "CLASS": "34"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "CHABCHOUB Yassine",
+      "CLUB": "CSSFaxien",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "995",
+      "PERF": "18,14",
+      "CLASS": "35"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "GUIZANI Walid",
+      "CLUB": "ASSBouzid ",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "931",
+      "PERF": "18,15",
+      "CLASS": "36"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "HAMMAMI Raslene",
+      "CLUB": "CSSFaxien",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "992",
+      "PERF": "18,16",
+      "CLASS": "37"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "ARFAOUI Med ",
+      "CLUB": "ISSEP KEF 2",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "153",
+      "PERF": "18,17",
+      "CLASS": "38"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "AYOUNI Hamdi",
+      "CLUB": "CSRegueb",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "162",
+      "PERF": "18,22",
+      "CLASS": "39"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "JENDOUBI Alaedine",
+      "CLUB": "CIOK",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "965",
+      "PERF": "18,32",
+      "CLASS": "40"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "MUFTAH Nabi",
+      "CLUB": "CSGN",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "985",
+      "PERF": "18,34",
+      "CLASS": "41"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "ROMDHANI Dhia",
+      "CLUB": "CMAK",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "971",
+      "PERF": "18,35",
+      "CLASS": "42"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "JRAD Ayoub  ",
+      "CLUB": "CSSFaxien",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "991",
+      "PERF": "18,37",
+      "CLASS": "43"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "CHERNI Chiheb",
+      "CLUB": "ISSEP KEF 2",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "155",
+      "PERF": "18,42",
+      "CLASS": "44"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "ABBES Sofiene",
+      "CLUB": "CSGN",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "990",
+      "PERF": "18,45",
+      "CLASS": "45"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "ALOUI Obaid",
+      "CLUB": "ISSEP KEF 2",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "174",
+      "PERF": "18,46",
+      "CLASS": "46"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "AMRI Amine",
+      "CLUB": "ASMBeja",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "850",
+      "PERF": "18,50",
+      "CLASS": "47"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "KADER Khaled",
+      "CLUB": "ISSEP KEF 1",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "798",
+      "PERF": "19,02",
+      "CLASS": "48"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "AZAYEZ Med",
+      "CLUB": "ASZJdidi",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "941",
+      "PERF": "19,05",
+      "CLASS": "49"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "SLIMENI  Houssem",
+      "CLUB": "COSB ",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "978",
+      "PERF": "19,06",
+      "CLASS": "50"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "HLILA Alaedine",
+      "CLUB": "CSSFaxien",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "993",
+      "PERF": "19,07",
+      "CLASS": "51"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "MANNAII Omar",
+      "CLUB": "ISSEP KEF 2",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "171",
+      "PERF": "19,13",
+      "CLASS": "52"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "GUEDRI Wadii",
+      "CLUB": "ASSBouzid ",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "932",
+      "PERF": "19,14",
+      "CLASS": "53"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "BEN ALI Haithem ",
+      "CLUB": "CIOK",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "969",
+      "PERF": "19,17",
+      "CLASS": "54"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "CHERNI Borhene",
+      "CLUB": "ISSEP KEF 2",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "154",
+      "PERF": "19,20",
+      "CLASS": "55"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "AMMARI Thameur",
+      "CLUB": "CAJend ",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "960",
+      "PERF": "19,24",
+      "CLASS": "56"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "NAFFATI Alaa",
+      "CLUB": "ASZJdidi",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "939",
+      "PERF": "19,30",
+      "CLASS": "58"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "AYADI koutayeb",
+      "CLUB": "ASMJend  ",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "880",
+      "PERF": "19,31",
+      "CLASS": "59"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "BOUZIDI Jesser",
+      "CLUB": " CAFayedh",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "946",
+      "PERF": "19,32",
+      "CLASS": "60"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "FERJANI Omar",
+      "CLUB": "ASMBeja",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "843",
+      "PERF": "19,34",
+      "CLASS": "61"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "CHATAOUI Med Aziz",
+      "CLUB": "CIOK",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "967",
+      "PERF": "19,36",
+      "CLASS": "63"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "Khazri Med Aziz",
+      "CLUB": "CAJend ",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "957",
+      "PERF": "19,44",
+      "CLASS": "64"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "NEFFATI Fedi",
+      "CLUB": " ASZJdidi",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "938",
+      "PERF": "19,46",
+      "CLASS": "65"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "BOUGHANM Feres",
+      "CLUB": "CIOK",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "968",
+      "PERF": "19,47",
+      "CLASS": "66"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "ABIDI Wajih",
+      "CLUB": "CAJend ",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "961",
+      "PERF": "19,52",
+      "CLASS": "67"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "Rebhi Wissem",
+      "CLUB": "CAJend ",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "955",
+      "PERF": "20,00",
+      "CLASS": "68"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "AYDI Wassim",
+      "CLUB": "ASMBeja",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "845",
+      "PERF": "20,11",
+      "CLASS": "69"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "INUBLI Fares",
+      "CLUB": "CAJend ",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "958",
+      "PERF": "20,12",
+      "CLASS": "70"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "JBOURI Rayene",
+      "CLUB": "ISSEP KEF 2",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "156",
+      "PERF": "20,15",
+      "CLASS": "71"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "FALEH Issam",
+      "CLUB": "CAGrombalia",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "954",
+      "PERF": "20,20",
+      "CLASS": "72"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "KHALIL Med",
+      "CLUB": "CAGrombalia",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "951",
+      "PERF": "20,29",
+      "CLASS": "73"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "Dkhili Ghaith",
+      "CLUB": "CAJend ",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "788",
+      "PERF": "20,30",
+      "CLASS": "74"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "Sriti Moenes",
+      "CLUB": "ASMSO GAFSA",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "884",
+      "PERF": "20,38",
+      "CLASS": "75"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "DKHILI Bahedine",
+      "CLUB": "CAJend ",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "959",
+      "PERF": "20,43",
+      "CLASS": "76"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "AOUINA Oussama",
+      "CLUB": "CSGN",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "988",
+      "PERF": "20,46",
+      "CLASS": "77"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "JBALI Lyes",
+      "CLUB": "ASMJend  ",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "872",
+      "PERF": "21,04",
+      "CLASS": "78"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "HAJ ALI Haider",
+      "CLUB": "CAGrombalia",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "953",
+      "PERF": "21,08",
+      "CLASS": "79"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "SALHI Raed",
+      "CLUB": "CSRegueb",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "164",
+      "PERF": "21,38",
+      "CLASS": "80"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "AYOUNI Hedi",
+      "CLUB": "CSRegueb",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "161",
+      "PERF": "21,39",
+      "CLASS": "81"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "MOUJAHED Rayene",
+      "CLUB": "ASMJend  ",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "871",
+      "PERF": "21,45",
+      "CLASS": "82"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "NAHDI Islem",
+      "CLUB": "CAGrombalia",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "950",
+      "PERF": "21,46",
+      "CLASS": "83"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "BEN KHLIFA Chawki",
+      "CLUB": "ESDAllouch",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "996",
+      "PERF": "21,50",
+      "CLASS": "84"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "ARBI Wassim",
+      "CLUB": "ASMBeja",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "847",
+      "PERF": "21,55",
+      "CLASS": "85"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "ABIDI Mohamed Amine",
+      "CLUB": "ASMJend  ",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "882",
+      "PERF": "22,00",
+      "CLASS": "87"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "Khdiri Jasser",
+      "CLUB": "ASMSO GAFSA",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "889",
+      "PERF": "22,01",
+      "CLASS": "88"
+    }
+  ],
+  "CAF": [
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "GADRI Sirine",
+      "CLUB": "COSB ",
+      "Cat.": "CA",
+      "SEXE": "F",
+      "Dossards": "495",
+      "PERF": "13,24",
+      "CLASS": "1"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "DHAHRI Rihab",
+      "CLUB": "CMAK",
+      "Cat.": "CA",
+      "SEXE": "F",
+      "Dossards": "421",
+      "PERF": "13,25",
+      "CLASS": "2"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "CHAABANI Khouloud",
+      "CLUB": "ACHt",
+      "Cat.": "CA",
+      "SEXE": "F",
+      "Dossards": "334",
+      "PERF": "13,31",
+      "CLASS": "3"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "OMRI Jihen",
+      "CLUB": "CSRegueb",
+      "Cat.": "CA",
+      "SEXE": "F",
+      "Dossards": "907",
+      "PERF": "13,57",
+      "CLASS": "4"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "KHARDENI Sameh  ",
+      "CLUB": "CSSfaxien",
+      "Cat.": "CA",
+      "SEXE": "F",
+      "Dossards": "446",
+      "PERF": "14,11",
+      "CLASS": "5"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "ABIDI Arij",
+      "CLUB": "SyrasAC",
+      "Cat.": "CA",
+      "SEXE": "F",
+      "Dossards": "487",
+      "PERF": "14,12",
+      "CLASS": "6"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "JBALI Douaa",
+      "CLUB": "CIOK",
+      "Cat.": "CA",
+      "SEXE": "F",
+      "Dossards": "416",
+      "PERF": "14,17",
+      "CLASS": "7"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "LAAMARI Nadine",
+      "CLUB": "CAK",
+      "Cat.": "CA",
+      "SEXE": "F",
+      "Dossards": "508",
+      "PERF": "14,19",
+      "CLASS": "8"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "WESLATI Eya",
+      "CLUB": "SyrasAC",
+      "Cat.": "CA",
+      "SEXE": "F",
+      "Dossards": "492",
+      "PERF": "14,20",
+      "CLASS": "9"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "BACCARI Hiba",
+      "CLUB": "CSRegueb",
+      "Cat.": "CA",
+      "SEXE": "F",
+      "Dossards": "844",
+      "PERF": "14,21",
+      "CLASS": "10"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "HANZOULI Malek",
+      "CLUB": "ACSoussien",
+      "Cat.": "CA",
+      "SEXE": "F",
+      "Dossards": "349",
+      "PERF": "14,22",
+      "CLASS": "11"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "ABDELAOUI Maissoun",
+      "CLUB": "CMAK",
+      "Cat.": "CA",
+      "SEXE": "F",
+      "Dossards": "419",
+      "PERF": "14,26",
+      "CLASS": "12"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "AMAIED Zahra",
+      "CLUB": "CSGN  ",
+      "Cat.": "CA",
+      "SEXE": "F",
+      "Dossards": "440",
+      "PERF": "14,38",
+      "CLASS": "13"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "HAJRI Riheb",
+      "CLUB": "ASMFJ",
+      "Cat.": "CA",
+      "SEXE": "F",
+      "Dossards": "342",
+      "PERF": "14,43",
+      "CLASS": "14"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "REZGUI Eya",
+      "CLUB": "SyrasAC",
+      "Cat.": "CA",
+      "SEXE": "F",
+      "Dossards": "491",
+      "PERF": "14,44",
+      "CLASS": "15"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "MASTOURI Aya",
+      "CLUB": "SUC",
+      "Cat.": "CA",
+      "SEXE": "F",
+      "Dossards": "480",
+      "PERF": "14,45",
+      "CLASS": "16"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "JERFAL Meriem",
+      "CLUB": "CMAK ",
+      "Cat.": "CA",
+      "SEXE": "F",
+      "Dossards": "429",
+      "PERF": "14,46",
+      "CLASS": "17"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "MANNAII  Zeineb",
+      "CLUB": "CMAK",
+      "Cat.": "CA",
+      "SEXE": "F",
+      "Dossards": "426",
+      "PERF": "14,57",
+      "CLASS": "18"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "JABALI Rihem",
+      "CLUB": "CSRegueb",
+      "Cat.": "CA",
+      "SEXE": "F",
+      "Dossards": "908",
+      "PERF": "14,58",
+      "CLASS": "19"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "HADDAJI Imene",
+      "CLUB": "CMAK",
+      "Cat.": "CA",
+      "SEXE": "F",
+      "Dossards": "423",
+      "PERF": "15,07",
+      "CLASS": "20"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "ZANNADI Zeineb",
+      "CLUB": "SUC",
+      "Cat.": "CA",
+      "SEXE": "F",
+      "Dossards": "482",
+      "PERF": "15,08",
+      "CLASS": "21"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "KLAII Malek",
+      "CLUB": "StCNabeul",
+      "Cat.": "CA",
+      "SEXE": "F",
+      "Dossards": "474",
+      "PERF": "15,17",
+      "CLASS": "22"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "OMRI Israa",
+      "CLUB": "COSB ",
+      "Cat.": "CA",
+      "SEXE": "F",
+      "Dossards": "496",
+      "PERF": "15,20",
+      "CLASS": "23"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "BAZI Wissal",
+      "CLUB": "ACAkouda",
+      "Cat.": "CA",
+      "SEXE": "F",
+      "Dossards": "325",
+      "PERF": "15,22",
+      "CLASS": "24"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "SOLTANI Asma",
+      "CLUB": "CSGN  ",
+      "Cat.": "CA",
+      "SEXE": "F",
+      "Dossards": "443",
+      "PERF": "15,23",
+      "CLASS": "25"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "GATRI Seja",
+      "CLUB": "SyrasAC",
+      "Cat.": "CA",
+      "SEXE": "F",
+      "Dossards": "488",
+      "PERF": "15,26",
+      "CLASS": "26"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "GHARBI Hiba",
+      "CLUB": "AAGaafour",
+      "Cat.": "CA",
+      "SEXE": "F",
+      "Dossards": "321",
+      "PERF": "15,29",
+      "CLASS": "27"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "HDHILI Yosra",
+      "CLUB": "ACAkouda",
+      "Cat.": "CA",
+      "SEXE": "F",
+      "Dossards": "330",
+      "PERF": "15,30",
+      "CLASS": "28"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "OULED LTAYEF  Aya",
+      "CLUB": "SUC",
+      "Cat.": "CA",
+      "SEXE": "F",
+      "Dossards": "481",
+      "PERF": "15,31",
+      "CLASS": "29"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "GHAZOUANI Dhekra",
+      "CLUB": "CAJend ",
+      "Cat.": "CA",
+      "SEXE": "F",
+      "Dossards": "410",
+      "PERF": "15,32",
+      "CLASS": "30"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "BEN KHLIFA Oumaima  ",
+      "CLUB": "CSSfaxien",
+      "Cat.": "CA",
+      "SEXE": "F",
+      "Dossards": "444",
+      "PERF": "15,33",
+      "CLASS": "31"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "MAHMOUDI Ameni",
+      "CLUB": "CMAK ",
+      "Cat.": "CA",
+      "SEXE": "F",
+      "Dossards": "430",
+      "PERF": "15,34",
+      "CLASS": "32"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "SEIDI Mona",
+      "CLUB": "ASMarsa",
+      "Cat.": "CA",
+      "SEXE": "F",
+      "Dossards": "127",
+      "PERF": "15,34",
+      "CLASS": "33"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "RAISI Chaima",
+      "CLUB": "StCNabeul",
+      "Cat.": "CA",
+      "SEXE": "F",
+      "Dossards": "476",
+      "PERF": "15,35",
+      "CLASS": "34"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "EL FAHEM KAWTHER",
+      "CLUB": "SUC",
+      "Cat.": "CA",
+      "SEXE": "F",
+      "Dossards": "477",
+      "PERF": "15,36",
+      "CLASS": "35"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "TIBI KAHIYA",
+      "CLUB": "CAFayedh",
+      "Cat.": "CA",
+      "SEXE": "F",
+      "Dossards": "403",
+      "PERF": "15,37",
+      "CLASS": "36"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "KHEDHER chiraz",
+      "CLUB": "StCNabeul",
+      "Cat.": "CA",
+      "SEXE": "F",
+      "Dossards": "473",
+      "PERF": "15,39",
+      "CLASS": "37"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "REFAI Jawaher",
+      "CLUB": "ACN",
+      "Cat.": "CA",
+      "SEXE": "F",
+      "Dossards": "315",
+      "PERF": "16,25",
+      "CLASS": "38"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "MDINI ICHRAF",
+      "CLUB": "ASMBeja",
+      "Cat.": "CA",
+      "SEXE": "F",
+      "Dossards": "124",
+      "PERF": "16,30",
+      "CLASS": "39"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "MAKKI Hadir",
+      "CLUB": "CSGN  ",
+      "Cat.": "CA",
+      "SEXE": "F",
+      "Dossards": "442",
+      "PERF": "15,40",
+      "CLASS": "40"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "ZERII Eya ",
+      "CLUB": "COSB ",
+      "Cat.": "CA",
+      "SEXE": "F",
+      "Dossards": "497",
+      "PERF": "15,46",
+      "CLASS": "41"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "BAABOUCH Ghofran",
+      "CLUB": "ASMarsa",
+      "Cat.": "CA",
+      "SEXE": "F",
+      "Dossards": "128",
+      "PERF": "15,47",
+      "CLASS": "42"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "FERKES Dora Fethia",
+      "CLUB": "ACAkouda",
+      "Cat.": "CA",
+      "SEXE": "F",
+      "Dossards": "327",
+      "PERF": "15,49",
+      "CLASS": "43"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "ZHIR Sabrine",
+      "CLUB": "SUC",
+      "Cat.": "CA",
+      "SEXE": "F",
+      "Dossards": "483",
+      "PERF": "15,52",
+      "CLASS": "44"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "MEKKI Farah",
+      "CLUB": "CAGromb",
+      "Cat.": "CA",
+      "SEXE": "F",
+      "Dossards": "408",
+      "PERF": "15,54",
+      "CLASS": "45"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "MAAMOURI Eya",
+      "CLUB": "SyrasAC",
+      "Cat.": "CA",
+      "SEXE": "F",
+      "Dossards": "490",
+      "PERF": "15,57",
+      "CLASS": "46"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "KHALLOUFI Ikbal",
+      "CLUB": "CIOK",
+      "Cat.": "CA",
+      "SEXE": "F",
+      "Dossards": "417",
+      "PERF": "16,08",
+      "CLASS": "47"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "SAIDI Eya",
+      "CLUB": "CSGN",
+      "Cat.": "CA",
+      "SEXE": "F",
+      "Dossards": "439",
+      "PERF": "16,10",
+      "CLASS": "48"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "ABIDI Hadil",
+      "CLUB": "ASMJend  ",
+      "Cat.": "CA",
+      "SEXE": "F",
+      "Dossards": "382",
+      "PERF": "16,15",
+      "CLASS": "49"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "ZITOUNI Oumayma",
+      "CLUB": "ISSEP KEF",
+      "Cat.": "CA",
+      "SEXE": "F",
+      "Dossards": "455",
+      "PERF": "16,19",
+      "CLASS": "50"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "MAKHLOUFI Oumaima  ",
+      "CLUB": "CSSfaxien",
+      "Cat.": "CA",
+      "SEXE": "F",
+      "Dossards": "447",
+      "PERF": "16,21",
+      "CLASS": "51"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "BOUKSAYER Maram",
+      "CLUB": "ASFSomaa",
+      "Cat.": "CA",
+      "SEXE": "F",
+      "Dossards": "314",
+      "PERF": "16,22",
+      "CLASS": "52"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "BEN CHAABAN Rawan",
+      "CLUB": "ASMarsa",
+      "Cat.": "CA",
+      "SEXE": "F",
+      "Dossards": "129",
+      "PERF": "16,23",
+      "CLASS": "53"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "BEN BELGASEM fatma",
+      "CLUB": "StCNabeul",
+      "Cat.": "CA",
+      "SEXE": "F",
+      "Dossards": "467",
+      "PERF": "16,25",
+      "CLASS": "54"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "OUESLATI Samar",
+      "CLUB": "AAGaafour",
+      "Cat.": "CA",
+      "SEXE": "F",
+      "Dossards": "322",
+      "PERF": "16,33",
+      "CLASS": "55"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "ZIDI HADIL",
+      "CLUB": "CAFayedh",
+      "Cat.": "CA",
+      "SEXE": "F",
+      "Dossards": "404",
+      "PERF": "16,41",
+      "CLASS": "56"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "CHERNI Sarra",
+      "CLUB": "CSGN",
+      "Cat.": "CA",
+      "SEXE": "F",
+      "Dossards": "437",
+      "PERF": "16,44",
+      "CLASS": "57"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "SEIF Khawla",
+      "CLUB": "CIOK",
+      "Cat.": "CA",
+      "SEXE": "F",
+      "Dossards": "418",
+      "PERF": "16,46",
+      "CLASS": "58"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "ABOUDI Razane",
+      "CLUB": "CAGromb",
+      "Cat.": "CA",
+      "SEXE": "F",
+      "Dossards": "405",
+      "PERF": "16,47",
+      "CLASS": "59"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "MEKKI Hiba",
+      "CLUB": "CSGN",
+      "Cat.": "CA",
+      "SEXE": "F",
+      "Dossards": "438",
+      "PERF": "16,49",
+      "CLASS": "60"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "BOUKSAYER Meriem",
+      "CLUB": "ASFSomaa",
+      "Cat.": "CA",
+      "SEXE": "F",
+      "Dossards": "313",
+      "PERF": "16,51",
+      "CLASS": "61"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "HARBAOUI Amal",
+      "CLUB": "SyrasAC",
+      "Cat.": "CA",
+      "SEXE": "F",
+      "Dossards": "489",
+      "PERF": "16,53",
+      "CLASS": "62"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "BEN SLAMA Ranim",
+      "CLUB": "ASMJend  ",
+      "Cat.": "CA",
+      "SEXE": "F",
+      "Dossards": "383",
+      "PERF": "17,03",
+      "CLASS": "63"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "FRIJI Hedia",
+      "CLUB": "CAGromb",
+      "Cat.": "CA",
+      "SEXE": "F",
+      "Dossards": "407",
+      "PERF": "17,08",
+      "CLASS": "64"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "BOUZIDI WAFA",
+      "CLUB": "CAFayedh",
+      "Cat.": "CA",
+      "SEXE": "F",
+      "Dossards": "401",
+      "PERF": "17,10",
+      "CLASS": "65"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "TRABELSI Siwar",
+      "CLUB": "ASFSomaa",
+      "Cat.": "CA",
+      "SEXE": "F",
+      "Dossards": "312",
+      "PERF": "17,18",
+      "CLASS": "66"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "FERCHICHI Maram",
+      "CLUB": "AAGaafour",
+      "Cat.": "CA",
+      "SEXE": "F",
+      "Dossards": "320",
+      "PERF": "17,37",
+      "CLASS": "67"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "HAMMAMI ONES",
+      "CLUB": "ASMFJ",
+      "Cat.": "CA",
+      "SEXE": "F",
+      "Dossards": "367",
+      "PERF": "17,48",
+      "CLASS": "68"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "SAGHROUNI Siwar",
+      "CLUB": "CSSfaxien",
+      "Cat.": "CA",
+      "SEXE": "F",
+      "Dossards": "448",
+      "PERF": "17,43",
+      "CLASS": "69"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "MHAMDI Malek",
+      "CLUB": "ASFSomaa",
+      "Cat.": "CA",
+      "SEXE": "F",
+      "Dossards": "348",
+      "PERF": "17,55",
+      "CLASS": "70"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "LAWAY Meriem",
+      "CLUB": "SUC",
+      "Cat.": "CA",
+      "SEXE": "F",
+      "Dossards": "479",
+      "PERF": "17,57",
+      "CLASS": "71"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "BOUKER Nura",
+      "CLUB": "ACAkouda",
+      "Cat.": "CA",
+      "SEXE": "F",
+      "Dossards": "326",
+      "PERF": "18,31",
+      "CLASS": "72"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "BOUZIDI Maissa",
+      "CLUB": "COSB ",
+      "Cat.": "CA",
+      "SEXE": "F",
+      "Dossards": "500",
+      "PERF": "18,35",
+      "CLASS": "73"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "BOUZIDI AZIZA",
+      "CLUB": "CAFayedh",
+      "Cat.": "CA",
+      "SEXE": "F",
+      "Dossards": "400",
+      "PERF": "18,38",
+      "CLASS": "74"
+    }
+  ],
+  "MinM": [
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "AFLI Chaker1",
+      "CLUB": "CMAK",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "172",
+      "PERF": "10,39",
+      "CLASS": "1"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "FARHAT Ooussama",
+      "CLUB": "CSGN",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "216",
+      "PERF": "10,40",
+      "CLASS": "2"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "AMMARI Amine",
+      "CLUB": "COSB",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "281",
+      "PERF": "10,55",
+      "CLASS": "3"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "Fajrawi Moetaz",
+      "CLUB": "RihenGafsa",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "214",
+      "PERF": "10,56",
+      "CLASS": "4"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": " MAAMRIA Ghaith",
+      "CLUB": "ASGafsa",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "165",
+      "PERF": "11,05",
+      "CLASS": "5"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "KLIFI Aziz",
+      "CLUB": "StCNabeul",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "245",
+      "PERF": "11,10",
+      "CLASS": "6"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "BRAHMI Wajdi",
+      "CLUB": "ASSBouzid",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "196",
+      "PERF": "11,13",
+      "CLASS": "7"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "MABROUKI Med Amine",
+      "CLUB": "ASMKair",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "251",
+      "PERF": "11,14",
+      "CLASS": "8"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "SEBII Jasser",
+      "CLUB": "CIOK",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "285",
+      "PERF": "11,15",
+      "CLASS": "9"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "MAAROUFI Rayene",
+      "CLUB": "ISSEP KEF",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "272",
+      "PERF": "11,16",
+      "CLASS": "11"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "OUN Ahmed",
+      "CLUB": "ASZJdidi",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "250",
+      "PERF": "11,17",
+      "CLASS": "10"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "DHAHRI Slim",
+      "CLUB": "ASMKair",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "210",
+      "PERF": "11,21",
+      "CLASS": "12"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "OMRI Mootez",
+      "CLUB": "ASSBouzid",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "304",
+      "PERF": "11,22",
+      "CLASS": "13"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "CHNINI Yassine",
+      "CLUB": "CSAHGallel",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "305",
+      "PERF": "11,25",
+      "CLASS": "14"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "SLIMANI Fares",
+      "CLUB": "ESTOUIR",
+      "Cat.": "CA",
+      "SEXE": "M",
+      "Dossards": "117",
+      "PERF": "11,26",
+      "CLASS": "15"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "ZOUAIDI Heni",
+      "CLUB": "CSAHGallel",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "306",
+      "PERF": "11,27",
+      "CLASS": "16"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "FATNASSI Hamdi",
+      "CLUB": "ASMKair",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "217",
+      "PERF": "11,28",
+      "CLASS": "17"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "BRAHMI Abdallah Salah",
+      "CLUB": "ASSBouzid",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "194",
+      "PERF": "11,30",
+      "CLASS": "18"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "EZZINE Koussay",
+      "CLUB": "CSGN",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "213",
+      "PERF": "11,31",
+      "CLASS": "19"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "CHEHIBI Hassen1",
+      "CLUB": "CMAK",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "202",
+      "PERF": "11,34",
+      "CLASS": "20"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "DALHOUMI Jasser",
+      "CLUB": "CSRegueb",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "158",
+      "PERF": "11,40",
+      "CLASS": "21"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "ARIBI Med Ali",
+      "CLUB": "CSGN",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "176",
+      "PERF": "11,43",
+      "CLASS": "22"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "RABAOUI Chahine",
+      "CLUB": "CAMaknassy",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "273",
+      "PERF": "11,44",
+      "CLASS": "23"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "HAFFAR MED ALI",
+      "CLUB": "ACKorba",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "227",
+      "PERF": "11,46",
+      "CLASS": "24"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "TAYARI Malek",
+      "CLUB": "CAGromb",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "292",
+      "PERF": "11,47",
+      "CLASS": "25"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "RABAOUI Malek",
+      "CLUB": "CAMaknassy",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "274",
+      "PERF": "11,48",
+      "CLASS": "26"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "RIAHI Holmi",
+      "CLUB": "ASMKair",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "277",
+      "PERF": "11,51",
+      "CLASS": "27"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "BAKOUCH Nabil",
+      "CLUB": "CSGN",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "177",
+      "PERF": "11,55",
+      "CLASS": "28"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "GARA Med hlel",
+      "CLUB": "StCNabeul",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "246",
+      "PERF": "11,56",
+      "CLASS": "29"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "SAIDI Jassem",
+      "CLUB": "CSGN",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "682",
+      "PERF": "12,03",
+      "CLASS": "30"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "HAMEMI Motez",
+      "CLUB": "StCNabeul",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "230",
+      "PERF": "12,09",
+      "CLASS": "31"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "NASRI Mootaz beleh",
+      "CLUB": "ASMKair",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "266",
+      "PERF": "12,11",
+      "CLASS": "32"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "ARBI Med Khalil",
+      "CLUB": "CSGN",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "175",
+      "PERF": "12,18",
+      "CLASS": "33"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "HAMMAMI Sabri1",
+      "CLUB": "CMAK",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "232",
+      "PERF": "12,19",
+      "CLASS": "34"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "JALLELI Azi",
+      "CLUB": "ASSBouzid",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "239",
+      "PERF": "12,22",
+      "CLASS": "35"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "GHARIANI aziz",
+      "CLUB": "StCNabeul",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "224",
+      "PERF": "12,23",
+      "CLASS": "36"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "ABIDI Montassar",
+      "CLUB": "AAGaafour",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "170",
+      "PERF": "12,24",
+      "CLASS": "37"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "SAYAHI Moez",
+      "CLUB": "CSRegueb",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "157",
+      "PERF": "12,25",
+      "CLASS": "38"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "CHERNI Dhia",
+      "CLUB": "CIOK",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "203",
+      "PERF": "12,30",
+      "CLASS": "39"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "FROUI AYOUB",
+      "CLUB": "CMAK",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "221",
+      "PERF": "12,33",
+      "CLASS": "40"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "NEFZI Raslene",
+      "CLUB": "AAGaafour",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "268",
+      "PERF": "12,35",
+      "CLASS": "41"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "BAMRI Med Aziz1",
+      "CLUB": "CMAK",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "178",
+      "PERF": "12,37",
+      "CLASS": "42"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "JLALI Amine",
+      "CLUB": "ASSBouzid",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "195",
+      "PERF": "12,39",
+      "CLASS": "43"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "SLIMENI Taha ",
+      "CLUB": "COSB",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "289",
+      "PERF": "12,41",
+      "CLASS": "44"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "BOUSLIMI Amine",
+      "CLUB": "ASMBeja",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "193",
+      "PERF": "12,44",
+      "CLASS": "45"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "BOUGHAMI Med Ali",
+      "CLUB": "CIOK",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "186",
+      "PERF": "12,47",
+      "CLASS": "46"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": " TISSAOUI Amen Allah",
+      "CLUB": "CAJend ",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "166",
+      "PERF": "12,50",
+      "CLASS": "47"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "SAMÄLI Oussama",
+      "CLUB": "COSB",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "284",
+      "PERF": "12,51",
+      "CLASS": "48"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": " ABIDI Raslene",
+      "CLUB": "CAJend ",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "160",
+      "PERF": "12,52",
+      "CLASS": "49"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "HIZAWI Bheaeddine",
+      "CLUB": "StCNabeul",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "236",
+      "PERF": "12,53",
+      "CLASS": "50"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "SAIDI Abdelmonem",
+      "CLUB": "COSB",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "280",
+      "PERF": "12,59",
+      "CLASS": "51"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "BOUKARI Hamadi",
+      "CLUB": "ASMBeja",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "197",
+      "PERF": "13,01",
+      "CLASS": "52"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "MARZOUGUI Abderahmen",
+      "CLUB": "ASMBeja",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "253",
+      "PERF": "13,02",
+      "CLASS": "53"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": " DKHILI Yassine",
+      "CLUB": "CAJend ",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "163",
+      "PERF": "13,06",
+      "CLASS": "54"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "FERCHICHI Ayoub",
+      "CLUB": "AAGaafour",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "219",
+      "PERF": "13,08",
+      "CLASS": "55"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "ABIDI Rabii",
+      "CLUB": "CSRegueb",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "151",
+      "PERF": "13,10",
+      "CLASS": "56"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "ZINOUBI Med Aziz",
+      "CLUB": "COSB",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "300",
+      "PERF": "13,16",
+      "CLASS": "57"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "BELHADI Med",
+      "CLUB": "ASSBouzid",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "181",
+      "PERF": "13,20",
+      "CLASS": "58"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "NOURI Saif",
+      "CLUB": "ASMKair",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "269",
+      "PERF": "13,25",
+      "CLASS": "59"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "ABBADI Kussay",
+      "CLUB": "CSRegueb",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "146",
+      "PERF": "13,29",
+      "CLASS": "60"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "Abidi Belhassan",
+      "CLUB": "CAJend ",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "168",
+      "PERF": "13,30",
+      "CLASS": "61"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "BOURAWI Ali",
+      "CLUB": "StCBizerte",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "192",
+      "PERF": "13,36",
+      "CLASS": "62"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "HAMAMI Ahmed Amine",
+      "CLUB": "ASMBeja",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "228",
+      "PERF": "13,40",
+      "CLASS": "63"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "TRABELSI Aziz",
+      "CLUB": "AAGaafour",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "271",
+      "PERF": "13,42",
+      "CLASS": "64"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": " GHAZWENI Aymen",
+      "CLUB": "CAJend ",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "164",
+      "PERF": "13,43",
+      "CLASS": "65"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "SMARA Ghaith",
+      "CLUB": "ASZJdidi",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "290",
+      "PERF": "13,44",
+      "CLASS": "66"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "BAYOUDH Amine",
+      "CLUB": "SUC",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "180",
+      "PERF": "13,56",
+      "CLASS": "67"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "Hachicha Rayen",
+      "CLUB": "SUC",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "225",
+      "PERF": "13,57",
+      "CLASS": "68"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "ZOGHLAMI Achref",
+      "CLUB": "CIOK",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "301",
+      "PERF": "14,02",
+      "CLASS": "69"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "DAMMAK Med Ammine",
+      "CLUB": "SUC",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "208",
+      "PERF": "14,03",
+      "CLASS": "70"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "LOUHICHI Amir",
+      "CLUB": "SUC",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "249",
+      "PERF": "14,07",
+      "CLASS": "71"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "JBALI Mouhidine",
+      "CLUB": "AAGaafour",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "240",
+      "PERF": "14,08",
+      "CLASS": "72"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "NADDATI Youssef",
+      "CLUB": "SUC",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "264",
+      "PERF": "14,09",
+      "CLASS": "73"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "HAMMAMI Wassef",
+      "CLUB": "SUC",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "233",
+      "PERF": "14,45",
+      "CLASS": "74"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "NABELI Ahmed",
+      "CLUB": "ESDAllouch",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "263",
+      "PERF": "15,07",
+      "CLASS": "75"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "RIAHI Med Hedi",
+      "CLUB": "ASZJdidi",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "288",
+      "PERF": "15,14",
+      "CLASS": "77"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "NAILI Adem",
+      "CLUB": "ESDAllouch",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "279",
+      "PERF": "15,30",
+      "CLASS": "78"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "TLILI Med",
+      "CLUB": "CIOK",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "265",
+      "PERF": "16,13",
+      "CLASS": "79"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "OUESLATI Amine",
+      "CLUB": "AAGaafour",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "295",
+      "PERF": "16,30",
+      "CLASS": "80"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "SLIMENI Achref ",
+      "CLUB": "COSB",
+      "Cat.": "MIN",
+      "SEXE": "M",
+      "Dossards": "270",
+      "PERF": ", 15,13",
+      "CLASS": "76"
+    }
+  ],
+  "MinF": [
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "YOUNES Asma",
+      "CLUB": "COSB",
+      "CAT": "MIN",
+      "SEXE": "F",
+      "Dossards": "55",
+      "PERF": "8,58",
+      "CLASS": "1"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "RAHALI Eya",
+      "CLUB": "SyrasAC",
+      "CAT": "MIN",
+      "SEXE": "F",
+      "Dossards": "116",
+      "PERF": "8,59",
+      "CLASS": "2"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "HAMDI Manel",
+      "CLUB": "ISSEP KEF",
+      "CAT": "MIN",
+      "SEXE": "F",
+      "Dossards": "67",
+      "PERF": "9,07",
+      "CLASS": "3"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "ALIBI Chada",
+      "CLUB": "CAMaknassy",
+      "CAT": "MIN",
+      "SEXE": "F",
+      "Dossards": "10",
+      "PERF": "9,12",
+      "CLASS": "4"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "BOUZAYANI Wiem",
+      "CLUB": "CSRegueb",
+      "CAT": "MIN",
+      "SEXE": "F",
+      "Dossards": "845",
+      "PERF": "9,14",
+      "CLASS": "5"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "ARFAOUI Ranim",
+      "CLUB": "ASFSomaa",
+      "CAT": "MIN",
+      "SEXE": "F",
+      "Dossards": "12",
+      "PERF": "9,16",
+      "CLASS": "6"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "BEN CAABAN Chaima",
+      "CLUB": "ASMarsa",
+      "CAT": "MIN",
+      "SEXE": "F",
+      "Dossards": "24",
+      "PERF": "9,17",
+      "CLASS": "7"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "HAMDI Hadil",
+      "CLUB": "ISSEP KEF",
+      "CAT": "MIN",
+      "SEXE": "F",
+      "Dossards": "65",
+      "PERF": "9,18",
+      "CLASS": "8"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "GAYED Malek",
+      "CLUB": "ACAkouda",
+      "CAT": "MIN",
+      "SEXE": "F",
+      "Dossards": "53",
+      "PERF": "9,23",
+      "CLASS": "9"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "BENHMIDA Maram",
+      "CLUB": "ASFSomaa",
+      "CAT": "MIN",
+      "SEXE": "F",
+      "Dossards": "29",
+      "PERF": "9,24",
+      "CLASS": "10"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "MEZRIGUI Chaima",
+      "CLUB": "ACAkouda",
+      "CAT": "MIN",
+      "SEXE": "F",
+      "Dossards": "104",
+      "PERF": "9,24",
+      "CLASS": "10"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "KALBOUSSI Israa",
+      "CLUB": "ACAkouda",
+      "CAT": "MIN",
+      "SEXE": "F",
+      "Dossards": "84",
+      "PERF": "9,32",
+      "CLASS": "12"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "SLIMENI Nourhene",
+      "CLUB": "CSGN",
+      "CAT": "MIN",
+      "SEXE": "F",
+      "Dossards": "127",
+      "PERF": "9,34",
+      "CLASS": "13"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "AYARI Chayma",
+      "CLUB": "SyrasAC",
+      "CAT": "MIN",
+      "SEXE": "F",
+      "Dossards": "18",
+      "PERF": "9,37",
+      "CLASS": "14"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "OMRANI Eya",
+      "CLUB": "CSGN",
+      "CAT": "MIN",
+      "SEXE": "F",
+      "Dossards": "112",
+      "PERF": "9,40",
+      "CLASS": "15"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "KHAYATI Samar",
+      "CLUB": "CIOK",
+      "CAT": "MIN",
+      "SEXE": "F",
+      "Dossards": "87",
+      "PERF": "9,41",
+      "CLASS": "16"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "HAMDI AMIRA",
+      "CLUB": "CAFayedh",
+      "CAT": "MIN",
+      "SEXE": "F",
+      "Dossards": "64",
+      "PERF": "9,42",
+      "CLASS": "17"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "TALBI Wissal",
+      "CLUB": "CIOK",
+      "CAT": "MIN",
+      "SEXE": "F",
+      "Dossards": "129",
+      "PERF": "9,45",
+      "CLASS": "18"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "AYACHI Hiba",
+      "CLUB": "CMAK",
+      "CAT": "MIN",
+      "SEXE": "F",
+      "Dossards": "16",
+      "PERF": "9,47",
+      "CLASS": "19"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "GHANMI Samar ",
+      "CLUB": "COSB",
+      "CAT": "MIN",
+      "SEXE": "F",
+      "Dossards": "54",
+      "PERF": "9,53",
+      "CLASS": "20"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "HECHI Chaima",
+      "CLUB": "CSGN",
+      "CAT": "MIN",
+      "SEXE": "F",
+      "Dossards": "71",
+      "PERF": "9,56",
+      "CLASS": "21"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "JLALI Salma",
+      "CLUB": "CSRegueb",
+      "CAT": "MIN",
+      "SEXE": "F",
+      "Dossards": "950",
+      "PERF": "9,57",
+      "CLASS": "22"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "BENNEJMA Lobna",
+      "CLUB": "CMAK",
+      "CAT": "MIN",
+      "SEXE": "F",
+      "Dossards": "30",
+      "PERF": "10,00",
+      "CLASS": "23"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "ABASSI Rabeb",
+      "CLUB": "ASSBouzid",
+      "CAT": "MIN",
+      "SEXE": "F",
+      "Dossards": "2",
+      "PERF": "10,07",
+      "CLASS": "24"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "AMAR Hadil",
+      "CLUB": "CSGN",
+      "CAT": "MIN",
+      "SEXE": "F",
+      "Dossards": "11",
+      "PERF": "10,08",
+      "CLASS": "25"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "CHOKERBAN Samar",
+      "CLUB": "CSGN",
+      "CAT": "MIN",
+      "SEXE": "F",
+      "Dossards": "44",
+      "PERF": "10,09",
+      "CLASS": "26"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "AGUILI Zaineb",
+      "CLUB": "CSGN",
+      "CAT": "MIN",
+      "SEXE": "F",
+      "Dossards": "7",
+      "PERF": "10,10",
+      "CLASS": "27"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "SAIDI Nawres",
+      "CLUB": "COSB",
+      "CAT": "MIN",
+      "SEXE": "F",
+      "Dossards": "25",
+      "PERF": "10,14",
+      "CLASS": "28"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "SAADAOUI Ferdawes",
+      "CLUB": "CIOK",
+      "CAT": "MIN",
+      "SEXE": "F",
+      "Dossards": "120",
+      "PERF": "10,17",
+      "CLASS": "29"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "HOUIMLI Meriem",
+      "CLUB": "ASMBeja",
+      "CAT": "MIN",
+      "SEXE": "F",
+      "Dossards": "76",
+      "PERF": "10,18",
+      "CLASS": "30"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "JBABLJ Amal",
+      "CLUB": "CIOK",
+      "CAT": "MIN",
+      "SEXE": "F",
+      "Dossards": "78",
+      "PERF": "10,20",
+      "CLASS": "31"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "FERCHICHI Malak",
+      "CLUB": "AAGaafour",
+      "CAT": "MIN",
+      "SEXE": "F",
+      "Dossards": "50",
+      "PERF": "10,23",
+      "CLASS": "32"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "AJMI Manar",
+      "CLUB": "ASSBouzid",
+      "CAT": "MIN",
+      "SEXE": "F",
+      "Dossards": "8",
+      "PERF": "10,25",
+      "CLASS": "33"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "AYA Nemri",
+      "CLUB": "StCNabeul",
+      "CAT": "MIN",
+      "SEXE": "F",
+      "Dossards": "14",
+      "PERF": "10,28",
+      "CLASS": "34"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "CHRITI Meriem",
+      "CLUB": "CMAK",
+      "CAT": "MIN",
+      "SEXE": "F",
+      "Dossards": "95",
+      "PERF": "10,29",
+      "CLASS": "35"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "JOUINI Zaineb",
+      "CLUB": "SyrasAC",
+      "CAT": "MIN",
+      "SEXE": "F",
+      "Dossards": "81",
+      "PERF": "10,34",
+      "CLASS": "36"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "GUESMI Nour Houda",
+      "CLUB": "ISSEP KEF",
+      "CAT": "MIN",
+      "SEXE": "F",
+      "Dossards": "61",
+      "PERF": "10,35",
+      "CLASS": "37"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "SAIDI Amal",
+      "CLUB": "COSB",
+      "CAT": "MIN",
+      "SEXE": "F",
+      "Dossards": "13",
+      "PERF": "10,38",
+      "CLASS": "38"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "ZIEIDI Amal",
+      "CLUB": "StCNabeul",
+      "CAT": "MIN",
+      "SEXE": "F",
+      "Dossards": "135",
+      "PERF": "10,39",
+      "CLASS": "39"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "JLELI Ahlem",
+      "CLUB": "ASSBouzid",
+      "CAT": "MIN",
+      "SEXE": "F",
+      "Dossards": "79",
+      "PERF": "10,41",
+      "CLASS": "40"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "BARGOUGUI Asma",
+      "CLUB": "ASSBouzid",
+      "CAT": "MIN",
+      "SEXE": "F",
+      "Dossards": "20",
+      "PERF": "10,44",
+      "CLASS": "41"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "ARAR Nourhene",
+      "CLUB": "ASFSomaa",
+      "CAT": "MIN",
+      "SEXE": "F",
+      "Dossards": "36",
+      "PERF": "10,45",
+      "CLASS": "42"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "ABIDI Arije",
+      "CLUB": "ISSEP KEF",
+      "CAT": "MIN",
+      "SEXE": "F",
+      "Dossards": "4",
+      "PERF": "10,52",
+      "CLASS": "43"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "JMILI Yasmine ",
+      "CLUB": "CMAK",
+      "CAT": "MIN",
+      "SEXE": "F",
+      "Dossards": "80",
+      "PERF": "10,58",
+      "CLASS": "44"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "KHALAF Mariem",
+      "CLUB": "ACAkouda",
+      "CAT": "MIN",
+      "SEXE": "F",
+      "Dossards": "86",
+      "PERF": "11,08",
+      "CLASS": "45"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "REZGUI Sonia",
+      "CLUB": "ASMJend  ",
+      "CAT": "MIN",
+      "SEXE": "F",
+      "Dossards": "117",
+      "PERF": "11,09",
+      "CLASS": "46"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "BARHOUMI Wiem",
+      "CLUB": "SyrasAC",
+      "CAT": "MIN",
+      "SEXE": "F",
+      "Dossards": "21",
+      "PERF": "11,12",
+      "CLASS": "47"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "BOUZAYANI Ons",
+      "CLUB": "CSRegueb",
+      "CAT": "MIN",
+      "SEXE": "F",
+      "Dossards": "846",
+      "PERF": "11,14",
+      "CLASS": "48"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "HAMDI Islem",
+      "CLUB": "SUC",
+      "CAT": "MIN",
+      "SEXE": "F",
+      "Dossards": "66",
+      "PERF": "11,20",
+      "CLASS": "49"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "GHAZOUANI Hounaida",
+      "CLUB": "CAJendouba",
+      "CAT": "MIN",
+      "SEXE": "F",
+      "Dossards": "57",
+      "PERF": "11,23",
+      "CLASS": "50"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "FERSI Amal",
+      "CLUB": "CMAK",
+      "CAT": "MIN",
+      "SEXE": "F",
+      "Dossards": "51",
+      "PERF": "11,26",
+      "CLASS": "51"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "MANNAI Takwa",
+      "CLUB": "CMAK",
+      "CAT": "MIN",
+      "SEXE": "F",
+      "Dossards": "94",
+      "PERF": "11,28",
+      "CLASS": "52"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "CHOUAIBI Islem",
+      "CLUB": "ASSBouzid",
+      "CAT": "MIN",
+      "SEXE": "F",
+      "Dossards": "33",
+      "PERF": "11,30",
+      "CLASS": "53"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "Boudraaa Ghaya",
+      "CLUB": "AAGaafour",
+      "CAT": "MIN",
+      "SEXE": "F",
+      "Dossards": "96",
+      "PERF": "11,32",
+      "CLASS": "54"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "NAFFATI Alaa",
+      "CLUB": "AAGaafour",
+      "CAT": "MIN",
+      "SEXE": "F",
+      "Dossards": "109",
+      "PERF": "11,35",
+      "CLASS": "55"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "AYADI Hibet Allah",
+      "CLUB": "ASMJend  ",
+      "CAT": "MIN",
+      "SEXE": "F",
+      "Dossards": "17",
+      "PERF": "11,38",
+      "CLASS": "56"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "MAHOUACHI Nawres",
+      "CLUB": "AAGaafour",
+      "CAT": "MIN",
+      "SEXE": "F",
+      "Dossards": "92",
+      "PERF": "11,40",
+      "CLASS": "57"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "CHRIF Aya ",
+      "CLUB": "CSSfaxien",
+      "CAT": "MIN",
+      "SEXE": "F",
+      "Dossards": "45",
+      "PERF": "11,43",
+      "CLASS": "58"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "HDIDI Maeiem ",
+      "CLUB": "CSSfaxien",
+      "CAT": "MIN",
+      "SEXE": "F",
+      "Dossards": "70",
+      "PERF": "11,50",
+      "CLASS": "59"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "AKERMI ISLEM",
+      "CLUB": "ACAkouda",
+      "CAT": "MIN",
+      "SEXE": "F",
+      "Dossards": "9",
+      "PERF": "11,51",
+      "CLASS": "60"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "MBARKI Chaima",
+      "CLUB": "ASFSomaa",
+      "CAT": "MIN",
+      "SEXE": "F",
+      "Dossards": "98",
+      "PERF": "11,52",
+      "CLASS": "61"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "SAADOULI Karima ",
+      "CLUB": "ASSBouzid",
+      "CAT": "MIN",
+      "SEXE": "F",
+      "Dossards": "121",
+      "PERF": "11,55",
+      "CLASS": "62"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "HAJJI Ibtihel",
+      "CLUB": "CSRegueb",
+      "CAT": "MIN",
+      "SEXE": "F",
+      "Dossards": "847",
+      "PERF": "12,05",
+      "CLASS": "63"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "BIN M ED Asma",
+      "CLUB": "StCNabeul",
+      "CAT": "MIN",
+      "SEXE": "F",
+      "Dossards": "32",
+      "PERF": "12,17",
+      "CLASS": "64"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "MAEWANI Sirine",
+      "CLUB": "AAGaafour",
+      "CAT": "MIN",
+      "SEXE": "F",
+      "Dossards": "91",
+      "PERF": "12,20",
+      "CLASS": "65"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "MRABET Maram",
+      "CLUB": "ESDAllouch",
+      "CAT": "MIN",
+      "SEXE": "F",
+      "Dossards": "107",
+      "PERF": "12,30",
+      "CLASS": "66"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "CHABOUH Lina",
+      "CLUB": "ASFSomaa",
+      "CAT": "MIN",
+      "SEXE": "F",
+      "Dossards": "37",
+      "PERF": "12,38",
+      "CLASS": "67"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "CHABOUH Ranim",
+      "CLUB": "ASFSomaa",
+      "CAT": "MIN",
+      "SEXE": "F",
+      "Dossards": "38",
+      "PERF": "13,00",
+      "CLASS": "68"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "BEN SLAMA Nada",
+      "CLUB": "ASMJend  ",
+      "CAT": "MIN",
+      "SEXE": "F",
+      "Dossards": "27",
+      "PERF": "13,15",
+      "CLASS": "69"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "Abidi Islem",
+      "CLUB": "CAJendouba",
+      "CAT": "MIN",
+      "SEXE": "F",
+      "Dossards": "6",
+      "PERF": "13,50",
+      "CLASS": "70"
+    },
+    {
+      "EPREUVE": "MARCHE",
+      "Nom_Prenom": "BOUDHRAA Takwa",
+      "CLUB": "AAGaafour",
+      "CAT": "MIN",
+      "SEXE": "F",
+      "Dossards": "34",
+      "PERF": "13,56",
+      "CLASS": "71"
+    }
+  ]
+}

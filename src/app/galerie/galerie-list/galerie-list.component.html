@@ -1,0 +1,25 @@
+
+<div class="container padding-top">
+
+    <!-- Item galerie -->
+
+      <div class="item-player">
+        <div class="head-player">
+          <img alt="location-team" [src]="galerie.galerieImgPath"/>
+          <div class="overlay"><a [href]="galerie.galeriePath" >+</a></div>
+        </div>
+        <div class="info-player">
+          <span class="number-player">
+              {{i+1}}
+          </span>
+          <h4>
+            {{galerie.galerieTitle}}
+          </h4>
+        </div>
+        <a class="btn" [routerLink]="'/galerie-detail/'+ galerie.galerieTitle" target="_blank">
+          Album<i aria-hidden="true" class="fa fa-angle-right"></i></a>
+      </div>
+
+    <!-- End Item galerie -->
+
+</div>

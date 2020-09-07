@@ -1,0 +1,17 @@
+<div class="post-item">
+  <div class="row">
+    <div class="col-md-4">
+      <div class="img-hover">
+        <img [src]="evenment.eventImgPath"  alt="" class="img-responsive">
+        <div class="overlay"><a [href]="evenment.eventPath"  target="_blank">+</a></div>
+      </div>
+    </div>
+    <div class="col-md-8">
+      <h5><a [href]="evenment.eventPath">{{evenment.eventTitle}}</a></h5>
+
+      <p>{{evenment.eventDescrip}}<a [href]="evenment.eventPath"
+                                     target="_blank">Read More [+]</a></p>
+  </div>
+  </div>
+  <hr>
+</div>

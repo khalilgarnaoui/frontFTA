@@ -1,0 +1,190 @@
+<app-heading></app-heading>
+<div class="container" align="center">
+    <div class="col-md-8">
+        <div class="titles no-margin">
+            <h4>Demande Licence Juge</h4>
+        </div>
+        <br>
+        <div class="info-panel">
+            <!-- Form Contact -->
+            <form [formGroup]="DemandeJuge" (submit)="onSubmit()" class="form-theme">
+                <div class="row">
+                    <div class="col-md-6">
+                        <label>Nom et Prénom Juge *</label>
+                        <input
+                                type="text"
+                                class="form-control"
+                                formControlName="nom_prenomJuge"
+                        >
+                    </div>
+                    <div class="col-md-6">
+                        <label>Date De Naissance *</label>
+                        <input
+                                type="date"
+                                class="form-control"
+                                formControlName="ddn"
+                        >
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <label>Adresse *</label>
+                        <input
+                                type="text"
+                                class="form-control"
+                                formControlName="adresse"
+                        >
+                    </div>
+                    <div class="col-md-6">
+                        <label>Code Postal *</label>
+                        <input
+                                type="text"
+                                class="form-control"
+                                formControlName="codepostal"
+                        >
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <label>Niveau *</label>
+                        <input
+                                type="text"
+                                class="form-control"
+                                formControlName="niveau"
+                        >
+                    </div>
+                    <div class="col-md-6">
+                        <label>Poste *</label>
+                        <input
+                                type="text"
+                                class="form-control"
+                                formControlName="poste"
+                        >
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <label>Numéro de compte Bancaire*</label>
+                        <input
+                                type="number"
+                                class="form-control"
+                                formControlName="ccpOuCcb"
+                        >
+                    </div>
+                    <div class="col-md-6">
+                        <label>CIN *</label>
+                        <input
+                                type="text"
+                                class="form-control"
+                                formControlName="cin"
+                        >
+                    </div>
+                </div>
+                <br>
+                <div class="row">
+                    <div class="col-md-12">
+                        <label>E-mail</label>
+                        <input
+                                type="text"
+                                class="form-control"
+                                formControlName="email"
+                        >
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <label>Tel *</label>
+                        <input
+                                type="text"
+                                class="form-control"
+                                formControlName="tel"
+                        >
+                    </div>
+                    <div class="col-md-6">
+                        <label>Poids *</label>
+                        <input
+                                type="number"
+                                class="form-control"
+                                formControlName="poids"
+                        >
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <label>Taille *</label>
+                        <input
+                                type="text"
+                                class="form-control"
+                                formControlName="taille"
+                        >
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <label>Photo *</label>
+                        <input
+                                type="file"
+                                class="form-control"
+                                name="photo"
+                                (change)="onImagePicked($event)"
+                        >
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <label>Justificatif de Paiement *</label>
+                        <input
+                                type="file"
+                                class="form-control"
+                                name="paiement"
+                                (change)="onImagePicked($event)"
+                        >
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <label>Certificat Médical *</label>
+                        <input
+                                type="file"
+                                class="form-control"
+                                name="certificat"
+                                (change)="onImagePicked($event)"
+                        >
+                    </div>
+                </div>
+                <br>
+                <div>
+                    <label align="center">Enregistrement ou Renouvellement *</label>
+                </div>
+                <br>
+                <div class="row">
+                    <div class="radio col-md-6" *ngFor="let type of types">
+                        <input
+                                type="radio"
+                                name="type"
+                                [value]="type"
+                                formControlName="type"
+                        > {{type}}
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <button
+                                type="submit"
+                                class="btn btn-lg btn-primary"
+                                [disabled]="!DemandeJuge.valid"
+                        >
+                            Envoyer
+                        </button>
+                    </div>
+                </div>
+            </form>
+            <!-- End Form Contact -->
+        </div>
+    </div>
+</div>
+<br>
+<br>
+<br>
+
+

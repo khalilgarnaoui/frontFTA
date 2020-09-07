@@ -1,0 +1,242 @@
+<section class="container-info">
+    <div class="container paddings-mini">
+        <div class="row">
+            <div class="col-lg-12">
+                <h1 class="text-center"> Seniors Masculins </h1>
+                <table class="table table-sm ">
+                    <thead class="thead-inverse">
+                    <th class="text-left">Epreuves</th>
+                    <th class="text-left">Performance</th>
+                    <th class="text-left">Nom Prénoms</th>
+                    <th class="text-left">Age</th>
+                    <th class="text-left">Club</th>
+                    <th class="text-left">Date et Lieu</th>
+                    </thead>
+                    <tbody class="text-left">
+                    <tr *ngFor="let s of SeniorMasculin">
+                        <td class="text-left">
+                            {{s.Epreuves}}
+                        </td>
+                        <td class="text-left">
+                            {{s.Perform}}
+                        </td>
+                        <td class="text-left">
+                            {{s.Nom_prenom}}
+                        </td>
+                        <td class="text-left">
+                            {{s.Age}}
+                        </td>
+                        <td class="text-left">
+                            {{s.Club}}
+                        </td>
+                        <td class="text-left">
+                            {{s.Date_lieu}}
+                        </td>
+                    </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+    <div class="container paddings-mini">
+        <div class="row">
+            <div class="col-lg-12">
+                <h1 class="text-center"> Juniors Masculins </h1>
+                <table class="table table-sm ">
+                    <thead class="thead-inverse">
+                    <th scope="col" class="text-left">Epreuves</th>
+                    <th scope="col" class="text-left">Performance</th>
+                    <th scope="col" class="text-left">Nom Prénoms</th>
+                    <th scope="col" class="text-left">Age</th>
+                    <th scope="col" class="text-left">Club</th>
+                    <th scope="col" class="text-left">Date et Lieu</th>
+                    </thead>
+                    <tbody class="text-left">
+                    <tr *ngFor="let j of JuniorMasculin">
+                        <td class="text-left">
+                            {{j.Epreuves}}
+                        </td>
+                        <td class="text-left">
+                            {{j.Peform}}
+                        </td>
+                        <td class="text-left">
+                            {{j.Nom_prenom}}
+                        </td>
+                        <td class="text-left">
+                            {{j.Age}}
+                        </td>
+                        <td class="text-left">
+                            {{j.Club}}
+                        </td>
+                        <td class="text-left">
+                            {{j.Date_lieu}}
+                        </td>
+
+                    </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+    <div class="container paddings-mini">
+        <div class="row">
+            <div class="col-lg-12">
+                <h1 class="text-center"> Cadet Masculins </h1>
+                <table class="table table-sm ">
+                    <thead class="thead-inverse">
+                    <th scope="col" class="text-left">Epreuves</th>
+                    <th scope="col" class="text-left">Performance</th>
+                    <th scope="col" class="text-left">Nom Prénoms</th>
+                    <th scope="col" class="text-left">Age</th>
+                    <th scope="col" class="text-left">Club</th>
+                    <th scope="col" class="text-left">Date et Lieu</th>
+                    </thead>
+                    <tbody class="text-left">
+                    <tr *ngFor="let c of CadetMasculin">
+                        <td class="text-left">
+                            {{c.Epreuves}}
+                        </td>
+                        <td class="text-left">
+                            {{c.Peform}}
+                        </td>
+                        <td class="text-left">
+                            {{c.Nom_prenom}}
+                        </td>
+                        <td class="text-left">
+                            {{c.Age}}
+                        </td>
+                        <td class="text-left">
+                            {{c.Club}}
+                        </td>
+                        <td class="text-left">
+                            {{c.Date_lieu}}
+                        </td>
+
+                    </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+    <div class="container paddings-mini">
+        <div class="row">
+            <div class="col-lg-12">
+                <h1 class="text-center"> Seniors Feminins </h1>
+                <table class="table table-sm ">
+                    <thead class="thead-inverse">
+                    <th scope="col" class="text-left">Epreuves</th>
+                    <th scope="col" class="text-left">Performance</th>
+                    <th scope="col" class="text-left">Nom Prénoms</th>
+                    <th scope="col" class="text-left">Age</th>
+                    <th scope="col" class="text-left">Club</th>
+                    <th scope="col" class="text-left">Date et Lieu</th>
+                    </thead>
+                    <tbody>
+                    <tr *ngFor="let s1 of SeniorFeminin">
+                        <td class="text-left">
+                            {{s1.Epreuves}}
+                        </td>
+                        <td class="text-left">
+                            {{s1.Peform}}
+                        </td>
+                        <td class="text-left">
+                            {{s1.Nom_prenom}}
+                        </td>
+                        <td class="text-left">
+                            {{s1.Age}}
+                        </td>
+                        <td class="text-left">
+                            {{s1.Club}}
+                        </td>
+                        <td class="text-left">
+                            {{s1.Date_lieu}}
+                        </td>
+
+                    </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+    <div class="container paddings-mini">
+        <div class="row">
+            <div class="col-lg-12">
+                <h1 class="text-center"> Juniors Feminins </h1>
+                <table class="table table-sm ">
+                    <thead class="thead-inverse">
+                    <th scope="col" class="text-left">Epreuves</th>
+                    <th scope="col" class="text-left">Performance</th>
+                    <th scope="col" class="text-left">Nom Prénoms</th>
+                    <th scope="col" class="text-left">Age</th>
+                    <th scope="col" class="text-left">Club</th>
+                    <th scope="col" class="text-left">Date et Lieu</th>
+                    </thead>
+                    <tbody class="text-left">
+                    <tr *ngFor="let j1 of JuniorFeminin">
+                        <td class="text-left">
+                            {{j1.Epreuves}}
+                        </td>
+                        <td class="text-left">
+                            {{j1.Peform}}
+                        </td>
+                        <td class="text-left">
+                            {{j1.Nom_prenom}}
+                        </td>
+                        <td class="text-left">
+                            {{j1.Age}}
+                        </td>
+                        <td class="text-left">
+                            {{j1.Club}}
+                        </td>
+                        <td class="text-left">
+                            {{j1.Date_lieu}}
+                        </td>
+
+                    </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <div class="container paddings-mini">
+        <div class="row">
+            <div class="col-lg-12">
+                <h1 class="text-center"> Cadet Masculins </h1>
+                <table class="table table-sm ">
+                    <thead class="thead-inverse">
+                    <th scope="col" class="text-left">Epreuves</th>
+                    <th scope="col" class="text-left">Performance</th>
+                    <th scope="col" class="text-left">Nom Prénoms</th>
+                    <th scope="col" class="text-left">Age</th>
+                    <th scope="col" class="text-left">Club</th>
+                    <th scope="col" class="text-left">Date et Lieu</th>
+                    </thead>
+                    <tbody class="text-left">
+                    <tr *ngFor="let c1 of CadetteFeminin">
+                        <td class="text-left">
+                            {{c1.Epreuves}}
+                        </td>
+                        <td class="text-left">
+                            {{c1.Peform}}
+                        </td>
+                        <td class="text-left">
+                            {{c1.Nom_prenom}}
+                        </td>
+                        <td class="text-left">
+                            {{c1.Age}}
+                        </td>
+                        <td class="text-left">
+                            {{c1.Club}}
+                        </td>
+                        <td class="text-left">
+                            {{c1.Date_lieu}}
+                        </td>
+
+                    </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</section>

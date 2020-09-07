@@ -1,0 +1,74 @@
+[
+  {
+    "idCat": 1,
+    "categorie": "Minimes 2 Filles et garçons",
+    "oct-nov": "3 km",
+    "dec": "3 km",
+    "jan": "3.5 km",
+    "champ": "3.5 km"
+  },
+  {
+    "idCat": 2,
+    "categorie": "Cadettes",
+    "oct-nov": "3 km",
+    "dec": "3 km",
+    "jan": "3.5 km",
+    "champ": "3.5 km"
+  },
+  {
+    "idCat": 3,
+    "categorie": "Cadets",
+    "oct-nov": "4 km",
+    "dec": "4 km",
+    "jan": "4.5 km",
+    "champ": "5 km"
+  },
+  {
+    "idCat": 4,
+    "categorie": "Juniors filles",
+    "oct-nov": "4 km",
+    "dec": "5 km",
+    "jan": "5 km",
+    "champ": "5 km"
+  },
+  {
+    "idCat": 5,
+    "categorie": "Juniors garçons",
+    "oct-nov": "6 km + Cross court 4 km",
+    "dec": "6 km",
+    "jan": "7 km",
+    "champ": "7 km"
+  },
+  {
+    "idCat": 6,
+    "categorie": "Seniors filles",
+    "oct-nov": "5 km",
+    "dec": "6 km",
+    "jan": "7 km",
+    "champ": "7 km"
+  },
+  {
+    "idCat": 7,
+    "categorie": "Seniors garçons",
+    "oct-nov": "8 km + Cross court 4 km",
+    "dec": "9 km",
+    "jan": "9 km",
+    "champ": "10 km"
+  },
+  {
+    "idCat": 8,
+    "categorie": "Juniors Seniors Garçons",
+    "oct-nov": "",
+    "dec": "",
+    "jan": "",
+    "champ": "Cross court 4 km Catégorie unique (Ouvert)"
+  },
+  {
+    "idCat": 9,
+    "categorie": "Masters Hommes et Dames",
+    "oct-nov": "",
+    "dec": "",
+    "jan": "",
+    "champ": "5 km Catégorie Unique Mixte hommes et dames (Ouvert)"
+  }
+]

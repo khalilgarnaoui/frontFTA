@@ -1,0 +1,28 @@
+<div class="container">
+
+  <br>
+  <h1 class="text-center">CHAMPIONAT DE TUNISIE DE MARCHE SUR ROUTE Minime MASCULIN</h1>
+  <table class="table table-sm ">
+    <thead class="thead-inverse">
+    <tr>
+      <th scope="col">Dossards</th>
+      <th scope="col">Nom et Prenom</th>
+      <th scope="col">Club</th>
+      <th scope="col">Epreuve</th>
+      <th scope="col">Performance</th>
+      <th scope="col">Classements</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr *ngFor="let s of Minm| paginate: { itemsPerPage: 10, currentPage: p }">
+      <td>{{s.Dossards}}</td>
+      <td>{{s.Nom_Prenom}}</td>
+      <td>{{s.CLUB}}</td>
+      <td>{{s.EPREUVE}}</td>
+      <td>{{s.PERF}}</td>
+      <td>{{s.CLASS}}</td>
+    </tr>
+    </tbody>
+  </table>
+  <pagination-controls (pageChange)=" p = $event" class="text-center"></pagination-controls>
+</div>

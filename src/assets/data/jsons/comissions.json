@@ -1,0 +1,65 @@
+[
+ {
+   "id": 1,
+   "commission": "Commission des Clubs et Ligues",
+   "name": "M.Mansour TRITAR",
+   "email": "mansour.tritar@gmail.com",
+   "image": ""
+ },
+ {
+   "id": 2,
+   "commission": "Commission de règlement, discipline et résolution des conflits",
+   "name": "",
+   "email": "",
+   "image": ""
+ },
+ {
+   "id": 3,
+   "commission": "Commission d'Organisation des manifestations sportives",
+   "name": "Mme Sarra TOUIBI",
+   "email": "bt.sarra@hotmail.fr",
+   "image": ""
+ },
+ {
+   "id": 4,
+   "commission": "Commission ressources, marketing et sponsoring",
+   "name": "Mme Sarra TOUIBI",
+   "email": "bt.sarra@hotmail.fr",
+   "image": ""
+ },
+ {
+   "id": 5,
+   "commission": "Commission de promotion de l'infrastructure sportive",
+   "name": "M. Tarak ZRIBI",
+   "email": "tarekzribi2@gmail.com",
+   "image": ""
+ },
+ {
+   "id": 6,
+   "commission": "Commission gouvernance, communication et système d'information",
+   "name": "M. Sami BEN M'HAMMED",
+   "email": "sami.benmhamed@gmail.com",
+   "image": ""
+ },
+ {
+   "id": 7,
+   "commission": "Commission Technique et affaires des Equipes Nationales",
+   "name": "Mme Sarra TOUIBI",
+   "email": "bt.sarra@hotmail.fr",
+   "image": ""
+ },
+ {
+   "id": 8,
+   "commission": "Commission médicale, science du sport et anti-dopage",
+   "name": "Mme Samiha AMARA",
+   "email": "samiha_ath@yahoo.fr",
+   "image": ""
+ },
+ {
+   "id": 9,
+   "commission": "Commission de formation et recyclage",
+   "name": "Mme Samiha AMARA",
+   "email": "samiha_ath@yahoo.fr",
+   "image": ""
+ }
+]

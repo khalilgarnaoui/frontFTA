@@ -1,0 +1,80 @@
+[
+  {
+    "Horaire": "08:30",
+    "Courses": "10000m Marche Jun (F) + Sen (F)",
+    "Lancers": "",
+    "Sauts": ""
+  },
+  {
+    "Horaire": "09:30",
+    "Courses": "100mH Heptathlon Cad (F)",
+    "Lancers": "",
+    "Sauts": ""
+  },
+  {
+    "Horaire": "09:45",
+    "Courses": "100mH Heptathlon Jun (F)",
+    "Lancers": "",
+    "Sauts": ""
+  },
+  {
+    "Horaire": "10:00",
+    "Courses": "100mH Heptathlon Sen (F)",
+    "Lancers": "",
+    "Sauts": ""
+  },
+  {
+    "Horaire": "10:15",
+    "Courses": "100m Décathlon Cad (G)",
+    "Lancers": "",
+    "Sauts": ""
+  },
+  {
+    "Horaire": "10:30",
+    "Courses": "100m Décathlon Jun (G)",
+    "Lancers": "",
+    "Sauts": ""
+  },
+  {
+    "Horaire": "10:45",
+    "Courses": "100m Décathlon Sen (G)",
+    "Lancers": "",
+    "Sauts": ""
+  },
+  {
+    "Horaire": "11:00",
+    "Courses": "60mH Quadriathlon Min (F)",
+    "Lancers": "",
+    "Sauts": ""
+  },
+  {
+    "Horaire": "11:15",
+    "Courses": "60mH Quadriathlon Min (G)",
+    "Lancers": "",
+    "Sauts": "Hauteur Heptathlon Cad (F) + Jun (F) + Sen (G)"
+  },
+  {
+    "Horaire": "11:45",
+    "Courses": "",
+    "Lancers": "",
+    "Sauts": "Longueur Décathlon Cad (G)"
+  },
+  {
+    "Horaire": "11:45",
+    "Courses": "",
+    "Lancers": "",
+    "Sauts": "Longueur Décathlon Jun (G) + Sen (G)"
+  },
+  {
+    "Horaire": "12:45",
+    "Courses": "",
+    "Lancers": "Poids Décathlon Cad (G)",
+    "Sauts": ""
+  },
+  {
+    "Horaire": "12:45",
+    "Courses": "",
+    "Lancers": "Poids Décathlon Jun (G) + Sen (G)",
+    "Sauts": ""
+  }
+]

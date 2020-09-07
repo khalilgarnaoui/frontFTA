@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "Catégorie": "Minimes 2005",
+    "Masculin": "3.5 km",
+    "Feminin": "2.5 km"
+  },
+  {
+    "id": 2,
+    "Catégorie": "Cadets",
+    "Masculin": "5 km",
+    "Feminin": "3.5 km"
+  },
+  {
+    "id": 3,
+    "Catégorie": "Juniors",
+    "Masculin": "7 km",
+    "Feminin": "5 km"
+  },
+  {
+    "id": 4,
+    "Catégorie": "Seniors",
+    "Masculin": "10 km",
+    "Feminin": "7 km"
+  },
+  {
+    "id": 5,
+    "Catégorie": "Masters",
+    "Masculin": "5 km ( Catégorie Unique et Mixte)",
+    "Feminin": "5 km ( Catégorie Unique et Mixte)"
+  },
+  {
+    "id": 6,
+    "Catégorie": "Seniors + Juniors",
+    "Masculin": "Cross Cours 4 Km",
+    "Feminin": "Cross Cours 4 Km"
+  }
+]

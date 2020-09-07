@@ -1,0 +1,44 @@
+[
+  {
+    "Feminin": "QUADRIATHLON : 60mh-1000m-Poids-Longueur",
+    "Masculin": "QUADRIATHLON : 60mh-1000m-Poids-Longueur",
+    "Jours": "Un Jour",
+    "Catégorie": "Minime"
+  },
+  {
+    "Feminin": "HEPTATHLON : 100mh-Hauteur-poids-200m",
+    "Masculin": "DECATHLON : 100m-Longueur-Poids – Hauteur-400m",
+    "Jours": "1er Jour",
+    "Catégorie": "Cadet"
+  },
+  {
+    "Feminin": "Longueur-javelot-800m",
+    "Masculin": "110mh-disque-perche-javelot-1500m",
+    "Jours": "2ème Jour",
+    "Catégorie": "Cadet"
+  },
+  {
+    "Feminin": "HEPTATHLON : 100mh-Hauteur-poids-200m",
+    "Masculin": "DECATHLON : 100m-Longueur-Poids – Hauteur-400m",
+    "Jours": "1er Jour",
+    "Catégorie": "Junior"
+  },
+  {
+    "Feminin": "Longueur-javelot-800m",
+    "Masculin": "110mh-disque-perche-javelot-1500m",
+    "Jours": "2ème Jour",
+    "Catégorie": "Junior"
+  },
+  {
+    "Feminin": "HEPTATHLON : 100mh-Hauteur-poids-200m",
+    "Masculin": "DECATHLON : 100m-Longueur-Poids – Hauteur-400m",
+    "Jours": "1er Jour",
+    "Catégorie": "Senior"
+  },
+  {
+    "Feminin": "Longueur-javelot-800m",
+    "Masculin": "110mh-disque-perche-javelot-1500m",
+    "Jours": "2 ème Jour",
+    "Catégorie": "Senior"
+  }
+]

@@ -1,0 +1,98 @@
+<div class="container" align="center">
+    <div class="col-md-8">
+        <div class="titles no-margin">
+            <h4>Demande De Mutation</h4>
+        </div>
+        <br>
+        <div class="info-panel">
+            <form [formGroup]="DemandeMutation" (submit)="onSubmit()" class="form-theme">
+                <div class="row">
+                    <div class="col-md-6">
+                        <label>Nom et Prénom *</label>
+                        <input
+                                type="text"
+                                class="form-control"
+                                formControlName="nom_prenom"
+                        >
+                    </div>
+                    <div class="col-md-6">
+                        <label>Date De Naissance *</label>
+                        <input
+                                type="date"
+                                class="form-control"
+                                formControlName="ddn"
+                        >
+                    </div>
+                    <div class="col-md-6">
+                        <label>Adresse *</label>
+                        <input
+                                type="text"
+                                class="form-control"
+                                formControlName="adresse"
+                        >
+                    </div>
+                    <div class="col-md-6">
+                        <label>Poste *</label>
+                        <input
+                                type="text"
+                                class="form-control"
+                                formControlName="poste"
+                        >
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <label>Licencié(e) au cours de la saison sportive *</label>
+                        <input
+                                type="text"
+                                class="form-control"
+                                formControlName="saisionSportive"
+                        >
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <label>à l'association</label>
+                        <input
+                                type="text"
+                                class="form-control"
+                                formControlName="nomAsso"
+                        >
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <label>MOTIF INVOQUE</label>
+                        <textarea maxlength="5000" rows="10" class="form-control" formControlName="motif"
+                                  style="height: 138px;" required="required"></textarea>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <button
+                                type="submit"
+                                class="btn btn-lg btn-primary"
+                                [disabled]="!DemandeMutation.valid"
+                        >
+                            Envoyer
+                        </button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+<br>
+<br>
+<div class="container" align="center">
+    <div class="col-md-8">
+        <div class="titles no-margin">
+            <h4>EXTRAIT DU REGLEMENT</h4>
+            <a href="../../../assets/Files/DEMANDE DE MUTATION ATHLETE.pdf" download>Télécharger l'extrait du Réglement
+                Des Mutations</a>
+            <img src="../../../assets/img/pdf.png">
+        </div>
+    </div>
+</div>
+<br>
+<br>

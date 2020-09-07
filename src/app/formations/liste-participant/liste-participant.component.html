@@ -1,0 +1,26 @@
+<section class="content-info" *ngIf="participantFormation.length > 0">
+
+  <div class="container paddings-mini">
+    <div class="row">
+      <div class="col-lg-12">
+        <table>
+          <thead>
+          <tr>
+            <td>nom</td>
+            <td>date de naissance</td>
+            <td>genre</td>
+          </tr>
+          </thead>
+<tbody>
+<tr *ngFor="let p of participantFormation">
+<td>{{p.name}}</td>
+<td>{{p.date_naissance}}</td>
+<td>{{p.genre}}</td>
+</tr>
+</tbody>
+
+        </table>
+      </div>
+    </div>
+  </div>
+</section>

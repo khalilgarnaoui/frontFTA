@@ -1,0 +1,14 @@
+<!-- layout-->
+
+<div id="layout">
+  <div class="section-title" style="background:url(assets/img/slide/1.jpg)"></div>
+  <section class="content-info">
+    <div class="container padding-top">
+      <div class="row portfolioContainer">
+        <div class="col-md-6 col-lg-4 col-xl-3 col-sm-5" *ngFor="let club of clubs">
+          <app-affiliated-club [club]="club"></app-affiliated-club>
+        </div>
+      </div>
+    </div>
+  </section>
+</div>

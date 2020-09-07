@@ -1,0 +1,114 @@
+<div class="section-title" style="background:url()">
+    <div class="container">
+        <div class="row">
+
+            <div class="col-md-4">
+                <div class="breadcrumbs">
+                    <ul>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container ">
+    <div align="center" *ngIf="form.communique">
+        <br>
+        <br>
+        <h1>Communiquée de formation </h1>
+        <h1> {{form.name}} </h1>
+        <br>
+        <embed [src]="sanitizer.bypassSecurityTrustResourceUrl(pdfsrc)" type="application/pdf" width="100%"
+               height="600px"/>
+    </div>
+
+    <div align="center" class="info-panel">
+        <br>
+        <br>
+        <h1>Fomulaire d'inscription</h1>
+        <form [formGroup]="formulaire" class="form-theme" (ngSubmit)="onSubmit()">
+            <div class="row">
+                <div class="col-md-6">
+                    <label >Nom et prénom *</label>
+                    <input
+                            type="text"
+                            formControlName="name"
+                            class="form-control"
+                            placeholder="Entrez votre nom et prénom" >
+                </div>
+                <div  class="col-md-6">
+                    <label >Date de naissance et lieu *</label>
+                    <input
+                            type="date"
+                            formControlName="date_naissance"
+                            class="form-control" >
+                </div>
+            </div>
+            <div  class="row">
+                <div  class="col-md-6">
+                    <label >Genre *</label>
+                    <select type="text" formControlName="genre" class="form-control" >
+                        <option value="homme">Homme</option>
+                        <option value="femme">Femme</option>
+                    </select>
+                </div>
+                <div  class="col-md-6">
+                    <label >CIN *</label>
+                    <input type="number"
+                           formControlName="cin"
+                           class="form-control" placeholder="Entrez N° CIN" >
+                </div>
+            </div>
+            <div class="row">
+                <div  class="col-md-12">
+                    <label >Expérience ATHLETE *</label><br>
+                        <label class="control-label col-sm-2">Nom du club</label>
+                        <div class="col-sm-10">
+                            <input type="text"
+                                   formControlName="club"
+                                   class="form-control" placeholder="Entrez Nom du club">
+                        </div>
+                    <label class="control-label col-sm-2">Equipe Nationnale </label>
+                    <div class="col-sm-10">
+                        <input type="text"
+                               formControlName="equipe_nationale"
+                               class="form-control" placeholder="Entrez Non de l'équipe">
+                    </div>
+                </div>
+            </div>
+            <div  class="row">
+                <div  class="col-md-12">
+                    <label >Expérience entraineur </label>
+                    <div class="form-group">
+                        <input type="text"
+                               formControlName="equipe_entraineur"
+                               class="form-control" placeholder="Entrez Nom de l'équipe">
+                    </div>
+                </div>
+            </div>
+            <div  class="row">
+                <div  class="col-md-6"><label>E-mail</label>
+                    <input class="form-control" id="email" maxlength="100" name="Email" required="required"
+                           type="email" value="" formControlName="email"  placeholder="Entrez votre E-mail">
+                </div>
+                <div class="col-md-6">
+                    <label >Numéro de téléphone</label>
+                    <input type="number" formControlName="tele" class="form-control"  >
+                </div>
+            </div>
+            <div  class="row">
+                <div  class="col-md-12">
+                    <br>
+                    <button [disabled]="!formulaire.valid"  class="btn btn-lg btn-primary" type="submit"> envoyer demande </button>
+                </div>
+            </div>
+        </form>
+        <br>
+        <br>
+        <br>
+    </div>
+    <app-liste-participant [formId]="formId"></app-liste-participant>
+
+</div>
+
+

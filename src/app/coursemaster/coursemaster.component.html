@@ -1,0 +1,57 @@
+<div class="col-lg-12">
+  <h3 class="clear-title">{{course.annee}}</h3>
+</div>
+<div class="big-table">
+  <div class="col-md-12">
+
+    <table class=" records-table ">
+      <thead>
+      <tr>
+        <th>
+          Manifestation
+        </th>
+        <th>
+          Niveau
+        </th>
+        <th>
+          Lieu
+        </th>
+        <th>
+          Organisateur
+        </th>
+        <th>
+          Catégorie
+        </th>
+        <th>
+          Date
+        </th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr *ngFor="let info of course.calendrier">
+        <td data-th="Competition Category">
+          {{info.manifestation}}
+        </td>
+        <td data-th="Venue">
+          <img *ngIf="info.niveau === 'National'" src="https://media.aws.iaaf.org/Flags/TUN.gif" class="tableflag">
+
+          {{info.niveau}}
+        </td>
+        <td data-th="Country">
+          {{info.lieu}}
+        </td>
+        <td data-th="Date">
+          {{info.organisateur}}
+        </td>
+      <td>
+          {{info.categorie}}
+      </td>
+        <td data-th="Meeting Name">
+          {{info.date}}
+        </td>
+      </tr>
+
+      </tbody>
+    </table>
+  </div>
+</div>

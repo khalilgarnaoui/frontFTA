@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "Catégorie": "Minime",
+    "Masculin": "60m - 150m - 200m H - 600m - 1000m - Longueur – Hauteur – Poids - Marteau",
+    "Feminin": "60m - 150m - 200m H - 600m - 1000m - Longueur – Hauteur – Poids - Marteau"
+  },
+  {
+    "id": 2,
+    "Catégorie": "Cadet",
+    "Masculin": "60m - 300m - 300m H -600m -1200m - Perche - T.Saut – Javelot - Marteau",
+    "Feminin": "60m - 300m - 300m H - 600m - 1200m - Perche - T.Saut - Javelot- Marteau"
+  },
+  {
+    "id": 3,
+    "Catégorie": "Junior",
+    "Masculin": "60m - 300m - 300m H -600m - 1200m - Longueur - Hauteur – Perche - T.Saut - Javelot Marteau – Poids - Disque",
+    "Feminin": "60m - 300m - 300m H - 600m - 1200m - Longueur - Hauteur – Perche - T.Saut - Javelot – Marteau – Poids - Disque"
+  },
+  {
+    "id": 4,
+    "Catégorie": "Senior",
+    "Masculin": "60m - 300m - 300m H - 600m - 1200m - Longueur - Hauteur  - Perche - T.Saut – Javelot - Marteau – Poids - Disque",
+    "Feminin": "60m - 300m - 300m H - 600m - 1200m - Longueur - Hauteur – Perche - T.Saut - Javelot – Marteau – Poids - Disque"
+  }
+
+]

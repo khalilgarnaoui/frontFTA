@@ -1,0 +1,48 @@
+<section class="content-info">
+
+    <div class="container paddings-mini">
+        <div class="row">
+
+            <div class="col-lg-12">
+                <h3 class="clear-title">Centres</h3>
+            </div>
+            <!-- tableau des centres -->
+            <div class="container">
+                <div class="col-lg-10">
+                    <table class="table-striped table-responsive table-hover " align="center">
+                        <thead>
+                        <tr>
+                            <th>Centre</th>
+                            <th class="text-center">Directeur du Centre</th>
+                            <th>N° Tel</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                        <tr *ngFor="let centre of centre">
+                            <td>
+                                <a data-toggle="modal" data-target="#modal" href=""
+                                   (click)="CentreName = centre.name"><strong>{{centre.name}}</strong></a><br>
+                            </td>
+                            <td class="text-center col-sm-3">{{centre.directeur}}</td>
+                            <td class=" text-center col-sm-3">
+                                {{centre.num}}
+                            </td>
+
+                        </tr>
+
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            <!-- fin tableau des centres -->
+
+
+            <!-- Modal -->
+            <app-centres-detail [CentreName]="CentreName" [centreDetail]="centreDetails"></app-centres-detail>
+            <!-- fin modal -->
+
+        </div>
+    </div>
+    <br>
+    <br>
+</section>

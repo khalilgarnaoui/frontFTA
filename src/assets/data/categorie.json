@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "Organisme": "Comité",
+    "Catégorie": "Ecole",
+    "Année de naissance": "2011 et plus"
+  },
+  {
+    "id": 2,
+    "Organisme": "Comité",
+    "Catégorie": "Poussin B",
+    "Année de naissance": "2010"
+  },
+  {
+    "id": 3,
+    "Organisme": "Ligues",
+    "Catégorie": "Poussin A",
+    "Année de naissance": "2009"
+  },
+  {
+    "id": 4,
+    "Organisme": "Ligues",
+    "Catégorie": "Benjamin B",
+    "Année de naissance": "2008"
+  },
+  {
+    "id": 5,
+    "Organisme": "Ligues",
+    "Catégorie": "Benjamin A",
+    "Année de naissance": "2007"
+  },
+  {
+    "id": 6,
+    "Organisme": "Ligues",
+    "Catégorie": "Minime B",
+    "Année de naissance": "2006"
+  },
+  {
+    "id": 7,
+    "Organisme": "FTA",
+    "Catégorie": "Minime A",
+    "Année de naissance": "2005"
+  },
+  {
+    "id": 8,
+    "Organisme": "FTA",
+    "Catégorie": "Cadet",
+    "Année de naissance": "2003/2004"
+  },
+  {
+    "id": 9,
+    "Organisme": "FTA",
+    "Catégorie": "junior",
+    "Année de naissance": "2002/2001"
+  },
+  {
+    "id": 10,
+    "Organisme": "FTA",
+    "Catégorie": "senior",
+    "Année de naissance": "2000 et plus"
+  },
+  {
+    "id": 11,
+    "Organisme": "FTA",
+    "Catégorie": "Master 1",
+    "Année de naissance": ""
+  },
+  {
+    "id": 12,
+    "Organisme": "FTA",
+    "Catégorie": "Master 2",
+    "Année de naissance": ""
+  }
+]

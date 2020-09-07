@@ -1,0 +1,12 @@
+<div *ngIf="competition">
+    <div class="item-team">
+        <div class="head-team">
+            <img src="assets/img/competitions/{{competition.image}}" alt="location-team">
+        </div>
+        <div class="info-team" style="height: 200px">
+            <h4> {{competition.name}} </h4>
+        </div>
+        <a routerLink="{{competition._id}}" class="btn"> voir plus <i class="fa fa-angle-right"
+                                                                                  aria-hidden="true"></i></a>
+    </div>
+</div>

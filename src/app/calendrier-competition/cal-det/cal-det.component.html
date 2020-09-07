@@ -1,0 +1,27 @@
+<table class="table table-sm ">
+  <thead class="thead-inverse">
+  <tr>
+    <th> Nom de la competition</th>
+    <th class="text-center"> Date Debut</th>
+    <th class="text-center"> Date Fin</th>
+    <th class="text-center"> Lieu</th>
+    <th class="text-center"> Organisateur</th>
+    <th class="text-center"> Niveau</th>
+    <th class="text-center"> Catégorie</th>
+    <th class="text-center"> </th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr *ngFor="let c of calendrier  | paginate: { itemsPerPage: 10, currentPage: p }" >
+    <td scope="row">{{c.name}}</td>
+    <td class="text-center">{{c.date_debut | date: 'dd/MM/yyyy'}}</td>
+    <td class="text-center">{{c.date_fin | date: 'dd/MM/yyyy' }}</td>
+    <td class="text-center">{{c.lieu}}</td>
+    <td class="text-center">{{c.organisateur}}</td>
+    <td class="text-center">{{c.niveau}}</td>
+    <td class="text-center">{{c.categorie}}</td>
+    <td class="text-center"><a routerLink="{{c._id}}"> voir details </a> </td>
+  </tr>
+  </tbody>
+</table>
+<pagination-controls (pageChange)=" p = $event" class="text-center"></pagination-controls>

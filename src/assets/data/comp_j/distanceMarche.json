@@ -1,0 +1,134 @@
+[
+  {
+    "idCat": 1,
+    "Catégories": "Minimes A et B",
+    "Garçons": "3 km",
+    "Filles": "2 km",
+    "mois": "MARCHE SUR ROUTE - Novembre-Décembre"
+  },
+  {
+    "idCat": 2,
+    "Catégories": "Cadets",
+    "Garçons": "5 km",
+    "Filles": "4 km",
+    "mois": "MARCHE SUR ROUTE - Novembre-Décembre"
+  },
+  {
+    "idCat": 3,
+    "Catégories": "Juniors",
+    "Garçons": "6 km",
+    "Filles": "6 km",
+    "mois": "MARCHE SUR ROUTE - Novembre-Décembre"
+  },
+  {
+    "idCat": 4,
+    "Catégories": "Seniors",
+    "Garçons": "8 km",
+    "Filles": "8 km",
+    "mois": "MARCHE SUR ROUTE - Novembre-Décembre"
+  },
+  {
+    "idCat": 5,
+    "Catégories": "Minimes A et B",
+    "Garçons": "4 km",
+    "Filles": "3 km",
+    "mois": "MARCHE SUR ROUTE - Janvier"
+  },
+  {
+    "idCat": 6,
+    "Catégories": "Cadets",
+    "Garçons": "6 km",
+    "Filles": "5 km",
+    "mois": "MARCHE SUR ROUTE - Janvier"
+  },
+  {
+    "idCat": 7,
+    "Catégories": "Juniors",
+    "Garçons": "8 km",
+    "Filles": "8 km",
+    "mois": "MARCHE SUR ROUTE - Janvier"
+  },
+  {
+    "idCat": 8,
+    "Catégories": "Seniors",
+    "Garçons": "10 km",
+    "Filles": "10 km",
+    "mois": "MARCHE SUR ROUTE - Janvier"
+  },{
+  "idCat": 9,
+  "Catégories": "Minimes A et B",
+  "Garçons": "5 km",
+  "Filles": "3 km",
+  "mois": "MARCHE SUR ROUTE - Février"
+},
+  {
+    "idCat": 10,
+    "Catégories": "Cadets",
+    "Garçons": "8 km",
+    "Filles": "5 km",
+    "mois": "MARCHE SUR ROUTE - Février"
+  },
+  {
+    "idCat": 11,
+    "Catégories": "Juniors",
+    "Garçons": "10 km",
+    "Filles": "10 km",
+    "mois": "MARCHE SUR ROUTE - Février"
+  },
+  {
+    "idCat": 12,
+    "Catégories": "Seniors",
+    "Garçons": "15 km",
+    "Filles": "15 km",
+    "mois": "MARCHE SUR ROUTE - Février"
+  },
+  {
+    "idCat": 13,
+    "Catégories": "Minimes A et B",
+    "Garçons": "5 km",
+    "Filles": "3 km",
+    "mois": "MARCHE SUR ROUTE - Mars"
+  },
+  {
+    "idCat": 14,
+    "Catégories": "Cadets",
+    "Garçons": "8 km",
+    "Filles": "3 km",
+    "mois": "MARCHE SUR ROUTE - Mars"
+  },
+  {
+    "idCat": 15,
+    "Catégories": "Juniors",
+    "Garçons": "10 km",
+    "Filles": "5 km",
+    "mois": "MARCHE SUR ROUTE - Mars"
+  },
+  {
+    "idCat": 16,
+    "Catégories": "Seniors",
+    "Garçons": "10 km",
+    "Filles": "10 km",
+    "mois": "MARCHE SUR ROUTE - Mars"
+  },
+  {
+    "idCat": 17,
+    "Catégories": "Minimes A et B",
+    "Garçons": "5000 m",
+    "Filles": "3000 m",
+    "mois": "CHAMPIONNATS NATIONAUX DE MARCHE SUR PISTE - Juin"
+  },
+  {
+    "idCat": 18,
+    "Catégories": "Cadets",
+    "Garçons": "10000 m",
+    "Filles": "5000 m",
+    "mois": "CHAMPIONNATS NATIONAUX DE MARCHE SUR PISTE - Juin"
+  },
+  {
+    "idCat": 19,
+    "Catégories": "Juniors et Seniors",
+    "Garçons": "10000 m",
+    "Filles": "10000 m",
+    "mois": "CHAMPIONNATS NATIONAUX DE MARCHE SUR PISTE - Juin"
+  }
+]

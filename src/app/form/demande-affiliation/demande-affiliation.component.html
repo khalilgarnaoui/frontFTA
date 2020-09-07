@@ -1,0 +1,230 @@
+<div class="container" align="center">
+    <div class="col-md-8">
+        <div class="titles no-margin">
+            <h4>DEMANDE D'AFFILIATION</h4>
+        </div>
+        <br>
+        <div class="info-panel">
+            <!-- Form Contact -->
+            <form [formGroup]="AffiliationForm" (submit)="onSubmit()" class="form-theme">
+                <div class="row">
+                    <div class="col-md-6">
+                        <label>Date De La Demande</label>
+                        <input
+                                type="date"
+                                class="form-control"
+                                formControlName="date"
+                        >
+                    </div>
+                    <div class="col-md-6">
+                        <label>Gouvernorat</label>
+                        <input
+                                type="text"
+                                class="form-control"
+                                formControlName="gouvernorat"
+                        >
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <label>Nom de l'Association ou Club</label>
+                        <input
+                                type="text"
+                                class="form-control"
+                                formControlName="nom_club"
+                        >
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <label>Siége social</label>
+                        <input
+                                type="text"
+                                class="form-control"
+                                formControlName="adresse"
+                        >
+                    </div>
+                    <div class="col-md-6">
+                        <label>Code postal</label>
+                        <input
+                                type="number"
+                                class="form-control"
+                                formControlName="codepostal"
+                        >
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <label>Numéro du visa</label>
+                        <input
+                                type="number"
+                                class="form-control"
+                                formControlName="num_visa"
+                        >
+                    </div>
+                    <div class="col-md-6">
+                        <label>Date Du Visa</label>
+                        <input
+                                type="date"
+                                class="form-control"
+                                formControlName="date_visa"
+                        >
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <label>CCP ou CCB</label>
+                        <input
+                                type="text"
+                                class="form-control"
+                                formControlName="ccp"
+                        >
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <label>Tel</label>
+                        <input
+                                type="number"
+                                class="form-control"
+                                formControlName="tel"
+                        >
+                    </div>
+                    <div class="col-md-6">
+                        <label>Fax</label>
+                        <input
+                                type="number"
+                                class="form-control"
+                                formControlName="fax"
+                        >
+                    </div>
+                </div>
+                <fieldset>
+                    <legend>COMPOSITION DU COMITE DIRECTEUR</legend>
+                </fieldset>
+                <div class="row">
+                    <div class="col-md-12">
+                        <label>Président</label>
+                        <input
+                                type="text"
+                                class="form-control"
+                                formControlName="pres_comitedirecteur"
+                        >
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <label>Secrétaire général</label>
+                        <input
+                                type="text"
+                                class="form-control"
+                                formControlName="secretaire_comitedirecteur"
+                        >
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <label>Trésorier général</label>
+                        <input
+                                type="text"
+                                class="form-control"
+                                formControlName="tresorier_comitedirecteur"
+                        >
+                    </div>
+                </div>
+                <fieldset>
+                    <legend>COMPOSITION DE LA SECTION D'ATHLETISME</legend>
+                </fieldset>
+                <div class="row">
+                    <div class="col-md-12">
+                        <label>Président</label>
+                        <input
+                                type="text"
+                                class="form-control"
+                                formControlName="pres_sectionathlet"
+                        >
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <label>Secrétaire général</label>
+                        <input
+                                type="text"
+                                class="form-control"
+                                formControlName="secretaire_sectionathlet"
+                        >
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <label>Trésorier général</label>
+                        <input
+                                type="text"
+                                class="form-control"
+                                formControlName="tresorier_sectionathlet"
+                        >
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <label>Directeur Technique de la section</label>
+                        <input
+                                type="text"
+                                class="form-control"
+                                formControlName="directeur_tech"
+                        >
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <label>Nom de la personne chargée des relations avec la FTA</label>
+                        <input
+                                type="text"
+                                class="form-control"
+                                formControlName="nom_perschargee"
+                        >
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <label>Adresse</label>
+                        <input
+                                type="text"
+                                class="form-control"
+                                formControlName="adresse_perschargee"
+                        >
+                    </div>
+                </div>
+                <br>
+                <div>
+                    <label align="center">Enregistrement ou Renouvellement *</label>
+                </div>
+                <br>
+                <div class="row">
+                    <div class="radio col-md-6" *ngFor="let type of types">
+                        <input
+                                type="radio"
+                                name="type"
+                                [value]="type"
+                                formControlName="type"
+                        > {{type}}
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <button
+                                type="submit"
+                                class="btn btn-lg btn-primary"
+                                [disabled]="!AffiliationForm.valid"
+                        >
+                            Envoyer
+                        </button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+<br>
+<br>
+<br>

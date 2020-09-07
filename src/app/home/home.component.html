@@ -1,0 +1,496 @@
+<!-- layout-->
+<div id="layout">
+  <!-- Parallax Section - Players -->
+  <div class="parallax-section parallax-total" style="background:url(assets/img/slide/slider.jpg);">
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-md-12">
+          <div class="container">
+            <div class="row align-items-center justify-content-center text-center">
+              <div class="col-lg-7">
+                <div class="info-slider" data-aos="fade-down-right"
+                     data-aos-easing="ease-out-cubic"
+                     data-aos-duration="100">
+                  <br><br><br>
+                  <h1 class="text-center">Championnat Arabe Juniors Tunis 2020</h1>
+                  <p></p>
+                  <a routerLink="/champ_arabe20" class="btn-iw outline">Voir plus <i class="fa fa-long-arrow-right"></i></a>
+                  <br><br><br><br><br><br><br>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <section content="container-info" data-aos="fade-up">
+      <div class="dark-home paddings-50-50">
+        <div class="container">
+          <div class="row">
+            <!-- Club Ranking -->
+            <div class="col-lg-4">
+              <div class="club-ranking" data-aos="fade-up"
+                   data-aos-easing="ease-out-cubic"
+                   data-aos-duration="3000">
+                <h5><a routerLink="/records">Statistiques</a>
+                </h5>
+                <div class="info-ranking scroller">
+                  <ul>
+                    <a>Mandat 18-19 </a>
+
+                    <li *ngFor="let m of  Md1819">
+                              <span class="position">
+                                  {{m.MANDAT}}
+                              </span>
+
+                      <span class="points">
+                                {{m.totals}}
+                                </span>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <!-- End Club Ranking -->
+            <!-- recent-results -->
+            <div class="col-lg-4">
+              <div class="club-ranking" data-aos="fade-up"
+                   data-aos-easing="ease-out-cubic"
+                   data-aos-duration="3000">
+
+                <h5><a routerLink="/records">Record</a>
+                </h5>
+                <div class="info-ranking scroller">
+                  <ul>
+                    <a>Indoors</a>
+                    <li *ngFor="let In of  Indoors">
+                              <span class="position">
+                                  {{In.classement}}
+                              </span>
+                      <a href="single-team.html">
+                        <img src="img/clubs-logos/rusia.png" alt="">
+                        {{In.Nom_prenom}}
+                      </a>
+                      <span class="points">
+                                {{In.Epreuves}}
+                                </span>
+
+                    </li>
+                    <a>Outdoors</a>
+                    <li *ngFor="let Out of  Outdoors">
+                              <span class="position">
+                                  {{Out.classement}}
+                              </span>
+                      <a href="single-team.html">
+                        <img src="img/clubs-logos/rusia.png" alt="">
+                        {{Out.Nom_prenom}}
+                      </a>
+                      <span class="points">
+                                {{Out.Epreuves}}
+                                </span>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <!-- Top player -->
+            <div class="col-lg-4">
+              <div class="player-ranking" data-aos="fade-up"
+                   data-aos-easing="ease-out-cubic"
+                   data-aos-duration="3000">
+                <h5><a href="group-list.html">Les élites</a></h5>
+                <div class="info-player scroller">
+                  <ul>
+                    <li *ngFor="let e of elite">
+                              <span class="position">
+                                  {{e.id}}
+                              </span>
+                      <a href="single-team.html">
+                        <img src="img/players/1.jpg" alt="">
+                        {{e.nom}} - {{e.prenom}}
+                      </a>
+                      <span class="points">
+                                    {{e.Meilleurperfo1}}
+                                </span>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- End section-hero-posts-->
+
+    <!-- Section Area - Content Central -->
+    <br>
+    <section data-aos="fade-up"
+             data-aos-easing="ease-out-cubic"
+             data-aos-duration="3000">
+
+      <div class="row align-items-center justify-content-center text-center">
+        <div class="col-lg-7">
+          <div class="info-slider">
+            <br><br><br>
+            <h1>Top 10</h1>
+            <a routerLink="/listeAthletes" class="btn-iw outline">Voir plus <i class="fa fa-long-arrow-right"></i></a>
+            <br><br><br>
+          </div>
+        </div>
+      </div>
+      <div class="container" data-aos="fade-up"
+           data-aos-easing="ease-out-cubic"
+           data-aos-duration="3000">
+        <div class="row justify-content-center">
+          <div class="col-md-12">
+            <ngx-slick-carousel class="carousel"
+                                #slickModal="slick-carousel"
+                                [config]="slideConfig"
+                                (init)="slickInit($event)">
+              <div ngxSlickItem *ngFor="let player of liste " class="col-xl-3 col-lg-4 col-md-6">
+                  <app-itemplayer class="col-md-6 col-lg-4 col-xl-3"   [player]="player "></app-itemplayer>
+              </div>
+            </ngx-slick-carousel>
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+  <section data-aos="fade-up"
+           data-aos-easing="ease-out-cubic"
+           data-aos-duration="3000">
+    <!-- White Section -->
+    <div class="paddings">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-8">
+            <!-- Point Table -->
+            <div class="panel-box">
+              <div class="titles no-margin border-0">
+                <h4>Résultats des compétitions</h4>
+              </div>
+              <ngx-slick-carousel class="carousel"
+                                  #slickModal="slick-carousel"
+                                  [config]="slideConfig2">
+                <div class="container scroller1">
+                  <a class="text-info">CHAMPIONNAT DE TUNISIE MARCHE SUR ROUTE RADES</a>
+                  <table ngxSlickItem class="table table-sm">
+                    <thead class="point-table-head">
+                    <tr>
+                      <th class="text-left">No</th>
+                      <th class="text-left">Nom</th>
+                      <th class="text-center">Club</th>
+                      <th class="text-center">Catégorie</th>
+                      <th class="text-center">Epreuve</th>
+                      <th class="text-center">Performance</th>
+                    </tr>
+                    </thead>
+
+                    <tbody class="text-center">
+                    <tr *ngFor="let c of ChampRSenJun; index as in">
+                      <td class="text-left number">{{in + 1}}</td>
+                      <td class="text-left">
+                        <a href="single-team.html">
+                          <span>{{c.Nom_Prenom}}</span>
+                        </a>
+                      </td>
+                      <td>{{c.CLUB}}</td>
+                      <td>{{c.CAT}}</td>
+                      <td>{{c.EPREUVE}}</td>
+                      <td>{{c.PERF}}</td>
+                    </tr>
+                    </tbody>
+                  </table>
+                </div>
+                <div class="container scroller1">
+                  <a class="text-center text-info">Championnat des épreuves combinées</a>
+                  <table ngxSlickItem class="table table-sm">
+                    <thead class="point-table-head">
+                    <tr>
+                      <th class="text-left">No</th>
+                      <th class="text-left">Nom</th>
+                      <th class="text-center">Club</th>
+                      <th class="text-center">Catégorie</th>
+                      <th class="text-center">Epreuve</th>
+                      <th class="text-center">Performance</th>
+                    </tr>
+                    </thead>
+
+                    <tbody class="text-center">
+                    <tr *ngFor="let ch of ChampEC; index as in">
+                      <td class="text-left number">{{in + 1}}</td>
+                      <td class="text-left">
+                        <a href="single-team.html">
+                          <span>{{ch.Nom_Prenom}}</span>
+                        </a>
+                      </td>
+                      <td>{{ch.CLUB}}</td>
+                      <td>{{ch.CAT}}</td>
+                      <td>{{ch.EPREUVE}}</td>
+                      <td>{{ch.PERF}}</td>
+                    </tr>
+                    </tbody>
+                  </table>
+                </div>
+                <div class="container scroller1">
+                  <a class="text-center text-info">CHAMPIONAT DE TUNISIE DE MARCHE SUR ROUTE YASMINE HAMMAMET</a>
+                  <table ngxSlickItem class="table table-sm">
+                    <thead class="point-table-head">
+                    <tr>
+                      <th class="text-left">No</th>
+                      <th class="text-left">Nom</th>
+                      <th class="text-center">Club</th>
+                      <th class="text-center">Catégorie</th>
+                      <th class="text-center">Epreuve</th>
+                      <th class="text-center">Performance</th>
+                    </tr>
+                    </thead>
+
+                    <tbody class="text-center">
+                    <tr *ngFor="let ch1 of ChampMSRH; index as in">
+                      <td class="text-left number">{{in + 1}}</td>
+                      <td class="text-left">
+                        <a href="single-team.html">
+                          <span>{{ch1.Nom_Prenom}}</span>
+                        </a>
+                      </td>
+                      <td>{{ch1.CLUB}}</td>
+                      <td>{{ch1.CAT}}</td>
+                      <td>{{ch1.EPREUVE}}</td>
+                      <td>{{ch1.PERF}}</td>
+                    </tr>
+                    </tbody>
+                  </table>
+                </div>
+                <div class="container scroller1">
+                  <a class="text-center text-info">FINAL CROSS COUNTRY LE 17/02/2019 A GAFSA</a>
+                  <table ngxSlickItem class="table table-sm">
+                    <thead class="point-table-head">
+                    <tr>
+                      <th class="text-left">No</th>
+                      <th class="text-left">Nom</th>
+                      <th class="text-center">Club</th>
+                      <th class="text-center">Catégorie</th>
+                      <th class="text-center">Epreuve</th>
+                      <th class="text-center">Performance</th>
+                    </tr>
+                    </thead>
+
+                    <tbody class="text-center">
+                    <tr *ngFor="let ch2 of FinGafsaSEM; index as in">
+                      <td class="text-left number">{{in + 1}}</td>
+                      <td class="text-left">
+                        <a href="single-team.html">
+                          <span>{{ch2.Nom_Prenom}}</span>
+                        </a>
+                      </td>
+                      <td>{{ch2.CLUB}}</td>
+                      <td>{{ch2.CAT}}</td>
+                      <td>{{ch2.EPREUVE}}</td>
+                      <td>{{ch2.PERF}}</td>
+                    </tr>
+                    </tbody>
+                  </table>
+                </div>
+                <div class="container scroller1">
+                  <a class="text-center text-info">Championnat d'Afrique Masters 2019</a>
+                  <table ngxSlickItem class="table table-sm">
+                    <thead class="point-table-head">
+                    <tr>
+                      <th class="text-left">No</th>
+                      <th class="text-left">Nom</th>
+                      <th class="text-center">Club</th>
+                      <th class="text-center">Catégorie</th>
+                      <th class="text-center">Epreuve</th>
+                      <th class="text-center">Performance</th>
+                    </tr>
+                    </thead>
+
+                    <tbody class="text-center">
+                    <tr *ngFor="let ch3 of ChAfrMaster2019; index as in">
+                      <td class="text-left number">{{in + 1}}</td>
+                      <td class="text-left">
+                        <a href="single-team.html">
+                          <span>{{ch3.Nom_Prenom}}</span>
+                        </a>
+                      </td>
+                      <td>{{ch3.Pays}}</td>
+                      <td>{{ch3.CAT}}</td>
+                      <td>{{ch3.EPREUVE}}</td>
+                      <td>{{ch3.PERF}}</td>
+                    </tr>
+                    </tbody>
+                  </table>
+                </div>
+              </ngx-slick-carousel>
+              <a routerLink="/results" class="btn-iw full no-margin">Voir Résultats Des Compétition</a>
+            </div>
+            <!-- End Point Table -->
+            <!-- End gray Section -->
+
+            <!-- End Gray Section -->
+          </div>
+          <div class="col-md-4">
+            <!-- Recent Post -->
+            <div class="panel-box">
+
+              <div class="titles">
+                <h4>Recent News</h4>
+              </div>
+              <div class="container scroller1">
+                <!-- Post Item -->
+                <div class="post-item" *ngFor="let e of evenement">
+                  <div *ngIf="e.eventId !== null">
+                    <div class="row">
+                      <div class="col-md-4">
+                        <div class="img-hover">
+                          <img src="img/blog/1.jpg" alt="" class="img-responsive">
+                        </div>
+                      </div>
+                      <div class="col-md-8">
+                        <h5><a href="single-news.html">{{e.eventTitle}}</a></h5>
+                        <p><a routerLink="/evenement">Read More [+]</a></p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <!-- End Recent Post -->
+            </div>
+
+
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End White Section -->
+  </section>
+  <section>
+    <div class="dark-section paddings-50-50">
+      <div class="container">
+        <div class="row">
+          <!-- Top player -->
+          <div class="col-lg-4">
+            <div class="player-ranking">
+              <h5><a href="group-list.html">Compétitions organisées par la Fédération Tunisienne
+                d'Athlétisme</a></h5>
+              <div class="info-player">
+                <ul>
+                  <li>
+                                              <span class="position">
+                                                  1
+                                              </span>
+                    <a href="single-team.html">
+                      <img src="img/players/1.jpg" alt="">
+                      CROSS COUNTRY
+                    </a>
+                  </li>
+
+                  <li>
+                                              <span class="position">
+                                                  2
+                                              </span>
+                    <a href="single-team.html">
+                      <img src="img/players/2.jpg" alt="">
+                      LA MARCHE SUR ROUTE
+                    </a>
+                  </li>
+
+                  <li>
+                                              <span class="position">
+                                                  3
+                                              </span>
+                    <a href="single-team.html">
+                      <img src="img/players/3.jpg" alt="">
+                      CRITERIUM D’HIVER
+                    </a>
+                  </li>
+
+                  <li>
+                                              <span class="position">
+                                                  4
+                                              </span>
+                    <a href="single-team.html">
+                      <img src="img/players/4.jpg" alt="">
+                      Championnats Nationaux Des Epreuves Combinées
+                    </a>
+                  </li>
+
+                  <li>
+                                              <span class="position">
+                                                  5
+                                              </span>
+                    <a href="single-team.html">
+                      <img src="img/players/5.jpg" alt="">
+                      10000m (Junior et Senior F+G)
+                    </a>
+                  </li>
+
+                  <li>
+                                              <span class="position">
+                                                  6
+                                              </span>
+                    <a href="single-team.html">
+                      <img src="img/players/6.jpg" alt="">
+                      Marche Sur Piste
+                    </a>
+                  </li>
+                  <li>
+                                              <span class="position">
+                                                  7
+                                              </span>
+                    <a href="single-team.html">
+                      <img src="img/players/6.jpg" alt="">
+                      Championnat d'afrique Masters
+                    </a>
+                  </li>
+                  <li>
+                                              <span class="position">
+                                                  8
+                                              </span>
+                    <a href="single-team.html">
+                      <img src="img/players/6.jpg" alt="">
+                      Championnat d'arabe
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <!-- End Top player -->
+          <div class="offset-lg-1 col-lg-7 carousel slide " id="myslider" data-ride="carousel">
+            <ul class="carousel-indicators">
+              <li data-target="#myslider" data-slide-to="0" class="active"></li>
+              <li data-target="#myslider" data-slide-to="1"></li>
+              <li data-target="#myslider" data-slide-to="2"></li>
+              <li data-target="#myslider" data-slide-to="3"></li>
+            </ul>
+            <div class="carousel-inner">
+              <div class="carousel-item active">
+                <img src="assets/img/competitions/IMG_1389.JPG">
+              </div>
+              <div class="carousel-item">
+                <img src="assets/img/competitions/IMG_1401.JPG">
+              </div>
+              <div class="carousel-item">
+                <img src="assets/img/competitions/IMG_1408.JPG">
+              </div>
+              <div class="carousel-item">
+                <img src="assets/img/competitions/IMG_1421.JPG">
+              </div>
+            </div>
+            <a class="carousel-control-prev" href="#myslider" data-slide="prev">
+              <span class="carousel-control-prev-icon"></span>
+            </a>
+            <a class="carousel-control-next" href="#myslider" data-slide="next">
+              <span class="carousel-control-next-icon"></span>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- Content Central -->
+</div>

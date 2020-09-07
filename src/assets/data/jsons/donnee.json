@@ -1,0 +1,3581 @@
+[
+  {
+    "id": 1,
+    "nom": "Ayouni",
+    "prenom": "Abdessalem",
+    "sexe": "Masculin",
+    "ddn": "16 mai 1994",
+    "lieu": "Regueb",
+    "club": "CS Regueb",
+    "clubetranger": "As Saint-junien",
+    "discipline1": "800m",
+    "discipline2": "1500m",
+    "Meilleurperfo1": "1'45''17",
+    "Meilleurperfo2": "3'37''30",
+    "classe": "",
+    "etablissement": "",
+    "encadreurtech": "",
+    "Npasseport": "C201561",
+    "validité": "26/02/2024",
+    "telephone": "",
+    "adremail": "",
+    "adresse": "",
+    "pointure": "44",
+    "Performances": [
+      {
+        "type": "800m",
+        "performance": [
+          {
+            "Annee": 2019,
+            "PERFORMANCE": "1'45\"17",
+            "PLACE": "Prince Moulay Abdellah  (MAR)",
+            "DATE": "43705"
+          },
+          {
+            "Annee": 2018,
+            "PERFORMANCE": "1'46\"20",
+            "PLACE": "Montbéliard (FRA)",
+            "DATE": "43252"
+          },
+          {
+            "Annee": 2017,
+            "PERFORMANCE": "1'45\"63",
+            "PLACE": "Oordegem (BEL)",
+            "DATE": "42882"
+          },
+          {
+            "Annee": 2016,
+            "PERFORMANCE": "1'45\"98",
+            "PLACE": "Paris (FRA)",
+            "DATE": "42609"
+          },
+          {
+            "Annee": 2015,
+            "PERFORMANCE": "1'49\"68",
+            "PLACE": "Tomblaine (FRA)",
+            "DATE": "42211"
+          },
+          {
+            "Annee": 2014,
+            "PERFORMANCE": "1'47\"72",
+            "PLACE": "Castres (FRA)",
+            "DATE": "41850"
+          },
+          {
+            "Annee": 2013,
+            "PERFORMANCE": "1'48\"45",
+            "PLACE": "Nice (FRA)",
+            "DATE": "41527"
+          },
+          {
+            "Annee": 2012,
+            "PERFORMANCE": "1'48\"80",
+            "PLACE": "Tunis (TUN)",
+            "DATE": "41076"
+          },
+          {
+            "Annee": 2011,
+            "PERFORMANCE": "1'53\"81",
+            "PLACE": "Lille (FRA)",
+            "DATE": "40730"
+          }
+        ]
+      },
+      {
+        "Type": "1500m",
+        "Performance": [
+          {
+            "Annee": 2019,
+            "PERFORMANCE": "3'37\"30",
+            "PLACE": "Dessau(GER)",
+            "DATE": "43630"
+          },
+          {
+            "Annee": 2018,
+            "PERFORMANCE": "3'37\"35",
+            "PLACE": "Tarragona(ESP)",
+            "DATE": "43280"
+          },
+          {
+            "Annee": 2016,
+            "PERFORMANCE": "3'43\"71",
+            "PLACE": "Pezenas(FRA)",
+            "DATE": "42518"
+          },
+          {
+            "Annee": 2015,
+            "PERFORMANCE": "3'41\"99",
+            "PLACE": "Carquefou(FRA)",
+            "DATE": "42174"
+          },
+          {
+            "Annee": 2014,
+            "PERFORMANCE": "3'44\"67",
+            "PLACE": "Le Grand Stade(MAR)",
+            "DATE": "41865"
+          },
+          {
+            "Annee": 2013,
+            "PERFORMANCE": "3'47\"58",
+            "PLACE": "Montbéliard(FRA)",
+            "DATE": "41413"
+          },
+          {
+            "Annee": 2012,
+            "PERFORMANCE": "3'45\"65",
+            "PLACE": "Rades(TUN)",
+            "DATE": "41069"
+          },
+          {
+            "Annee": 2010,
+            "PERFORMANCE": "4'09\"24",
+            "PLACE": "Rades(TUN)",
+            "DATE": "40324"
+          }
+        ]
+      },
+      {
+        "Type": "800m-Salle",
+        "Performance": [
+          {
+            "Annee": 2019,
+            "PERFORMANCE": "1'48\"22",
+            "PLACE": "Lièvin(FRA)",
+            "DATE": 43506
+          },
+          {
+            "Annee": 2017,
+            "PERFORMANCE": "1'50\"24",
+            "PLACE": "Bordeaux(FRA)",
+            "DATE": 42785
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "nom": "Jaziri",
+    "prenom": "Ahmed",
+    "sexe": "Masculin",
+    "ddn": "16 decembre 1997",
+    "lieu": "Kairouan",
+    "club": "",
+    "clubetranger": "",
+    "discipline1": "3000m Steeple",
+    "discipline2": "",
+    "Meilleurperfo1": "8'35''16",
+    "Meilleurperfo2": "",
+    "classe": "",
+    "etablissement": "",
+    "encadreurtech": "",
+    "Npasseport": "C386601",
+    "validité": "10/05/2024",
+    "telephone": "",
+    "adremail": "",
+    "adresse": "",
+    "pointure": "",
+    "Performances": [
+      {
+        "Type": "1500m",
+        "Performance": [
+          {
+            "Annee": 2016,
+            "PERFORMANCE": "3'53\"44",
+            "PLACE": "Rades(TUN)",
+            "DATE": 42561
+          }
+        ]
+      },
+      {
+        "Type": "5000m",
+        "Performance": [
+          {
+            "Annee": 2018,
+            "PERFORMANCE": "14'35\"07",
+            "PLACE": "Rades(TUN)",
+            "DATE": 43295
+          },
+          {
+            "Annee": 2017,
+            "PERFORMANCE": "14'40\"70",
+            "PLACE": "Rades(TUN)",
+            "DATE": 42934
+          },
+          {
+            "Annee": 2016,
+            "PERFORMANCE": "14'53\"20",
+            "PLACE": "Rades(TUN)",
+            "DATE": 42568
+          }
+        ]
+      },
+      {
+        "Type": "3000m Steeple",
+        "Performance": [
+          {
+            "Annee": 2019,
+            "PERFORMANCE": "8'35\"16",
+            "PLACE": "Bruxelles(BEL)",
+            "DATE": 43700
+          },
+          {
+            "Annee": 2018,
+            "PERFORMANCE": "9'03\"26",
+            "PLACE": "Benguerir(MAR)",
+            "DATE": 43219
+          }
+        ]
+      }
+    ],
+    "Palmares": [
+      {
+        "Annee": "2014",
+        "Performance": [
+          {
+            "Competition": "Critériums nationaux Individuels",
+            "Type": "3éme 3000m",
+            "Performance": "8'45\"8",
+            "Date": "14-15/06/2014",
+            "Lieu": "El Menzah"
+          },
+          {
+            "Competition": "Critériums nationaux D'hiver",
+            "Type": "3éme 2000m ",
+            "Performance": "5'39\"5",
+            "Date": "41715",
+            "Lieu": "El Menzah "
+          }
+        ]
+      },
+      {
+        "Annee": "2015",
+        "Performance": [
+          {
+            "Competition": "Championnats Nationaux de cross country",
+            "Type": "4éme 8km",
+            "Performance": "26'14\"",
+            "Date": "42064",
+            "Lieu": "Kebeli"
+          },
+          {
+            "Competition": "Meeting du C.S.A.Regueb",
+            "Type": "2éme 3000m",
+            "Performance": "8'28\"5",
+            "Date": "42141",
+            "Lieu": "Sidi Bouzid"
+          },
+          {
+            "Competition": "Critériums Nationaux Individuels",
+            "Type": "1er 5000m",
+            "Performance": "14'57\"7",
+            "Date": "13-14/06/2015",
+            "Lieu": "Rades"
+          },
+          {
+            "Competition": "Championnats Nationaux Individuels",
+            "Type": "3éme 5000m",
+            "Performance": "14'47\"1",
+            "Date": "15-16/06/2015",
+            "Lieu": "Rades"
+          }
+        ]
+      },
+      {
+        "Annee": "2016",
+        "Performance": [
+          {
+            "Competition": "Championnats Nationaux de cross country",
+            "Type": "2éme 8km",
+            "Performance": "25'59\"",
+            "Date": "42400",
+            "Lieu": "Kairouan"
+          },
+          {
+            "Competition": "Critériums nationaux D'hiver",
+            "Type": "3éme 3000m",
+            "Performance": "8'34\"1",
+            "Date": "42443",
+            "Lieu": "Rades"
+          },
+          {
+            "Competition": "JOURNEE NATIONALE POUR L'ELITE",
+            "Type": "3éme 3000m",
+            "Performance": "8'31\"53",
+            "Date": "42491",
+            "Lieu": "Rades"
+          },
+          {
+            "Competition": "Championnats Nationaux des Juniors",
+            "Type": "1er 5000m",
+            "Performance": "14'44\"6",
+            "Date": "14-15/05/2016",
+            "Lieu": "Rades"
+          },
+          {
+            "Competition": "Championnats Nationaux Absolus Individuels",
+            "Type": "1er 5000m",
+            "Performance": "14'53\"20",
+            "Date": "15-17/07/2016",
+            "Lieu": "Rades"
+          },
+          {
+            "Competition": "Championnats mediterranean -23 ans",
+            "Type": "7éme 5000m",
+            "Performance": "14'58''39",
+            "Date": "42525",
+            "Lieu": "Rades"
+          }
+        ]
+      },
+      {
+        "Annee": "2017",
+        "Performance": [
+          {
+            "Competition": "Critériums Nationaux d'hiver",
+            "Type": "2éme 3000m",
+            "Performance": "  8'20\"7",
+            "Date": "02-03/03/2017",
+            "Lieu": "Rades"
+          },
+          {
+            "Competition": "Championnats Nationaux Individuels",
+            "Type": "2éme 5000m",
+            "Performance": "14'19\"12",
+            "Date": "01-03/07/2017",
+            "Lieu": "Rades"
+          },
+          {
+            "Competition": "Meeting en alger",
+            "Type": "3éme 1500m",
+            "Performance": "3'48\"97",
+            "Date": "42875",
+            "Lieu": "Alger"
+          },
+          {
+            "Competition": "JOURNEE NATIONALE POUR L'ELITE",
+            "Type": "2éme 1500m",
+            "Performance": "3'46\"01",
+            "Date": "42904",
+            "Lieu": "Rades"
+          },
+          {
+            "Competition": "JOURNEE NATIONALE POUR L'ELITE",
+            "Type": "1er 5000m",
+            "Performance": "14'25\"79",
+            "Date": "42896",
+            "Lieu": "Rades"
+          },
+          {
+            "Competition": "Championnats Arabe Seniors",
+            "Type": "6éme 5000m",
+            "Performance": "14'40\"70",
+            "Date": "42933",
+            "Lieu": "Rades"
+          }
+        ]
+      },
+      {
+        "Annee": "2018",
+        "Performance": [
+          {
+            "Competition": "Championnat mediterAnneens -23 ans",
+            "Type": "3éme 5000m",
+            "Performance": "14'42\"97",
+            "Date": "43261",
+            "Lieu": "Italie"
+          },
+          {
+            "Competition": "Championnats Nationaux Individuels",
+            "Type": "2éme 3000m steep",
+            "Performance": "8'42\"40",
+            "Date": "14-15/07/2018",
+            "Lieu": "Rades"
+          }
+        ]
+      },
+      {
+        "Annee": "2019",
+        "Performance": [
+          {
+            "Competition": "2éme soirée ramadanesque",
+            "Type": "1er 3000m steep",
+            "Performance": "8'33\"6",
+            "Date": 43603,
+            "Lieu": "Rades"
+          },
+          {
+            "Competition": "Guldensporenmeeting, Kortrijk",
+            "Type": "1er 3000m steep",
+            "Performance": "8:36.05",
+            "Date": 43659,
+            "Lieu": "Belgique"
+          },
+          {
+            "Competition": "Championnats Nationaux Individuels",
+            "Type": "1er 1500m",
+            "Performance": "3'43\"00",
+            "Date": 43666,
+            "Lieu": "Rades"
+          },
+          {
+            "Competition": "Brussels Grand Prix, Bruxelles",
+            "Type": "5éme 3000m steep",
+            "Performance": "8:35.16",
+            "Date": 43700,
+            "Lieu": "Belgique"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "nom": "Ben Yahia",
+    "prenom": "Amor",
+    "sexe": "Masculin",
+    "ddn": "1 juillet 1985",
+    "lieu": "Kebili",
+    "club": "El Majed Sfax",
+    "clubetranger": "",
+    "discipline1": "3000m Steeple",
+    "discipline2": "",
+    "Meilleurperfo1": "8'14''05",
+    "Meilleurperfo2": "",
+    "classe": "",
+    "etablissement": "",
+    "encadreurtech": "",
+    "Npasseport": "X006136",
+    "validité": "20/11/2020",
+    "telephone": "",
+    "adremail": "",
+    "adresse": "",
+    "pointure": "",
+    "Performances": [
+      {
+        "Type": "1500m",
+        "Performance": [
+          {
+            "Annee": 2012,
+            "PERFORMANCE": "3'39\"14",
+            "PLACE": "Rades(TUN)",
+            "DATE": 41069
+          },
+          {
+            "Annee": 2011,
+            "PERFORMANCE": "3'53\"02",
+            "PLACE": "Algiers(ALG)",
+            "DATE": 40684
+          },
+          {
+            "Annee": 2010,
+            "PERFORMANCE": "3'48\"77",
+            "PLACE": "Rades(TUN)",
+            "DATE": 40355
+          },
+          {
+            "Annee": 2008,
+            "PERFORMANCE": "3'51\"57",
+            "PLACE": "Rades(TUN)",
+            "DATE": 39627
+          }
+        ]
+      },
+      {
+        "Type": "3000m",
+        "Performance": [
+          {
+            "Annee": 2010,
+            "PERFORMANCE": "8'16\"93",
+            "PLACE": "Rades(TUN)",
+            "DATE": 40335
+          }
+        ]
+      },
+      {
+        "Type": "3000m Steeple",
+        "Performance": [
+          {
+            "Annee": 2019,
+            "PERFORMANCE": "8'26\"12",
+            "PLACE": "Khalifa International Doha(QAT)",
+            "DATE": "43739"
+          },
+          {
+            "Annee": 2018,
+            "PERFORMANCE": "8'26\"14",
+            "PLACE": "Tarragona(ESP)",
+            "DATE": "43278"
+          },
+          {
+            "Annee": 2016,
+            "PERFORMANCE": "8'20\"72",
+            "PLACE": "Sotteville(FRA)",
+            "DATE": "42569"
+          },
+          {
+            "Annee": 2015,
+            "PERFORMANCE": "8'19\"30",
+            "PLACE": "Beijing(CHN)",
+            "DATE": "42144"
+          },
+          {
+            "Annee": 2014,
+            "PERFORMANCE": "8'38\"15",
+            "PLACE": "Lens(FRA)",
+            "DATE": "41777"
+          },
+          {
+            "Annee": 2013,
+            "PERFORMANCE": "8'14\"05",
+            "PLACE": "Mersin(TUR)",
+            "DATE": "41453"
+          },
+          {
+            "Annee": 2012,
+            "PERFORMANCE": "8'22\"70",
+            "PLACE": "London(GBR)",
+            "DATE": "41124"
+          },
+          {
+            "Annee": 2011,
+            "PERFORMANCE": "8'30\"02",
+            "PLACE": "Daegu(KOR)",
+            "DATE": "40784"
+          },
+          {
+            "Annee": 2010,
+            "PERFORMANCE": "8'37\"08",
+            "PLACE": "Redes(TUN)",
+            "DATE": "40356"
+          },
+          {
+            "Annee": 2009,
+            "PERFORMANCE": "8'41\"64",
+            "PLACE": "Redes(TUN)",
+            "DATE": "40005"
+          },
+          {
+            "Annee": 2006,
+            "PERFORMANCE": "8'52\"71",
+            "PLACE": "Tunis(TUN)",
+            "DATE": "38893"
+          },
+          {
+            "Annee": 2005,
+            "PERFORMANCE": "9'06\"32",
+            "PLACE": "Redes(TUN)",
+            "DATE": "38542"
+          }
+        ]
+      }
+    ],
+    "Palmares": [
+      {
+        "Annee": "2001",
+        "Performance": [
+          {
+            "Competition": "Championnats.nationaux des jeunes",
+            "Type": "1ér 3000m",
+            "Performance": "8'53\"52",
+            "Date": "37430",
+            "Lieu": "Rades"
+          },
+          {
+            "Competition": "championnats.d'afrique zonal cadets",
+            "Type": "5éme 3000m",
+            "Performance": "9'11\"6",
+            "Date": "2-29/07/2002",
+            "Lieu": "Rades"
+          }
+        ]
+      },
+      {
+        "Annee": "2004",
+        "Performance": [
+          {
+            "Competition": "Championnats nationaux des jeunes",
+            "Type": "2ém 3000m stp",
+            "Performance": "9'14\"7",
+            "Date": "25-26/06/2005",
+            "Lieu": "Rades"
+          },
+          {
+            "Competition": "Finale toutes categories ",
+            "Type": "3éme 3000 stp",
+            "Performance": "9'06\"32",
+            "Date": "38542",
+            "Lieu": "Rades"
+          }
+        ]
+      },
+      {
+        "Annee": "2005",
+        "Performance": [
+          {
+            "Competition": "Finale des criteriums d'hiver",
+            "Type": "5éme 3000m",
+            "Performance": "8'27\"2",
+            "Date": "1-2/4/06",
+            "Lieu": "Tunis"
+          },
+          {
+            "Competition": "Championnat nationaux des jeunes ",
+            "Type": "3éme 5000 stp",
+            "Performance": "14'27\"62",
+            "Date": "24-25/6/06",
+            "Lieu": "Rades"
+          },
+          {
+            "Competition": "Championnat nationaux des jeunes ",
+            "Type": "2ém 3000m stp",
+            "Performance": "4'52\"71",
+            "Date": "24-25/6/07",
+            "Lieu": "Rades"
+          },
+          {
+            "Competition": "Championnat  nationaux de cross",
+            "Type": "2ém CC 4km",
+            "Performance": "12'42",
+            "Date": "38735",
+            "Lieu": "Ksar Said"
+          },
+          {
+            "Competition": "Finale toutes categories ",
+            "Type": "3éme 3000 stp",
+            "Performance": "9'07\"35",
+            "Date": "8-9/7/2006",
+            "Lieu": "Tunis"
+          },
+          {
+            "Competition": "Meeting International de Tunis",
+            "Type": "7éme 3000m stp",
+            "Performance": "9'09\"38",
+            "Date": "38885",
+            "Lieu": "Tunis"
+          }
+        ]
+      },
+      {
+        "Annee": "2006",
+        "Performance": [
+          {
+            "Competition": "Finale des criteriums d'hiver",
+            "Type": "4éme 3000m",
+            "Performance": "8'37\"86",
+            "Date": "17-18/3/07",
+            "Lieu": "Rades"
+          },
+          {
+            "Competition": "Meeting International de Tunis ",
+            "Type": "5éme 3000m stp",
+            "Performance": "8'55\"71",
+            "Date": "39263",
+            "Lieu": "Rades"
+          },
+          {
+            "Competition": "Championnats de Tunisie absolus ",
+            "Type": "1ére 3000m stp",
+            "Performance": "8'48\"40",
+            "Date": "13-14/7/2007",
+            "Lieu": "Rades"
+          },
+          {
+            "Competition": "finales des specialités",
+            "Type": "1ére 3000m stp",
+            "Performance": "8'42\"07",
+            "Date": "39285",
+            "Lieu": "Rades"
+          }
+        ]
+      },
+      {
+        "Annee": "2007",
+        "Performance": [
+          {
+            "Competition": "Meeting d'alger",
+            "Type": "5éme 3000m stp",
+            "Performance": "8'51\"",
+            "Date": "39589",
+            "Lieu": "Alger"
+          },
+          {
+            "Competition": "Championnats nationaux seniors",
+            "Type": "1ére 3000m stp",
+            "Performance": "8'48\"16",
+            "Date": "11-12-13/03/08",
+            "Lieu": "Rades"
+          }
+        ]
+      },
+      {
+        "Annee": "2008",
+        "Performance": [
+          {
+            "Competition": "Championnats nationaux absolus",
+            "Type": "1ér 3000m",
+            "Performance": "8'41\"64",
+            "Date": "11-12/07/2009",
+            "Lieu": "Rades"
+          },
+          {
+            "Competition": "Meeting international de nabeul",
+            "Type": "2éme 5000m",
+            "Performance": "14'12\"8",
+            "Date": "39985",
+            "Lieu": "Nabeul"
+          },
+          {
+            "Competition": "Jeux de la Francofonie",
+            "Type": "3éme 3000 stp",
+            "Performance": "8'48\"30",
+            "Date": "40089",
+            "Lieu": "Beyrouth"
+          },
+          {
+            "Competition": "Championnats Arabes Seniors",
+            "Type": "4éme 3000m stp",
+            "Performance": "8'50\"21",
+            "Date": "40091",
+            "Lieu": "Damas"
+          }
+        ]
+      },
+      {
+        "Annee": "2009",
+        "Performance": [
+          {
+            "Competition": "Meeting Internationl de Nabeul",
+            "Type": "2éme 1500m",
+            "Performance": "3'48\"05",
+            "Date": 40345,
+            "Lieu": "Nabeul"
+          },
+          {
+            "Competition": "Championnats de Tunisie seniors",
+            "Type": "1ére 3000m stp",
+            "Performance": "8'37\"08",
+            "Date": 40355,
+            "Lieu": "Rades"
+          },
+          {
+            "Competition": "Championnat de Tunisie Seniors",
+            "Type": "1ér 1500m",
+            "Performance": "3'48\"77",
+            "Date": 40355,
+            "Lieu": "Rades"
+          },
+          {
+            "Competition": "Test Equipe Nationale",
+            "Type": "1ére 1500m stp",
+            "Performance": "3'59\"9",
+            "Date": 40385,
+            "Lieu": "Rades"
+          },
+          {
+            "Competition": "Meeting International de Tunis",
+            "Type": "4éme 1500m",
+            "Performance": "3'43\"6",
+            "Date": 40348,
+            "Lieu": "Rades"
+          }
+        ]
+      },
+      {
+        "Annee": "2011",
+        "Performance": [
+          {
+            "Competition": "Championnat Nationale Absolus",
+            "Type": "1ér 1500m",
+            "Performance": "3'47\"48",
+            "Date": "25-26/06/2011",
+            "Lieu": "Rades"
+          },
+          {
+            "Competition": "Championnat nationaux Absolus",
+            "Type": "1ér 3000m stp",
+            "Performance": "8'30\"60",
+            "Date": "25-26/06/2011",
+            "Lieu": "Rades"
+          },
+          {
+            "Competition": "Meeting d'alger",
+            "Type": "3éme 1500m",
+            "Performance": "3'53\"02",
+            "Date": "40684",
+            "Lieu": "Alger"
+          },
+          {
+            "Competition": "Championnats du monde sur piste",
+            "Type": "6éme 3000stp",
+            "Performance": "8'30\"02",
+            "Date": "40783",
+            "Lieu": "Daigu"
+          },
+          {
+            "Competition": "Championnat de Romanie",
+            "Type": "1ér 3000stp",
+            "Performance": "8'31\"38",
+            "Date": "40697",
+            "Lieu": "Romanie"
+          },
+          {
+            "Competition": "Grand Prix de CCA",
+            "Type": "7éme 3000m stp",
+            "Performance": "8'35\"41",
+            "Date": "40706",
+            "Lieu": "Brazzaville"
+          },
+          {
+            "Competition": "Jeux panarabe",
+            "Type": "5éme 3000stp",
+            "Performance": "8'47\"18",
+            "Date": "40894",
+            "Lieu": "Qatar"
+          }
+        ]
+      },
+      {
+        "Annee": "2012",
+        "Performance": [
+          {
+            "Competition": "Meeting Rabat",
+            "Type": "5éme 3000stp",
+            "Performance": "8'22\"99",
+            "Date": 41056,
+            "Lieu": "Rabat"
+          },
+          {
+            "Competition": "Championnat de France",
+            "Type": "3éme 3000 stp",
+            "Performance": "8'34\"48",
+            "Date": 41075,
+            "Lieu": "Angers"
+          },
+          {
+            "Competition": "Meeting International de CSGN",
+            "Type": "4éme 1500m",
+            "Performance": "3'39\"14",
+            "Date": 41069,
+            "Lieu": "Rades"
+          },
+          {
+            "Competition": "Jeux Olympique",
+            "Type": "7éme /3000m stp",
+            "Performance": "8'22\"70",
+            "Date": 41124,
+            "Lieu": "Londre"
+          }
+        ]
+      },
+      {
+        "Annee": "2013",
+        "Performance": [
+          {
+            "Competition": "Jeux Mediterraneens",
+            "Type": "1er/3000stp",
+            "Performance": "8'14\"05 RTB",
+            "Date": 41453,
+            "Lieu": "Mersin"
+          },
+          {
+            "Competition": "Championnat nationaux Absolus",
+            "Type": "1er/3000stp",
+            "Performance": "8'35\"8",
+            "Date": 41458,
+            "Lieu": "Rades"
+          }
+        ]
+      },
+      {
+        "Annee": "2014",
+        "Performance": [
+          {
+            "Competition": "Championnat de France elite",
+            "Type": "2éme 3000m stp",
+            "Performance": "8'49\"85",
+            "Date": "41831",
+            "Lieu": "France"
+          },
+          {
+            "Competition": "Championnat nationaux Absolus",
+            "Type": "1er/3000stp",
+            "Performance": "8'31\"2",
+            "Date": "41815",
+            "Lieu": "Rades"
+          },
+          {
+            "Competition": "Championnat d'Afrique Seniors",
+            "Type": "5éme 3000stp",
+            "Performance": "8'44\"61",
+            "Date": "10-14/08/2014",
+            "Lieu": "Marrakech"
+          }
+        ]
+      },
+      {
+        "Annee": "2015",
+        "Performance": [
+          {
+            "Competition": "Meeting Pekin - G Prix",
+            "Type": "7eme 3000m stp",
+            "Performance": "8'19\"30",
+            "Date": 42144,
+            "Lieu": "Pekin"
+          },
+          {
+            "Competition": "Meeting  du C,Sp,Garde Nationale",
+            "Type": "1er/3000steep",
+            "Performance": "8'34\"0",
+            "Date": 42154,
+            "Lieu": "Rades"
+          },
+          {
+            "Competition": "Championnats du monde sur piste",
+            "Type": "5éme 3000m stp/série",
+            "Performance": "8'43\"11",
+            "Date": 42238,
+            "Lieu": "Pekin"
+          },
+          {
+            "Competition": "Meeting Rieti",
+            "Type": "2éme 3000m stp",
+            "Performance": "8'25\"50",
+            "Date": 42260,
+            "Lieu": "Rieti"
+          },
+          {
+            "Competition": "Jeux Mondiaux Militaire",
+            "Type": "1er/3000steep",
+            "Performance": "8'24\"68",
+            "Date": 42285,
+            "Lieu": "Mungyeong"
+          }
+        ]
+      },
+      {
+        "Annee": "2016",
+        "Performance": [
+          {
+            "Competition": "Jeux Olympique",
+            "Type": "4éme 3000m stp/1/2 F",
+            "Performance": "8'23\"12",
+            "Date": 42597,
+            "Lieu": "Rio de Janeiro"
+          },
+          {
+            "Competition": "Jeux Olympique",
+            "Type": "8éme 3000m stp",
+            "Performance": "8:21.67",
+            "Date": 42599,
+            "Lieu": "Rio de Janeiro"
+          },
+          {
+            "Competition": "Meeting Soteville",
+            "Type": "2éme 3000m stp",
+            "Performance": "8:20.72",
+            "Date": 42568,
+            "Lieu": "Sotteville-lès-Rouen"
+          }
+        ]
+      },
+      {
+        "Annee": "2018",
+        "Performance": [
+          {
+            "Competition": "Jeux Mediterraneens",
+            "Type": "2éme 3000m stp",
+            "Performance": "8'26\"14",
+            "Date": 43278,
+            "Lieu": "Taragouna"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "nom": "Nasri",
+    "prenom": "Chahinez",
+    "sexe": "Féminin",
+    "ddn": "3 juin 1996",
+    "lieu": "Tunis",
+    "club": "CSGN",
+    "clubetranger": "Ca Balma",
+    "discipline1": "10km marche",
+    "discipline2": "20km marche",
+    "Meilleurperfo1": "45'02''",
+    "Meilleurperfo2": "1h32'20''",
+    "classe": "",
+    "etablissement": "",
+    "encadreurtech": "",
+    "Npasseport": "C218779",
+    "validité": "05/03/2024",
+    "telephone": "",
+    "adremail": "",
+    "adresse": "",
+    "pointure": "",
+    "Performances": [
+      {
+        "Type": "10km marche",
+        "Performance": [
+          {
+            "Annee": 2019,
+            "PERFORMANCE": "48'32\"",
+            "PLACE": "Cairo(EGY)",
+            "DATE": "43559"
+          },
+          {
+            "Annee": 2017,
+            "PERFORMANCE": "46'14\"",
+            "PLACE": "Rades(TUN)",
+            "DATE": "42931"
+          },
+          {
+            "Annee": 2016,
+            "PERFORMANCE": "45'02\"",
+            "PLACE": "La Coruna(ESP)",
+            "DATE": "42518"
+          },
+          {
+            "Annee": 2014,
+            "PERFORMANCE": "46'43",
+            "PLACE": "Taicang(CHN)",
+            "DATE": "41763"
+          }
+        ]
+      },
+      {
+        "Type": "10,000m marche",
+        "Performance": [
+          {
+            "Annee": 2018,
+            "PERFORMANCE": "45'50\"19",
+            "PLACE": "Jesolo(ITA)",
+            "DATE": 43260
+          },
+          {
+            "Annee": 2017,
+            "PERFORMANCE": "45'14\"91",
+            "PLACE": "Toulouse(FRA)",
+            "DATE": 43072
+          },
+          {
+            "Annee": 2016,
+            "PERFORMANCE": "45'54\"90",
+            "PLACE": "Tunis(TUN)",
+            "DATE": 42525
+          },
+          {
+            "Annee": 2015,
+            "PERFORMANCE": "46'34\"68",
+            "PLACE": "Toulouse(FRA)",
+            "DATE": 42323
+          },
+          {
+            "Annee": 2014,
+            "PERFORMANCE": "50'19\"02",
+            "PLACE": "Valence(FRA)",
+            "DATE": 41840
+          },
+          {
+            "Annee": 2012,
+            "PERFORMANCE": "51'53\"22",
+            "PLACE": "Barcelona(ESP)",
+            "DATE": 41101
+          }
+        ]
+      },
+      {
+        "Type": "20km marche",
+        "Performance": [
+          {
+            "Annee": 2019,
+            "PERFORMANCE": "1'36\"28",
+            "PLACE": "Prince Moulay Abdellah(MAR)",
+            "DATE": "43705"
+          },
+          {
+            "Annee": 2018,
+            "PERFORMANCE": "1'32\"20",
+            "PLACE": "Taicang(CHN)",
+            "DATE": "43225"
+          },
+          {
+            "Annee": 2017,
+            "PERFORMANCE": "1'34\"52",
+            "PLACE": "La Roche-sur-Yon(FRA)",
+            "DATE": "42806"
+          },
+          {
+            "Annee": 2016,
+            "PERFORMANCE": "1'34\"35",
+            "PLACE": "St, Sebastien-sur-Loire(FRA)",
+            "DATE": "42442"
+          },
+          {
+            "Annee": 2015,
+            "PERFORMANCE": "1'37\"18",
+            "PLACE": "La Coruna(ESP)",
+            "DATE": "42130"
+          },
+          {
+            "Annee": 2014,
+            "PERFORMANCE": "1'42\"55",
+            "PLACE": "Le grand Stade Marrakesh(MAR)",
+            "DATE": " 41865"
+          }
+        ]
+      }
+    ],
+    "Palmares": [
+      {
+        "Annee": "2012",
+        "Performance": [
+          {
+            "Competition": "Champ De Tunisie de marche sur route",
+            "Type": "1ére 6km marche",
+            "Performance": "29'29\"",
+            "Date": "40992",
+            "Lieu": "Rades"
+          },
+          {
+            "Competition": "Jeux Panarabes Juniors",
+            "Type": "1ére 10km marche",
+            "Performance": "47'30\"28 RTB",
+            "Date": "16-19/05/2012",
+            "Lieu": "Ammen"
+          },
+          {
+            "Competition": "Champ De Tunisie de marche sur piste",
+            "Type": "1ére 5000m marche",
+            "Performance": "23'27\"5 RTB",
+            "Date": "23-24/06/2012",
+            "Lieu": "Rades"
+          },
+          {
+            "Competition": "Championnat du monde ",
+            "Type": "30éme 10000m marche",
+            "Performance": "51'53\"22",
+            "Date": "41101",
+            "Lieu": "Barcelone"
+          }
+        ]
+      },
+      {
+        "Annee": "2013",
+        "Performance": [
+          {
+            "Competition": "Champ De Tunisie de marche sur route",
+            "Type": "1ére 6 km Marche",
+            "Performance": "29'39\"",
+            "Date": "41353",
+            "Lieu": "Korba"
+          },
+          {
+            "Competition": "Championnats Arabes Cadets",
+            "Type": "1ére 5000m Marche",
+            "Performance": "24'44\"89 RTB",
+            "Date": "21-23/06/2013",
+            "Lieu": "Le Caire"
+          },
+          {
+            "Competition": "Champ De Tunisie de marche sur piste",
+            "Type": "1ére 5000m Marche",
+            "Performance": "23'01\"6",
+            "Date": "41434",
+            "Lieu": "Rades"
+          },
+          {
+            "Competition": "Meeting Palma",
+            "Type": "1ére 5000m Marche",
+            "Performance": "22'37\"98",
+            "Date": "",
+            "Lieu": "France"
+          }
+        ]
+      },
+      {
+        "Annee": "2014",
+        "Performance": [
+          {
+            "Competition": "Champ De Tunisie de marche sur route",
+            "Type": "1ére 10km marche",
+            "Performance": "49'46\"",
+            "Date": "41738",
+            "Lieu": "Rades"
+          },
+          {
+            "Competition": "Coupe du monde de la marche",
+            "Type": "10éme 10km marche",
+            "Performance": "46'43\"",
+            "Date": "41763",
+            "Lieu": "China"
+          },
+          {
+            "Competition": "Championnats d'Afrique Seniors",
+            "Type": "4éme 20km marche",
+            "Performance": "1h42'55\"",
+            "Date": "10-14/08/2014",
+            "Lieu": "Marrakech"
+          },
+          {
+            "Competition": "Championnats de France",
+            "Type": "1ére 10000m marche",
+            "Performance": "50'19\"",
+            "Date": "",
+            "Lieu": "France"
+          }
+        ]
+      },
+      {
+        "Annee": "2015",
+        "Performance": [
+          {
+            "Competition": "Champ De Tunisie de marche sur route",
+            "Type": "1ére 10km marche",
+            "Performance": "52'03",
+            "Date": 42083,
+            "Lieu": "Korba"
+          },
+          {
+            "Competition": "Championnats d'Afrique Juniors",
+            "Type": "3éme 5000m marche",
+            "Performance": "27'08\"52",
+            "Date": 42070,
+            "Lieu": "Ethiopie"
+          },
+          {
+            "Competition": "Championnats Arabes Seniors",
+            "Type": "1ére 10km marche",
+            "Performance": "50'34\"4",
+            "Date": 42119,
+            "Lieu": "Bahraien"
+          },
+          {
+            "Competition": "Champ De Tunisie de marche sur piste",
+            "Type": "1ére 10000m marche",
+            "Performance": "49'08\"9",
+            "Date": 42134,
+            "Lieu": "Rades"
+          },
+          {
+            "Competition": "Meeting la Corogne",
+            "Type": "17éme 20km marche",
+            "Performance": "1h37\"18",
+            "Date": 42161,
+            "Lieu": "Espagne"
+          }
+        ]
+      },
+      {
+        "Annee": "2016",
+        "Performance": [
+          {
+            "Competition": "Championnats Med -23 ans",
+            "Type": "1ére 10000m marche",
+            "Performance": "45'54\"90",
+            "Date": 42525,
+            "Lieu": "Rades"
+          },
+          {
+            "Competition": "Meeting la Corogne",
+            "Type": "10000m marche",
+            "Performance": "45'02\"",
+            "Date": 42518,
+            "Lieu": "Espagne"
+          },
+          {
+            "Competition": "Meeting saint-sebastien",
+            "Type": "20km marche",
+            "Performance": "1h34'35\"",
+            "Date": 42442,
+            "Lieu": "France"
+          },
+          {
+            "Competition": "Jeux Olympique",
+            "Type": "60éme 20km marche",
+            "Performance": "1h42'57\"",
+            "Date": 42601,
+            "Lieu": "Rio de janeiro"
+          }
+        ]
+      },
+      {
+        "Annee": "2017",
+        "Performance": [
+          {
+            "Competition": "",
+            "Type": "20km marche",
+            "Performance": "1h34'52\"",
+            "Date": 42806,
+            "Lieu": "France"
+          },
+          {
+            "Competition": "Meeting Casablanca",
+            "Type": "10km marche",
+            "Performance": "45'58",
+            "Date": 42868,
+            "Lieu": "Maroc"
+          },
+          {
+            "Competition": "Inter-club de France",
+            "Type": "10000m marche",
+            "Performance": "45'14\"91",
+            "Date": 43072,
+            "Lieu": "France"
+          }
+        ]
+      },
+      {
+        "Annee": "2018",
+        "Performance": [
+          {
+            "Competition": "Meeting de Taicang",
+            "Type": "20km marche",
+            "Performance": "1h32'20",
+            "Date": 43225,
+            "Lieu": "CHN"
+          },
+          {
+            "Competition": "Meeting Jeslo",
+            "Type": "10000m marche",
+            "Performance": "45'50\"19",
+            "Date": 43260,
+            "Lieu": "Italy"
+          },
+          {
+            "Competition": "Championnats d'Afrique Seniors",
+            "Type": "3éme 20km marche",
+            "Performance": "1h37'28",
+            "Date": 43317,
+            "Lieu": "Asaba"
+          }
+        ]
+      },
+      {
+        "Annee": "2019",
+        "Performance": [
+          {
+            "Competition": "Championnats Arabes Seniors",
+            "Type": "2éme 10km marche",
+            "Performance": "",
+            "Date": "31/3-3/4/2019",
+            "Lieu": "Egypte"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "nom": "Mahfoudhi",
+    "prenom": "Dorra",
+    "sexe": "Féminin",
+    "ddn": "7 aout 1993",
+    "lieu": "Béja",
+    "club": "",
+    "clubetranger": "S/L Sca 2000 Evry",
+    "discipline1": "saut à la perche",
+    "discipline2": "",
+    "Meilleurperfo1": "4m31",
+    "Meilleurperfo2": "",
+    "classe": "",
+    "etablissement": "",
+    "encadreurtech": "Berhayem Ayadi",
+    "Npasseport": "Y497349",
+    "validité": "16/03/2023",
+    "telephone": "",
+    "adremail": "",
+    "adresse": "",
+    "pointure": "",
+    "Performances": [
+      {
+        "Type": "Perche",
+        "Performance": [
+          {
+            "Annee": 2019,
+            "PERFORMANCE": "4m31",
+            "PLACE": "Rabat(MAR)",
+            "DATE": 43704
+          },
+          {
+            "Annee": 2018,
+            "PERFORMANCE": "4m11",
+            "PLACE": "Tarragouna(ESP)",
+            "DATE": 43128
+          },
+          {
+            "Annee": 2017,
+            "PERFORMANCE": "4m15",
+            "PLACE": "Rades(TUN)",
+            "DATE": 42933
+          },
+          {
+            "Annee": 2016,
+            "PERFORMANCE": "3m90",
+            "PLACE": "Rades(TUN)",
+            "DATE": 42476
+          },
+          {
+            "Annee": 2015,
+            "PERFORMANCE": "4m10",
+            "PLACE": "Brazzaville(CGO)",
+            "DATE": 42261
+          },
+          {
+            "Annee": 2014,
+            "PERFORMANCE": "3m90",
+            "PLACE": "Rennes(FRA)",
+            "DATE": 41777
+          },
+          {
+            "Annee": 2013,
+            "PERFORMANCE": "3m80",
+            "PLACE": "Rades(TUN)",
+            "DATE": 41458
+          },
+          {
+            "Annee": 2012,
+            "PERFORMANCE": "3m55",
+            "PLACE": "Amman(JOR)",
+            "DATE": 41047
+          },
+          {
+            "Annee": 2011,
+            "PERFORMANCE": "3m65",
+            "PLACE": "Doha(QAT)",
+            "DATE": 40897
+          },
+          {
+            "Annee": 2010,
+            "PERFORMANCE": "3m60",
+            "PLACE": "Rades(TUN)",
+            "DATE": 40397
+          }
+        ]
+      },
+      {
+        "Type": "Perche - Salle",
+        "Performance": [
+          {
+            "Annee": 2017,
+            "PERFORMANCE": "3m85",
+            "PLACE": "Niort(FRA)",
+            "DATE": 42805
+          },
+          {
+            "Annee": 2016,
+            "PERFORMANCE": "3m90",
+            "PLACE": "Rennes(FRA)",
+            "DATE": 42421
+          },
+          {
+            "Annee": 2011,
+            "PERFORMANCE": "3m40",
+            "PLACE": "Bordeaux(FRA)",
+            "DATE": 40621
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "nom": "Hamdi",
+    "prenom": "Hala",
+    "sexe": "Féminin",
+    "ddn": "27 janvier 1998",
+    "lieu": "Sidi Bouzid",
+    "club": "CSAFayeidh",
+    "clubetranger": "As Saint-junien",
+    "discipline1": "800m",
+    "discipline2": "1500m",
+    "Meilleurperfo1": "2'05''03",
+    "Meilleurperfo2": "4'25''79",
+    "classe": "",
+    "etablissement": "",
+    "encadreurtech": "",
+    "Npasseport": "Y027635",
+    "validité": "28/06/2022",
+    "telephone": "",
+    "adremail": "",
+    "adresse": "",
+    "pointure": "",
+    "Performances": [{"Type": "800m", "Performance": [
+ {
+   "Annee": 2019,
+   "PERFORMANCE": "2'05\"03",
+   "PLACE": "Oordegem(BEL)",
+   "DATE": 43610
+ },
+ {
+   "Annee": 2018,
+   "PERFORMANCE": "2'09\"74",
+   "PLACE": "Rades(TUN)",
+   "DATE": 43297
+ },
+ {
+   "Annee": 2016,
+   "PERFORMANCE": "2'14\"81",
+   "PLACE": "Rades(TUN)",
+   "DATE": 42477
+ }
+]}, {"Type": "1500m", "Performance": [
+ {
+   "Annee": 2017,
+   "PERFORMANCE": "4'44\"88",
+   "PLACE": "Tlemcen(ALG)",
+   "DATE": 42918
+ },
+ {
+   "Annee": 2016,
+   "PERFORMANCE": "4'28\"45",
+   "PLACE": "Tunis(TUN)",
+   "DATE": 42526
+ }
+]}, {"Type": "1500m - Salle", "Performance": [
+ {
+   "Annee": 2019,
+   "PERFORMANCE": "4'44\"22",
+   "PLACE": "Miramas(FRA)",
+   "DATE": 43484
+ }
+]}],
+"Palmares": [{"Annee": "2013", "Performance": [
+ {
+   "Competition": "Champinnats arabes Cadets",
+   "Type": "2eme 1500m ",
+   "Performance": "4'48\"44",
+   "Date": "21-23/06/2013",
+   "Lieu": "Egypet"
+ }
+]}, {"Annee": "2014", "Performance": [
+ {
+   "Competition": "Challenge national de cross country FTA",
+   "Type": "2éme 3,5km",
+   "Performance": "",
+   "Date": "41644",
+   "Lieu": "Kairouan"
+ },
+ {
+   "Competition": "Cross Maghrebin Scolaire",
+   "Type": "7éme 3,1 km",
+   "Performance": "12'13\"",
+   "Date": "41671",
+   "Lieu": "Sakit sidi youssef"
+ },
+ {
+   "Competition": "Championnats Nationaux de Cross Country",
+   "Type": "1ére 4km",
+   "Performance": "15'38\"",
+   "Date": "41686",
+   "Lieu": "Monastir"
+ },
+ {
+   "Competition": "Critériums Nationaux des jeunes",
+   "Type": "1er 800m ",
+   "Performance": "2'14\"2",
+   "Date": "41804",
+   "Lieu": "Menzah"
+ },
+ {
+   "Competition": "Jeux Africain des Jeunes",
+   "Type": "6eme 1500m ",
+   "Performance": "4'38\"79",
+   "Date": "28-30/05/2014",
+   "Lieu": "Boteswana"
+ }
+]}, {"Annee": "2015", "Performance": [
+ {
+   "Competition": "Challenge national de cross country FTA",
+   "Type": "1ere 4km ",
+   "Performance": "15'13\"",
+   "Date": 42021,
+   "Lieu": "Tizi Ouzou"
+ },
+ {
+   "Competition": "Championnats Nationaux de Cross Country",
+   "Type": "1ere 4km ",
+   "Performance": "14'54\"",
+   "Date": 42064,
+   "Lieu": "Kebelli"
+ },
+ {
+   "Competition": "Critériums Nationaux des jeunes",
+   "Type": "1ére 1500m",
+   "Performance": "4'35\"7",
+   "Date": 42156,
+   "Lieu": "Rades"
+ }
+]}, {"Annee": "2016", "Performance": [
+ {
+   "Competition": "Challenge national de cross country FTA",
+   "Type": "1ere 6km ",
+   "Performance": "19'27\"",
+   "Date": "42386",
+   "Lieu": "Monastir"
+ },
+ {
+   "Competition": "Championnats Nationaux de Cross Country",
+   "Type": "2éme 6km",
+   "Performance": "22'14\"",
+   "Date": "42400",
+   "Lieu": "Kairouan"
+ },
+ {
+   "Competition": "22e Championnats Arabes de Cross",
+   "Type": "7éme 6km",
+   "Performance": "21'49\"",
+   "Date": "42414",
+   "Lieu": "Hammamet"
+ },
+ {
+   "Competition": "Championnats Nationaux des Juniors, Espoirs et Séniors",
+   "Type": "1ére 800m",
+   "Performance": "2'12\"8",
+   "Date": "14-15/05/2016",
+   "Lieu": "Rades"
+ },
+ {
+   "Competition": "Championnats Mediterranean -23ans",
+   "Type": "4eme 1500m ",
+   "Performance": "4'28''45",
+   "Date": "04-05/06/2016",
+   "Lieu": "Rades"
+ },
+ {
+   "Competition": "Championnats Arabe Juniors",
+   "Type": "2eme 800m ",
+   "Performance": "2’12\"67;",
+   "Date": "05-08/05/2016",
+   "Lieu": "Tlemcen-Alger"
+ },
+ {
+   "Competition": "Championnats Arabe Juniors",
+   "Type": "2eme 1500m ",
+   "Performance": "4’33\"81;",
+   "Date": "05-08/05/2016",
+   "Lieu": "Tlemcen-Alger"
+ },
+ {
+   "Competition": "Championnats du monde Juniors",
+   "Type": "11éme 1500m/1er Tr",
+   "Performance": "4'28\"04",
+   "Date": "19-24/07/2016",
+   "Lieu": "Bydgoszcz"
+ }
+]}, {"Annee": "2019", "Performance": [
+ {
+   "Competition": "Meeting Oordegem",
+   "Type": "1er 800m",
+   "Performance": "2'05\"03",
+   "Date": 43610,
+   "Lieu": "Belgique"
+ }
+]}]
+  },
+  {
+    "id": 7,
+    "nom": "Jhinaoui",
+    "prenom": "Iskander",
+    "sexe": "Masculin",
+    "ddn": "25 aout 1998",
+    "lieu": "Kairouan",
+    "club": "",
+    "clubetranger": "",
+    "discipline1": "800m",
+    "discipline2": "1500m",
+    "Meilleurperfo1": "1'49''92",
+    "Meilleurperfo2": "3'42''99",
+    "classe": "",
+    "etablissement": "",
+    "encadreurtech": "",
+    "Npasseport": "C187731",
+    "validité": "22/02/2024",
+    "telephone": "",
+    "adremail": "",
+    "adresse": "",
+    "pointure": "",
+    "Performances": [{"Type": "800m", "Performance": [
+ {
+   "Annee": 2018,
+   "PERFORMANCE": "1'49\"92",
+   "PLACE": "Rades(TUN)",
+   "DATE": 43297
+ },
+ {
+   "Annee": 2017,
+   "PERFORMANCE": "1'51\"41",
+   "PLACE": "Tlemcen(ALG)",
+   "DATE": 42918
+ },
+ {
+   "Annee": 2016,
+   "PERFORMANCE": "1'50\"03",
+   "PLACE": "Rades(TUN)",
+   "DATE": 42505
+ },
+ {
+   "Annee": 2015,
+   "PERFORMANCE": "1'52\"04",
+   "PLACE": "Cali(COL)",
+   "DATE": 42200
+ }
+]}, {"Type": "1500m", "Performance": [
+ {
+   "Annee": 2019,
+   "PERFORMANCE": "3'42\"99",
+   "PLACE": "Bruxelles(BEL)",
+   "DATE": 43700
+ },
+ {
+   "Annee": 2018,
+   "PERFORMANCE": "3'47\"37",
+   "PLACE": "Jesolo(ITA)",
+   "DATE": 43260
+ },
+ {
+   "Annee": 2016,
+   "PERFORMANCE": "3'53\"59",
+   "PLACE": "Rades(TUN)",
+   "DATE": 42511
+ }
+]}],
+"Palmares": [{"Annee": "2015", "Performance": [
+ {
+   "Competition": "Critériums Nationaux Individuels",
+   "Type": "1er 800m",
+   "Performance": "1'52\"7",
+   "Date": 42155,
+   "Lieu": "Rades"
+ },
+ {
+   "Competition": "Championnats du Monde Cadets",
+   "Type": "2éme/série 800m",
+   "Performance": "1'52\"04",
+   "Date": 42200,
+   "Lieu": "Cali"
+ },
+ {
+   "Competition": "Championnats du Monde Cadets",
+   "Type": "4éme 1/2Final 800m",
+   "Performance": "1'53\"44",
+   "Date": 42201,
+   "Lieu": "Cali"
+ }
+]}, {"Annee": "2016", "Performance": [
+ {
+   "Competition": "Championnats Nationaux Indiv sur piste",
+   "Type": "2éme 800m",
+   "Performance": "1'50\"03",
+   "Date": "14-15/05/2016",
+   "Lieu": "Rades"
+ },
+ {
+   "Competition": "Championnats d'Afrique Juniors",
+   "Type": "",
+   "Performance": "",
+   "Date": "",
+   "Lieu": "Telemcen"
+ }
+]}, {"Type": "2017", "Performance": [
+ {
+   "Competition": "Critériums Nationaux d'hiver",
+   "Type": "1er 1500m",
+   "Performance": "3'51\"3",
+   "Date": "2-3/03/2017",
+   "Lieu": "Rades"
+ }
+]}, {"Annee": "2018", "Performance": [
+ {
+   "Competition": "Championnat mediterranéen -23ans",
+   "Type": "1er 1500m",
+   "Performance": " 3:47.37",
+   "Date": 43261,
+   "Lieu": "Italy"
+ },
+ {
+   "Competition": "Championnats Nationaux Indiv sur piste",
+   "Type": "2éme 1500m",
+   "Performance": "3'41\"41",
+   "Date": 43288,
+   "Lieu": "Rades"
+ }
+]}]
+  },
+  {
+    "id": 8,
+    "nom": "Chehata",
+    "prenom": "Mejdi",
+    "sexe": "Masculin",
+    "ddn": "19 avril 1997",
+    "lieu": "Teboulba",
+    "club": "",
+    "clubetranger": "Haute bretagne athlétisme",
+    "discipline1": "Saut à la perche",
+    "discipline2": "",
+    "Meilleurperfo1": "5m10",
+    "Meilleurperfo2": "",
+    "classe": "",
+    "etablissement": "",
+    "encadreurtech": "Berhayem Ayad",
+    "Npasseport": "X243212",
+    "validité": "02/05/2021",
+    "telephone": "",
+    "adremail": "",
+    "adresse": "",
+    "pointure": "",
+    "Performances": [{"Type": "Perche", "Performance": [
+ {
+   "Annee": 2019,
+   "PERFORMANCE": "5m00",
+   "PLACE": "Genève(SUI)",
+   "DATE": 43631
+ },
+ {
+   "Annee": 2018,
+   "PERFORMANCE": "5m10",
+   "PLACE": "Aubière(FRA)",
+   "DATE": 43267
+ }
+]}, {"Type": "Perche - Salle", "Performance": [
+ {
+   "Annee": 2019,
+   "PERFORMANCE": "4m95",
+   "PLACE": "Miiramas(FRA)",
+   "DATE": 43484
+ },
+ {
+   "Annee": 2018,
+   "PERFORMANCE": "4m60",
+   "PLACE": "Val-de-Reuil(FRA)",
+   "DATE": 43141
+ }
+]}]
+  },
+  {
+    "id": 9,
+    "nom": "Marwa",
+    "prenom": "Bouzayani",
+    "sexe": "Féminin",
+    "ddn": "26 mars 1997",
+    "lieu": "Regueb",
+    "club": "CS Regueb",
+    "clubetranger": "",
+    "discipline1": "3000m Steeple",
+    "discipline2": "",
+    "Meilleurperfo1": "9'43''54",
+    "Meilleurperfo2": "",
+    "classe": "",
+    "etablissement": "",
+    "encadreurtech": "",
+    "Npasseport": "X914167",
+    "validité": "08/05/2022",
+    "telephone": "",
+    "adremail": "",
+    "adresse": "",
+    "pointure": "",
+    "Performances": [
+      {
+        "Type": "3000m",
+        "Performance": [
+          {
+            "Annee": 2015,
+            "PERFORMANCE": "9'58\"88",
+            "PLACE": "Bordeaux(FRA)",
+            "DATE": 42148
+          },
+          {
+            "Annee": 2014,
+            "PERFORMANCE": "10'08\"85",
+            "PLACE": "Talence(FRA)",
+            "DATE": 41763
+          }
+        ]
+      },
+      {
+        "Type": "2000m Steeple",
+        "Performance": [
+          {
+            "Annee": 2016,
+            "PERFORMANCE": "6'40\"70",
+            "PLACE": "Rades(TUN)",
+            "DATE": 42477
+          },
+          {
+            "Annee": 2014,
+            "PERFORMANCE": "6'44\"29",
+            "PLACE": "Nanjing(CHN)",
+            "DATE": 41876
+          },
+          {
+            "Annee": 2013,
+            "PERFORMANCE": "6'52\"30",
+            "PLACE": "Donetsk(UKR)",
+            "DATE": 41469
+          }
+        ]
+      },
+      {
+        "Type": "3000m Steeple",
+        "Performance": [
+          {
+            "Annee": 2019,
+            "PERFORMANCE": "9'43\"54",
+            "PLACE": "Ninove(BEL)",
+            "DATE": 43680
+          },
+          {
+            "Annee": 2018,
+            "PERFORMANCE": "10'59\"09",
+            "PLACE": "Jesolo(ITA)",
+            "DATE": 43261
+          },
+          {
+            "Annee": 2017,
+            "PERFORMANCE": "10'10\"78",
+            "PLACE": "Abidjan(CIV)",
+            "DATE": 42941
+          },
+          {
+            "Annee": 2016,
+            "PERFORMANCE": "10'05\"25",
+            "PLACE": "Bydgoszcz(POL)",
+            "DATE": 42573
+          },
+          {
+            "Annee": 2015,
+            "PERFORMANCE": "10'42\"11",
+            "PLACE": "Algerie(ALG)",
+            "DATE": 42217
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "nom": "Azizi",
+    "prenom": "Zied",
+    "sexe": "Masculin",
+    "ddn": "11 juin 1991",
+    "lieu": "",
+    "club": "ACNabeul",
+    "clubetranger": "",
+    "discipline1": "",
+    "discipline2": "",
+    "Meilleurperfo1": "49''13",
+    "Meilleurperfo2": "",
+    "classe": "",
+    "etablissement": "",
+    "encadreurtech": "",
+    "Npasseport": "",
+    "validité": "",
+    "telephone": "",
+    "adremail": "",
+    "adresse": "",
+    "pointure": "",
+    "Performances": [{"Type": "400m", "Performance": [
+ {
+   "Annee": 2018,
+   "PERFORMANCE": "48\"07",
+   "PLACE": "Cognac(FRA)",
+   "DATE": 43219
+ },
+ {
+   "Annee": 2016,
+   "PERFORMANCE": "47\"29",
+   "PLACE": "Reims(FRA)",
+   "DATE": 42512
+ },
+ {
+   "Annee": 2014,
+   "PERFORMANCE": "48\"32",
+   "PLACE": "Lens(FRA)",
+   "DATE": 41777
+ },
+ {
+   "Annee": 2013,
+   "PERFORMANCE": "47\"84",
+   "PLACE": "St-Etienne(FRA)",
+   "DATE": 41413
+ },
+ {
+   "Annee": 2012,
+   "PERFORMANCE": "48\"92",
+   "PLACE": "Rades(TUN)",
+   "DATE": 41098
+ },
+ {
+   "Annee": 2010,
+   "PERFORMANCE": "48\"39",
+   "PLACE": "Cairo(EGY)",
+   "DATE": 40304
+ },
+ {
+   "Annee": 2009,
+   "PERFORMANCE": "48\"99",
+   "PLACE": "Tunis(TUN)",
+   "DATE": 39985
+ }
+]}, {"Type": "400m Haies", "Performance": [
+ {
+   "Annee": 2019,
+   "PERFORMANCE": "49\"50",
+   "PLACE": "Nivelles(BEL)",
+   "DATE": "43638"
+ },
+ {
+   "Annee": 2018,
+   "PERFORMANCE": "49\"13",
+   "PLACE": "Tarragona(ESP)",
+   "DATE": "43280"
+ },
+ {
+   "Annee": 2017,
+   "PERFORMANCE": "50\"05",
+   "PLACE": "Rades(TUN)",
+   "DATE": "42934"
+ },
+ {
+   "Annee": 2016,
+   "PERFORMANCE": "51\"00",
+   "PLACE": "Oordegem(BEL)",
+   "DATE": "42519"
+ },
+ {
+   "Annee": 2014,
+   "PERFORMANCE": "51\"76",
+   "PLACE": "Le Grand Stade Marrakesh(MAR)",
+   "DATE": "41862"
+ },
+ {
+   "Annee": 2013,
+   "PERFORMANCE": "51\"16",
+   "PLACE": "Aubagne(FRA)",
+   "DATE": "41462"
+ },
+ {
+   "Annee": 2012,
+   "PERFORMANCE": "51\"19",
+   "PLACE": "Tunis(TUN)",
+   "DATE": "41076"
+ },
+ {
+   "Annee": 2011,
+   "PERFORMANCE": "52\"39",
+   "PLACE": "Constanta(ROU)",
+   "DATE": "40697"
+ },
+ {
+   "Annee": 2010,
+   "PERFORMANCE": "51\"40",
+   "PLACE": "Moncton Stadium(CAN)",
+   "DATE": "40380"
+ },
+ {
+   "Annee": 2009,
+   "PERFORMANCE": "53\"33",
+   "PLACE": "Rades(TUN)",
+   "DATE": "40006"
+ }
+]}, {"Type": "400m - Salle", "Performance": [
+ {
+   "Annee": 2017,
+   "PERFORMANCE": "48\"34",
+   "PLACE": "Beograd(SRB)",
+   "DATE": 42784
+ },
+ {
+   "Annee": 2013,
+   "PERFORMANCE": "48\"65",
+   "PLACE": "Val-de-Reuil(FRA)",
+   "DATE": 41328
+ }
+]}],
+"Palmares": [{"Annee": "2008", "Performance": [
+ {
+   "Competition": "Critériums Nationaux des jeunes",
+   "Type": "2eme 400m",
+   "Performance": "50\"5",
+   "date": 39638,
+   "lieu": "Rades"
+ },
+ {
+   "Competition": "Critériums Nationaux des jeunes",
+   "Type": "1er 400m H",
+   "Performance": "54\"1",
+   "date": 39638,
+   "lieu": "Rades"
+ },
+ {
+   "Competition": "Rencontre Ouest meditérrAnneen",
+   "Type": "13éme 400m",
+   "Performance": "50\"22",
+   "date": 39662,
+   "lieu": "Rabat"
+ },
+ {
+   "Competition": "Rencontre Ouest meditérrAnneen",
+   "Type": "5éme 400m H",
+   "Performance": "53\"66",
+   "date": 39662,
+   "lieu": "Rabat"
+ }
+]}, {"Annee": "2009", "Performance": [
+ {
+   "Competition": "Critériums Nationaux des jeunes",
+   "Type": "3éme 400m H",
+   "Performance": "52\"39",
+   "date": "21-22/06/2009",
+   "lieu": "Rades"
+ },
+ {
+   "Competition": "Critériums Nationaux Absolut",
+   "Type": "3éme 400m ",
+   "Performance": "48\"08",
+   "date": "11-12/07/2009",
+   "lieu": "Rades"
+ },
+ {
+   "Competition": "Meeting Internat de la Garde Nationale",
+   "Type": "1er 200m ",
+   "Performance": "21\"7",
+   "date": "39995",
+   "lieu": "El Manzeh"
+ }
+]}, {"Annee": "2010", "Performance": [
+ {
+   "Competition": "Championnat du Monde Juniors",
+   "Type": "5éme 400m H",
+   "Performance": "51\"40",
+   "date": 40380,
+   "lieu": "Moncton"
+ },
+ {
+   "Competition": "Championnat Arabes Juniors",
+   "Type": "2eme 400m H",
+   "Performance": "51\"90",
+   "date": 40306,
+   "lieu": "Caire"
+ },
+ {
+   "Competition": "Championnat Arabes Juniors",
+   "Type": "6eme 400m",
+   "Performance": "48\"39",
+   "date": 40306,
+   "lieu": "Caire"
+ },
+ {
+   "Competition": "Rencontre Ouest meditérrAnneen Juniors",
+   "Type": "2eme 400m H",
+   "Performance": "52\"54",
+   "date": 40397,
+   "lieu": "Rades"
+ }
+]}, {"Annee": "2011", "Performance": [
+ {
+   "Competition": "Meeting International d'Alger",
+   "Type": "4eme 400m H",
+   "Performance": "52\"53",
+   "date": 40684,
+   "lieu": "Alger"
+ },
+ {
+   "Competition": "Championnat de Romanie",
+   "Type": "2eme 400m H",
+   "Performance": "52\"39",
+   "date": 40697,
+   "lieu": "Romanie"
+ },
+ {
+   "Competition": "Meeting Internat de la Garde Nationale",
+   "Type": "1er 400m ",
+   "Performance": "47\"72",
+   "date": 40705,
+   "lieu": "El Manzeh"
+ },
+ {
+   "Competition": "Meeting International de Nabeul",
+   "Type": "1er 400m ",
+   "Performance": "47\"4",
+   "date": 40708,
+   "lieu": "Nabeul"
+ }
+]}, {"Annee": "2012", "Performance": [
+ {
+   "Competition": "Championnat d'Afrique Seniors",
+   "Type": "9eme 400m H",
+   "Performance": "51\"25",
+   "date": "24-26/07/2012",
+   "lieu": "Benin"
+ },
+ {
+   "Competition": "Critériums Nationaux Absolut",
+   "Type": "1er 400m ",
+   "Performance": "48\"92",
+   "date": "07-08/07/2012",
+   "lieu": "Rades"
+ },
+ {
+   "Competition": "Meeting International de Tunis",
+   "Type": "5eme 400m H",
+   "Performance": "51\"19",
+   "date": "41076",
+   "lieu": "Rades"
+ },
+ {
+   "Competition": "Meeting Internat de la Garde Nationale",
+   "Type": "1er 200m ",
+   "Performance": "21\"62",
+   "date": "41069",
+   "lieu": "El Manzeh"
+ },
+ {
+   "Competition": "Meeting de la Zitouna Sport",
+   "Type": "1er 400m ",
+   "Performance": "48\"2",
+   "date": "41030",
+   "lieu": "El Manzeh"
+ }
+]}, {"Annee": "2013", "Performance": [
+ {
+   "Competition": "Championnat de France Espoirs",
+   "Type": "1er 400m H",
+   "Performance": "51\"16",
+   "date": 41461,
+   "lieu": "Aubagne"
+ },
+ {
+   "Competition": "Meeting Val de reuil",
+   "Type": "400mH-salle",
+   "Performance": "48\"65",
+   "date": 41340,
+   "lieu": "Val de reuil"
+ }
+]}, {"Annee": "2014", "Performance": [
+ {
+   "Competition": "1er tour Inter-club",
+   "Type": "400m",
+   "Performance": "48\"32",
+   "date": 41797,
+   "lieu": "Lens"
+ },
+ {
+   "Competition": "2éme tour Inter-club",
+   "Type": " 400m H",
+   "Performance": "51\"91",
+   "date": 41812,
+   "lieu": "Saint renan"
+ }
+]}, {"Annee": "2015", "Performance": [
+ {
+   "Competition": "Meeting Internat de la Garde Nationale",
+   "Type": " 400m H",
+   "Performance": "51\"16",
+   "date": 42154,
+   "lieu": "Rades"
+ }
+]}, {"Annee": "2016", "Performance": [
+ {
+   "Competition": "Championnats Nationaux sur piste",
+   "Type": " 400m H",
+   "Performance": "51\"9/10e",
+   "date": "14-15/05/2016",
+   "lieu": "Rades"
+ },
+ {
+   "Competition": "2éme tour Inter-club",
+   "Type": "400m",
+   "Performance": "47\"29",
+   "date": "42512",
+   "lieu": "Reins"
+ },
+ {
+   "Competition": "Meeting Oordegem",
+   "Type": " 400m H",
+   "Performance": "51\"00",
+   "date": "42518",
+   "lieu": "Belgique"
+ }
+]}, {"Annee": "2017", "Performance": [
+ {
+   "Competition": "Championnat Regionaux ",
+   "Type": "400m-salle",
+   "Performance": "48\"92",
+   "date": 42763,
+   "lieu": "Bordeaux"
+ },
+ {
+   "Competition": "Meeting Luxembourg ",
+   "Type": "400m-salle",
+   "Performance": "48\"37",
+   "date": 42776,
+   "lieu": " Luxembourg "
+ },
+ {
+   "Competition": "Meeting Belgrade ",
+   "Type": "3éme 400m-salle",
+   "Performance": "48\"34",
+   "date": 42784,
+   "lieu": "Serbie"
+ },
+ {
+   "Competition": "Meeting tarare",
+   "Type": "6éme 400m H",
+   "Performance": "51\"06",
+   "date": 42910,
+   "lieu": "Tarare"
+ },
+ {
+   "Competition": "Meeting Saint-Egrive",
+   "Type": "4éme 400m H",
+   "Performance": "50\"64",
+   "date": 42911,
+   "lieu": "Saint-Egrive"
+ },
+ {
+   "Competition": "Meeting Bydgoszcz",
+   "Type": "5éme 400m H",
+   "Performance": "50\"44",
+   "date": 42889,
+   "lieu": "Bydgoszcz (POL)"
+ },
+ {
+   "Competition": "Championnat Arabe Seniors",
+   "Type": "3éme 400m-salle",
+   "Performance": "50\"05",
+   "date": 42934,
+   "lieu": "Rades"
+ }
+]}, {"Annee": "2018", "Performance": [
+ {
+   "Competition": "Meeting ingoleme",
+   "Type": "1er 400m H",
+   "Performance": "50\"86",
+   "date": "43252",
+   "lieu": "France"
+ },
+ {
+   "Competition": "Meeting Saint-Egrive",
+   "Type": "1er 400m H",
+   "Performance": "49\"40",
+   "date": "03/06/02018",
+   "lieu": "France"
+ },
+ {
+   "Competition": "Meeting saint-claire",
+   "Type": "2éme400m H",
+   "Performance": "50\"73",
+   "date": "43265",
+   "lieu": "France"
+ },
+ {
+   "Competition": "Jeux Mediterranéens",
+   "Type": "3éme 400m-H",
+   "Performance": "49\"13",
+   "date": "43280",
+   "lieu": "Taragouna"
+ },
+ {
+   "Competition": "Championnat d'Afrique Seniors",
+   "Type": "3éme 400m-H",
+   "Performance": "49\"48",
+   "date": "43315",
+   "lieu": "Asaba"
+ }
+]}, {"Annee": "2019", "Performance": [
+ {
+   "Competition": "French Club Ch., Angoulême",
+   "Type": "400m H",
+   "Performance": 51.08,
+   "date": 43604,
+   "lieu": "France"
+ },
+ {
+   "Competition": "Meeting National, St-Egreve",
+   "Type": "400m H",
+   "Performance": 50.28,
+   "date": 43618,
+   "lieu": "France"
+ },
+ {
+   "Competition": "Meeting National, Angoulême",
+   "Type": "400m H",
+   "Performance": 49.86,
+   "date": 43623,
+   "lieu": "France"
+ },
+ {
+   "Competition": "Meeting International EAP, Nivelles",
+   "Type": "400m H",
+   "Performance": 49.5,
+   "date": 43638,
+   "lieu": "Belgique"
+ }
+]}]
+  },
+  {
+    "id": 11,
+    "nom": "Chninni",
+    "prenom": "Riadh",
+    "sexe": "Masculin",
+    "ddn": "",
+    "lieu": "",
+    "club": "COASidi Bouzid",
+    "clubetranger": "",
+    "discipline1": "",
+    "discipline2": "",
+    "Meilleurperfo1": "",
+    "Meilleurperfo2": "",
+    "classe": "",
+    "etablissement": "",
+    "encadreurtech": "",
+    "Npasseport": "",
+    "validité": "",
+    "telephone": "",
+    "adremail": "",
+    "adresse": "",
+    "pointure": "",
+    "Performances": [{"Type": "800m", "Performance": [
+ {
+   "Annee": 2019,
+   "PERFORMANCE": "1'46\"25",
+   "PLACE": "Schifflange(LUX)",
+   "DATE": 43695
+ },
+ {
+   "Annee": 2018,
+   "PERFORMANCE": "1'46\"28",
+   "PLACE": "Tübingen(GER)",
+   "DATE": 43267
+ },
+ {
+   "Annee": 2017,
+   "PERFORMANCE": "1'46\"24",
+   "PLACE": "Baku(AZE)",
+   "DATE": 42873
+ },
+ {
+   "Annee": 2016,
+   "PERFORMANCE": "1'47\"11",
+   "PLACE": "Bydgoszcz(POL)",
+   "DATE": 42574
+ },
+ {
+   "Annee": 2013,
+   "PERFORMANCE": "1'58\"77",
+   "PLACE": "Donetsk(UKR)",
+   "DATE": 41465
+ }
+]}, {"Type": "1500m", "Performance": [
+ {
+   "Annee": 2017,
+   "PERFORMANCE": "3'45\"29",
+   "PLACE": "Decines(FRA)",
+   "DATE": 43275
+ },
+ {
+   "Annee": 2016,
+   "PERFORMANCE": "3'47\"84",
+   "PLACE": "Bydgoszcz(POL)",
+   "DATE": 42570
+ }
+]}, {"Type": "800m - Salle", "Performance": [
+ {
+   "Annee": 2019,
+   "PERFORMANCE": "1'48\"30",
+   "PLACE": "Ostrava(CZE)",
+   "DATE": 43508
+ }
+]}],
+"Palmares": [{"Annee": "2015", "Performance": [
+ {
+   "Competition": "Critériums Nationaux Individuels 1",
+   "Type": "1er 800m",
+   "Performance": "1'51\"7",
+   "Date": "13-14/06/2015",
+   "Lieu": "Rades"
+ },
+ {
+   "Competition": "Critériums Nationaux Individuels 1",
+   "Type": "1er 1500m",
+   "Performance": "3'51\"4",
+   "Date": "13-14/06/2015",
+   "Lieu": "Rades"
+ }
+]}, {"Annee": "2016", "Performance": [
+ {
+   "Competition": "Championnats Nationaux des Juniors",
+   "Type": "1er 800m",
+   "Performance": "1'49\"37",
+   "Date": "14-15/05/2016",
+   "Lieu": "Rades"
+ },
+ {
+   "Competition": "Championnats Nationaux des Juniors",
+   "Type": "1er 1500m",
+   "Performance": "4'01\"0",
+   "Date": "14-15/05/2016",
+   "Lieu": "Rades"
+ },
+ {
+   "Competition": "Championnats Arabe Junirs",
+   "Type": "1er 1500m",
+   "Performance": "3'53\"09",
+   "Date": "42496",
+   "Lieu": "Tlemcen"
+ },
+ {
+   "Competition": "Championnats Arabe Junirs",
+   "Type": "1er 800m",
+   "Performance": "1'50\"",
+   "Date": "42498",
+   "Lieu": "Tlemcen"
+ },
+ {
+   "Competition": "Championnats Mediterranean",
+   "Type": "2éme 800m",
+   "Performance": "1'48''04",
+   "Date": "42526",
+   "Lieu": "Rades"
+ },
+ {
+   "Competition": "championnats du Monde Juniors",
+   "Type": "4éme 1500m/1er Tr",
+   "Performance": "3'47\"84 ",
+   "Date": "42570",
+   "Lieu": "Bydgoszcz"
+ },
+ {
+   "Competition": "championnats du Monde Juniors",
+   "Type": "3éme 800m/1er Tr",
+   "Performance": "1'48\"40",
+   "Date": "42573",
+   "Lieu": "Bydgoszcz"
+ },
+ {
+   "Competition": "championnats du Monde Juniors",
+   "Type": "2éme 800m/1/2 F",
+   "Performance": "1'47\"11 RTB",
+   "Date": "42574",
+   "Lieu": "Bydgoszcz"
+ },
+ {
+   "Competition": "championnats du Monde Juniors",
+   "Type": "6éme 800m/ Finale",
+   "Performance": "1'47\"38",
+   "Date": "42575",
+   "Lieu": "Bydgoszcz"
+ }
+]}, {"Annee": "2017", "performance": [
+ {
+   "Competition": "Jeux Islamique",
+   "Type": "2éme 800m/ F",
+   "Performance": "1'46\"23",
+   "Date": 42856,
+   "Lieu": "Bakou"
+ },
+ {
+   "Competition": "Jeux de la Francophonie",
+   "Type": "3éme 800m/ F",
+   "Performance": "1'47\"39",
+   "Date": 42917,
+   "Lieu": "Abidjan"
+ }
+]}, {"Annee": "2018", "Performance": [
+ {
+   "Competition": "Meeting en allmagne",
+   "Type": "2éme 800m",
+   "Performance": "1'46\"53",
+   "Date": 43240,
+   "Lieu": "Allmagne"
+ },
+ {
+   "Competition": "Meeting Oordegem",
+   "Type": "1er 800m",
+   "Performance": "1'46\"51",
+   "Date": 43246,
+   "Lieu": "Belgique"
+ },
+ {
+   "Competition": "Meeting tubingen",
+   "Type": "4éme 800m",
+   "Performance": "1'46\"28",
+   "Date": 43266,
+   "Lieu": "Allmagne"
+ },
+ {
+   "Competition": "Championnat mediterranéen -23ans",
+   "Type": "2éme 800m",
+   "Performance": "1'50\"56",
+   "Date": 43261,
+   "Lieu": "Italie"
+ },
+ {
+   "Competition": "Jeux mediterranéens",
+   "Type": "8éme 800m",
+   "Performance": "1'50\"51",
+   "Date": 43311,
+   "Lieu": "Taragouna"
+ },
+ {
+   "Competition": "Championnat d'Afrique",
+   "Type": "8éme 800m",
+   "Performance": "1'47\"66",
+   "Date": 43316,
+   "Lieu": "Asaba"
+ }
+]}, {"Annee": "2019", "Performance": [
+ {
+   "Competition": "Championnats Arabes Seniors",
+   "Type": "1er 800m",
+   "Performance": "",
+   "Date": "31/3-3/4/2019",
+   "Lieu": "Egipte"
+ },
+ {
+   "Competition": "Meeting Oordegem",
+   "Type": "1er 800m",
+   "Performance": "1'46\"48",
+   "Date": "43245",
+   "Lieu": "Belgique"
+ }
+]}]
+  },
+  {
+    "id": 12,
+    "nom": "Jhinaoui",
+    "prenom": "Med Amin",
+    "sexe": "Masculin",
+    "ddn": "",
+    "lieu": "",
+    "club": "CMAK",
+    "clubetranger": "",
+    "discipline1": "3000M STP",
+    "discipline2": "",
+    "Meilleurperfo1": "8'41''79",
+    "Meilleurperfo2": "",
+    "classe": "",
+    "etablissement": "",
+    "encadreurtech": "",
+    "Npasseport": "",
+    "validité": "",
+    "telephone": "",
+    "adremail": "",
+    "adresse": "",
+    "pointure": "",
+    "Performances": [{"Type": "1500m", "Performance": [
+ {
+   "Annee": 2018,
+   "PERFORMANCE": "3'51\"56",
+   "PLACE": "Rades(TUN)",
+   "DATE": 43295
+ },
+ {
+   "Annee": 2017,
+   "PERFORMANCE": "3'53\"78",
+   "PLACE": "Rades(TUN)",
+   "DATE": 42932
+ },
+ {
+   "Annee": 2016,
+   "PERFORMANCE": "3'48\"10",
+   "PLACE": "Rades(TUN)",
+   "DATE": 42511
+ }
+]}, {"Type": "3000m Steele", "Performance": [
+ {
+   "Annee": 2019,
+   "PERFORMANCE": "8'31\"19",
+   "PLACE": "Oordegem(BEL)",
+   "DATE": 43610
+ },
+ {
+   "Annee": 2018,
+   "PERFORMANCE": "8'36\"57",
+   "PLACE": "Oordegem(BEL)",
+   "DATE": 43246
+ },
+ {
+   "Annee": 2017,
+   "PERFORMANCE": "8'46\"46",
+   "PLACE": "Albi(FRA)",
+   "DATE": 42925
+ },
+ {
+   "Annee": 2016,
+   "PERFORMANCE": "8'41\"79",
+   "PLACE": "Bydgoszcz(POL)",
+   "DATE": 42575
+ },
+ {
+   "Annee": 2015,
+   "PERFORMANCE": "9'03\"46",
+   "PLACE": "Algerie(ALG)",
+   "DATE": 42217
+ }
+]}, {"Type": "3000m - Salle", "Performance": [
+ {
+   "Annee": 2017,
+   "PERFORMANCE": "8'15\"24",
+   "PLACE": "Bordeaux(FRA)",
+   "DATE": 42750
+ }
+]}],
+"Palmares": [{"Annee": "2015", "Performance": [
+ {
+   "Competition": "Challenge de la F,T,A (cross)",
+   "Type": "3éme 8km",
+   "Performance": "27'00\"",
+   "Date": "42050",
+   "Lieu": "Sidi Bouzid"
+ },
+ {
+   "Competition": "Champ Nationaux de Cross Country",
+   "Type": "3éme 8km",
+   "Performance": "26'05\"",
+   "Date": "42064",
+   "Lieu": "Kebili"
+ },
+ {
+   "Competition": "Critériums Nationaux Individuels",
+   "Type": "2éme 1500m",
+   "Performance": "3'53\"9",
+   "Date": "13-14/06/2015",
+   "Lieu": "Rades"
+ },
+ {
+   "Competition": "Critériums Nationaux Individuels",
+   "Type": "2éme 3000m stp",
+   "Performance": "9'17\"2",
+   "Date": "13-14/06/2015",
+   "Lieu": "Rades"
+ }
+]}, {"Annee": "2016", "Performance": [
+ {
+   "Competition": "Critériums Nationaux d'hiver",
+   "Type": "1er 3000m",
+   "Performance": "8'29\"6",
+   "Date": "42443",
+   "Lieu": "Rades"
+ },
+ {
+   "Competition": "Championnats Nationaux des Juniors",
+   "Type": "3éme 1500m",
+   "Performance": "4'02\"8",
+   "Date": "14-15/05/2016",
+   "Lieu": "Rades"
+ },
+ {
+   "Competition": "Championnats Nationaux des Juniors",
+   "Type": "2éme 3000m stp",
+   "Performance": "9'12\"5",
+   "Date": "14-15/05/2016",
+   "Lieu": "Rades"
+ },
+ {
+   "Competition": "Championnats Arabe Juniors",
+   "Type": "3éme 3000m stp",
+   "Performance": "9’15\"82",
+   "Date": "42570",
+   "Lieu": "Tlemcen"
+ },
+ {
+   "Competition": "Championnats du Monde Juniors",
+   "Type": "6éme 3000m stp/1er Tr",
+   "Performance": "8'53\"51",
+   "Date": "42572",
+   "Lieu": "Bydgoszcz"
+ },
+ {
+   "Competition": "Championnats du Monde Juniors",
+   "Type": "9éme 3000m stp/Final",
+   "Performance": "8'41\"79",
+   "Date": "42575",
+   "Lieu": "Bydgoszcz"
+ }
+]}, {"Annee": "2017", "Performance": [
+ {
+   "Competition": "Championnts de France en salle",
+   "Type": "3000m",
+   "Performance": "8'15''24",
+   "Date": 42750,
+   "Lieu": "Bordeaux"
+ },
+ {
+   "Competition": "Championnat de France",
+   "Type": "3000m stp",
+   "Performance": "8'46''46",
+   "Date": 42925,
+   "Lieu": "Albi"
+ }
+]}, {"Annee": "2018", "Performance": [
+ {
+   "Competition": "Meeting Oordegem",
+   "Type": " 3000m stp",
+   "Performance": "8'36''57",
+   "Date": 43246,
+   "Lieu": "Oordegem (BEL)"
+ },
+ {
+   "Competition": "Championnat mediterranéen -23ans",
+   "Type": " 2éme 3000m stp",
+   "Performance": "8:57.74",
+   "Date": 43261,
+   "Lieu": "Italy"
+ },
+ {
+   "Competition": "Championnats Nationaux Indiv sur piste",
+   "Type": "1er 3000m steep",
+   "Performance": "8'41\"5",
+   "Date": 43289,
+   "Lieu": "Rades"
+ }
+]}, {"Annee": "2019", "Performance": [
+ {
+   "Competition": "Meeting Oordegem",
+   "Type": "5éme 3000m steep",
+   "Performance": "8'31\"19",
+   "Date": 43610,
+   "Lieu": "Belgique"
+ }
+]}]
+  },
+  {
+    "id": 13,
+    "nom": "Jlassi",
+    "prenom": "Med Fares",
+    "sexe": "Masculin",
+    "ddn": "09 Janvier 1997",
+    "lieu": "",
+    "club": "CMAK",
+    "clubetranger": "",
+    "discipline1": "Vitesse",
+    "discipline2": "",
+    "Meilleurperfo1": "21''22",
+    "Meilleurperfo2": "50''61",
+    "classe": "",
+    "etablissement": "",
+    "encadreurtech": "",
+    "Npasseport": "",
+    "validité": "",
+    "telephone": "",
+    "adremail": "",
+    "adresse": "",
+    "pointure": "",
+    "Performances": [{"Type": "100m", "Performance": [
+ {
+   "Annee": 2016,
+   "PERFORMANCE": "10\"53",
+   "PLACE": "Tlemcen(ALG)",
+   "DATE": 42496
+ }
+]}, {"Type": "200m", "Performance": [
+ {
+   "Annee": 2016,
+   "PERFORMANCE": "21\"22",
+   "PLACE": "Rades(TUN)",
+   "DATE": 42477
+ }
+]}, {"Type": "400m", "Performance": [
+ {
+   "Annee": 2018,
+   "PERFORMANCE": "45\"55",
+   "PLACE": "Jesolo(ITA)",
+   "DATE": 43261
+ }
+]}, {"Type": "400m Haies (84,0)", "Performance": [
+ {
+   "Annee": 2014,
+   "PERFORMANCE": "50\"61",
+   "PLACE": "Nanjing(CHN)",
+   "DATE": 41876
+ },
+ {
+   "Annee": 2013,
+   "PERFORMANCE": "52\"96",
+   "PLACE": "Donetsk(UKR)",
+   "DATE": 41466
+ }
+]}, {"Type": "400m Haies", "Performance": [
+ {
+   "Annee": 2016,
+   "PERFORMANCE": "50\"62",
+   "PLACE": "Bydgoszcz(POL)",
+   "DATE": 42573
+ }
+]}, {"Type": "400m - Salle", "Performance": [
+ {
+   "Annee": 2018,
+   "PERFORMANCE": "45\"55",
+   "PLACE": "Jesolo(ITA)",
+   "DATE": 43261
+ }
+]}],
+"Palmares": [{"Annee": "2013", "Performance": [
+ {
+   "Competition": "Critériums Nationaux d'hiver",
+   "Type": "1er 60m",
+   "Performance": "7\"2",
+   "Date": "41312",
+   "Lieu": "Rades"
+ },
+ {
+   "Competition": "Critériums Nationaux des jeunes",
+   "Type": "1er 200m",
+   "Performance": "22\"2",
+   "Date": "04-05/07/2013",
+   "Lieu": "Rades"
+ },
+ {
+   "Competition": "Champinnats arabes Cadets",
+   "Type": "1er 400mh",
+   "Performance": "52\"58",
+   "Date": "21-23/06/2013",
+   "Lieu": "Egypet"
+ },
+ {
+   "Competition": "Championnats du Monde Cadets",
+   "Type": "7eme 1/2F 400mh",
+   "Performance": "52\"96",
+   "Date": "10-14/07/2013",
+   "Lieu": "Ukraine"
+ }
+]}, {"Annee": "2014", "Performance": [
+ {
+   "Competition": "Critériums Nationaux des jeunes",
+   "Type": "1er 400mh",
+   "Performance": "52\"8",
+   "Date": "41804",
+   "Lieu": "Menzah"
+ },
+ {
+   "Competition": "Jeux Africain des Jeunes",
+   "Type": "1er 400mh",
+   "Performance": "51\"52",
+   "Date": "28-30/05/2014",
+   "Lieu": "Boteswana"
+ },
+ {
+   "Competition": "jeux olympique de la jeunesse",
+   "Type": "2éme 400mh",
+   "Performance": "50\"61(RN)",
+   "Date": "",
+   "Lieu": "Nanjing"
+ }
+]}, {"Annee": "2015", "Performance": [
+ {
+   "Competition": "Critériums Nationaux des jeunes",
+   "Type": "1er 100m",
+   "Performance": "10\"9",
+   "Date": "13-14/06/2015",
+   "Lieu": "Rades"
+ }
+]}, {"Annee": "2016", "Performance": [
+ {
+   "Competition": "Journée Nationale pour Elite",
+   "Type": "1er 200m",
+   "Performance": "21\"22 ",
+   "Date": "42477",
+   "Lieu": "Rades"
+ },
+ {
+   "Competition": "Journée Nationale pour Elite",
+   "Type": "1er 200m",
+   "Performance": "21\"44",
+   "Date": "42491",
+   "Lieu": "Rades"
+ },
+ {
+   "Competition": "Champinnats arabes Juniors",
+   "Type": "1er 100m",
+   "Performance": "10\"53 (RN)",
+   "Date": "5-8/05/2016",
+   "Lieu": "Tlemcen"
+ },
+ {
+   "Competition": "Championnats du Monde Juniors",
+   "Type": "1er 400mh 1/2 Final",
+   "Performance": "50\"82(RN)",
+   "Date": "42573",
+   "Lieu": "Bydgoszcz"
+ },
+ {
+   "Competition": "Championnats du Monde Juniors ",
+   "Type": "8éme 400m H Final",
+   "Performance": "52\"14",
+   "Date": "19-24/07/2016",
+   "Lieu": "Bydgoszcz"
+ }
+]}, {"Annee": "2018", "Performance": [
+ {
+   "Competition": "Championnat medeteranéen",
+   "Type": "1er 400m",
+   "Performance": "45\"55",
+   "Date": "09-10/06/2018",
+   "Lieu": "Italie"
+ }
+]}]
+  },
+  {
+    "id": 14,
+    "nom": "Touati",
+    "prenom": "Med Amine",
+    "sexe": "Masculin",
+    "ddn": "09 septembre 199",
+    "lieu": "Tunis",
+    "club": "Zitouna Sport",
+    "clubetranger": "Zitouna Balma",
+    "discipline1": "400m Haie",
+    "discipline2": "",
+    "Meilleurperfo1": "49''14",
+    "Meilleurperfo2": "",
+    "classe": "",
+    "etablissement": "",
+    "encadreurtech": "",
+    "Npasseport": "C181897",
+    "validité": "18/02/2024",
+    "telephone": "",
+    "adremail": "",
+    "adresse": "",
+    "pointure": "43",
+    "Performances": [{"Type": "400m Haies (84,0)", "Performance": [
+ {
+   "Annee": 2015,
+   "PERFORMANCE": "51\"92",
+   "PLACE": "Pascual Guerrero, Cali(COL)",
+   "DATE": "42201"
+ }
+]}, {"Type": "400m Haies", "Performance": [
+ {
+   "Annee": 2019,
+   "PERFORMANCE": "49\"14",
+   "PLACE": "Khalifa International, Doha(QAT)",
+   "DATE": "43736"
+ },
+ {
+   "Annee": 2018,
+   "PERFORMANCE": "51\"40",
+   "PLACE": "Jeslo(ITA)",
+   "DATE": "43261"
+ },
+ {
+   "Annee": 2017,
+   "PERFORMANCE": "54\"08",
+   "PLACE": "Toulouse(FRA)",
+   "DATE": "42876"
+ },
+ {
+   "Annee": 2016,
+   "PERFORMANCE": "52\"97",
+   "PLACE": "Tlemcen(ALG)",
+   "DATE": "42498"
+ }
+]}]
+  },
+  {
+    "id": 15,
+    "nom": "Charoudi",
+    "prenom": "Nada",
+    "sexe": "Féminin",
+    "ddn": "20 novembre 198",
+    "lieu": "Sfax",
+    "club": "CSS",
+    "clubetranger": "S/I Sca 2000 Evry",
+    "discipline1": "Heptathlon",
+    "discipline2": "Pentathlon-Salle",
+    "Meilleurperfo1": "5686 pts",
+    "Meilleurperfo2": "3283",
+    "classe": "",
+    "etablissement": "",
+    "encadreurtech": "",
+    "Npasseport": "C032253",
+    "validité": "10/12/2023",
+    "telephone": "",
+    "adremail": "",
+    "adresse": "",
+    "pointure": "",
+    "Performances": [
+      {
+        "Type": "Heptathlon",
+        "Performance": [
+          {
+            "DISCIPLINE": "200m",
+            "PERFORMANCE": "25\"59",
+            "PLACE": "Rades(TUN)",
+            "DATE": "42476"
+          },
+          {
+            "DISCIPLINE": "800m",
+            "PERFORMANCE": "2'20\"18",
+            "PLACE": "Firenze(ITA)",
+            "DATE": "43218"
+          },
+          {
+            "DISCIPLINE": "100m H",
+            "PERFORMANCE": "14\"24",
+            "PLACE": "Cairo(EGY)",
+            "DATE": "43560"
+          },
+          {
+            "DISCIPLINE": "400m",
+            "PERFORMANCE": "H",
+            "PLACE": "1'03\"72",
+            "DATE": "Reims(FRA)",
+            "FIELD5": 43240
+          },
+          {
+            "DISCIPLINE": "Hauteur",
+            "PERFORMANCE": "1m66",
+            "PLACE": "Firenze(ITA)",
+            "DATE": "43217"
+          },
+          {
+            "DISCIPLINE": "Longeur",
+            "PERFORMANCE": "5m96",
+            "PLACE": "Rabat(MAR)",
+            "DATE": "43706"
+          },
+          {
+            "DISCIPLINE": "Longeur",
+            "PERFORMANCE": "6m04*",
+            "PLACE": "Rades(TUN)",
+            "DATE": "42505"
+          },
+          {
+            "DISCIPLINE": "Triple Saut",
+            "PERFORMANCE": "12m40",
+            "PLACE": "Tunis(TUN)",
+            "DATE": "38935"
+          },
+          {
+            "DISCIPLINE": "Triple Saut",
+            "PERFORMANCE": "12m69",
+            "PLACE": "Algiers(ALG)",
+            "DATE": "43673"
+          },
+          {
+            "DISCIPLINE": "Poids",
+            "PERFORMANCE": "14m51",
+            "PLACE": "Algiers(ALG)",
+            "DATE": "43672"
+          },
+          {
+            "DISCIPLINE": "Javelot",
+            "PERFORMANCE": "46m56",
+            "PLACE": "Rades(TUN)",
+            "DATE": "42477"
+          },
+          {
+            "DISCIPLINE": "Heptathlon",
+            "PERFORMANCE": "5686 Pts",
+            "PLACE": "Firenze(ITA)",
+            "DATE": "43218"
+          }
+        ]
+      },
+      {
+        "Type": "Pentathlon - Salle",
+        "Performance": [
+          {
+            "DISCIPLINE": "800m",
+            "PERFORMANCE": "2'31\"40",
+            "PLACE": "Val-de-Reuil(FRA)",
+            "DATE": "40601"
+          },
+          {
+            "DISCIPLINE": "60m H",
+            "PERFORMANCE": "9\"08",
+            "PLACE": "Eaubonne(FRA)",
+            "DATE": "43499"
+          },
+          {
+            "DISCIPLINE": "Hauteur",
+            "PERFORMANCE": "1m44",
+            "PLACE": "Val-de-Reuil(FRA)",
+            "DATE": "40601"
+          },
+          {
+            "DISCIPLINE": "Longeur",
+            "PERFORMANCE": "5m91",
+            "PLACE": "Eaubonne(FRA)",
+            "DATE": "42756"
+          },
+          {
+            "DISCIPLINE": "Poids",
+            "PERFORMANCE": "13m44",
+            "PLACE": "Eaubonne(FRA)",
+            "DATE": "42757"
+          },
+          {
+            "DISCIPLINE": "Pentathlon",
+            "PERFORMANCE": "3283",
+            "PLACE": "Val-de-Reuil(FRA)",
+            "DATE": "40601"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "nom": "Gharsali",
+    "prenom": "Rami",
+    "sexe": "Masculin",
+    "ddn": "29 mai 1993",
+    "lieu": "Dubai",
+    "club": "ACSousse",
+    "clubetranger": "S/L Sca 2000 Evry",
+    "discipline1": "110m Haie",
+    "discipline2": "60m Haie",
+    "Meilleurperfo1": "13''87",
+    "Meilleurperfo2": "7''91",
+    "classe": "",
+    "etablissement": "",
+    "encadreurtech": "",
+    "Npasseport": "F639330",
+    "validité": "29/03/2020",
+    "telephone": "",
+    "adremail": "",
+    "adresse": "",
+    "pointure": "44",
+    "Performances": [
+      {
+        "Type": "110m Haie",
+        "Performance": [
+          {
+            "Annee": 2019,
+            "PERFORMANCE": "13\"92",
+            "PLACE": "Mount-Olive(USA)",
+            "DATE": 43597
+          },
+          {
+            "Annee": 2018,
+            "PERFORMANCE": "14\"17",
+            "PLACE": "Ashland(USA)",
+            "DATE": 43223
+          },
+          {
+            "Annee": 2017,
+            "PERFORMANCE": "13\"94",
+            "PLACE": "Cergy-Pontoise(FRA)",
+            "DATE": 42906
+          },
+          {
+            "Annee": 2016,
+            "PERFORMANCE": "13\"87",
+            "PLACE": "Montgeron(FRA)",
+            "DATE": 42554
+          },
+          {
+            "Annee": 2015,
+            "PERFORMANCE": "14\"34",
+            "PLACE": "Antony(FRA)",
+            "DATE": 42197
+          },
+          {
+            "Annee": 2014,
+            "PERFORMANCE": "14\"15",
+            "PLACE": "Albi(FRA)",
+            "DATE": 41819
+          },
+          {
+            "Annee": 2013,
+            "PERFORMANCE": "14\"40",
+            "PLACE": "Montpellier(FRA)",
+            "DATE": 41448
+          },
+          {
+            "Annee": 2012,
+            "PERFORMANCE": "13\"90",
+            "PLACE": "Amman(JOR)",
+            "DATE": 41046
+          }
+        ]
+      },
+      {
+        "Type": "60m Haie",
+        "Performance": [
+          {
+            "Annee": 2019,
+            "PERFORMANCE": "7\"91",
+            "PLACE": "Saginaw(USA)",
+            "DATE": 43520
+          },
+          {
+            "Annee": 2018,
+            "PERFORMANCE": "7\"93",
+            "PLACE": "Hillsdale(USA)",
+            "DATE": 43120
+          },
+          {
+            "Annee": 2017,
+            "PERFORMANCE": "7\"81",
+            "PLACE": "Findlay(USA)",
+            "DATE": 42791
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "nom": "Bouzid",
+    "prenom": "Rihem",
+    "sexe": "Féminin",
+    "ddn": "4 avril 2000",
+    "lieu": "Zriba",
+    "club": "",
+    "clubetranger": "",
+    "discipline1": "10,000 Marche",
+    "discipline2": "5000m Marche",
+    "Meilleurperfo1": "49'22''95",
+    "Meilleurperfo2": "24'19''55",
+    "classe": "",
+    "etablissement": "",
+    "encadreurtech": "",
+    "Npasseport": "X944165",
+    "validité": "23/02/2022",
+    "telephone": "",
+    "adremail": "",
+    "adresse": "",
+    "pointure": "",
+    "Performances": [{"Type": "5000m Marche", "Performance": [
+ {
+   "Annee": 2017,
+   "PERFORMANCE": "24'19\"55",
+   "PLACE": "Rades(TUN)",
+   "DATE": 43041
+ }
+]}, {"Type": "10,000m Marche", "Performance": [
+ {
+   "Annee": 2019,
+   "PERFORMANCE": "51'47\"8",
+   "PLACE": "Abidjan(CIV)",
+   "DATE": 43574
+ },
+ {
+   "Annee": 2018,
+   "PERFORMANCE": "49'22\"95",
+   "PLACE": "Tampere(FIN)",
+   "DATE": 43295
+ }
+]}]
+  },
+  {
+    "id": 18,
+    "nom": "Mejri",
+    "prenom": "Seifeddine",
+    "sexe": "Masculin",
+    "ddn": "4 août 1996",
+    "lieu": "Tunis",
+    "club": "",
+    "clubetranger": "Ca Balma",
+    "discipline1": "Saut a la perche",
+    "discipline2": "Perche - Salle",
+    "Meilleurperfo1": "4m70",
+    "Meilleurperfo2": "4m80",
+    "classe": "",
+    "etablissement": "",
+    "encadreurtech": "Berhayem Ayed",
+    "Npasseport": "Y829591",
+    "validité": "15/08/2023",
+    "telephone": "",
+    "adremail": "",
+    "adresse": "",
+    "pointure": "",
+    "Performances": [{"Type": "Perche", "Performance": [
+ {
+   "Annee": 2019,
+   "PERFORMANCE": "4m70",
+   "PLACE": "Toulouse(FRA)",
+   "DATE": 43590
+ },
+ {
+   "Annee": 2017,
+   "PERFORMANCE": "4m80",
+   "PLACE": "Rades(TUN)",
+   "DATE": 42932
+ },
+ {
+   "Annee": 2016,
+   "PERFORMANCE": "5m00",
+   "PLACE": "Vénissieux(FRA)",
+   "DATE": 42518
+ },
+ {
+   "Annee": 2015,
+   "PERFORMANCE": "5m00",
+   "PLACE": "Albi(FRA)",
+   "DATE": 42204
+ }
+]}, {"Type": "Perche - Salle", "Performance": [
+ {
+   "Annee": 2016,
+   "PERFORMANCE": "4m80",
+   "PLACE": "Eaubonne(FRA)",
+   "DATE": 42406
+ }
+]}]
+  },
+  {
+    "id": 19,
+    "nom": "Cherni",
+    "prenom": "Soufien",
+    "sexe": "Masculin",
+    "ddn": "8 janvier 1997",
+    "lieu": "Le kef",
+    "club": "CIOK",
+    "clubetranger": "",
+    "discipline1": "3000m Stp",
+    "discipline2": "1500m",
+    "Meilleurperfo1": "8'32''83",
+    "Meilleurperfo2": "3'56''91",
+    "classe": "",
+    "etablissement": "",
+    "encadreurtech": "",
+    "Npasseport": "X916423",
+    "validité": "05/05/2022",
+    "telephone": "",
+    "adremail": "",
+    "adresse": "",
+    "pointure": "",
+    "Performances": [
+      {
+        "Type": "1500",
+        "Performance": [
+          {
+            "Annee": 2014,
+            "PERFORMANCE": "3'56\"91",
+            "PLACE": "Talence(FRA)",
+            "DATE": 41763
+          }
+        ]
+      },
+      {
+        "Type": "2000",
+        "Performance": [
+          {
+            "Annee": 2014,
+            "PERFORMANCE": "5'41\"81",
+            "PLACE": "Nanjing(CHN)",
+            "DATE": 41872
+          },
+          {
+            "Annee": 2013,
+            "PERFORMANCE": "5'50\"31",
+            "PLACE": "Donetsk(UKR)",
+            "DATE": 41467
+          }
+        ]
+      },
+      {
+        "Type": "3000m Steeple",
+        "Performance": [
+          {
+            "Annee": 2019,
+            "PERFORMANCE": "8'32\"83",
+            "PLACE": "Oordegem(BEL)",
+            "DATE": 43610
+          },
+          {
+            "Annee": 2018,
+            "PERFORMANCE": "9'09\"15",
+            "PLACE": "Jesolo(ITA)",
+            "DATE": 43260
+          },
+          {
+            "Annee": 2017,
+            "PERFORMANCE": "8'38\"26",
+            "PLACE": "Kortrijk(BEL)",
+            "DATE": 42924
+          },
+          {
+            "Annee": 2016,
+            "PERFORMANCE": "8'42\"56",
+            "PLACE": "Bydgoszcz(POL)",
+            "DATE": 42575
+          },
+          {
+            "Annee": 2015,
+            "PERFORMANCE": "8'57\"48",
+            "PLACE": "Algerie(ALG)",
+            "DATE": 42224
+          }
+        ]
+      },
+      {
+        "Type": "1500m Steeple-Salle",
+        "Performance": [
+          {
+            "Annee": 2019,
+            "PERFORMANCE": "3'55\"55",
+            "PLACE": "Miramas(FRA)",
+            "DATE": 43484
+          }
+        ]
+      }
+    ]
+  },  {
+    "id": 20,
+    "nom": "Khalfi",
+    "prenom": "Talel",
+    "sexe": "Masculin",
+    "ddn": "6 janvier 1996",
+    "lieu": "Le Kef",
+    "club": "",
+    "clubetranger": "",
+    "discipline1": "1500m",
+    "discipline2": "3000m Steeple",
+    "Meilleurperfo1": "3'50''33",
+    "Meilleurperfo2": "9'28''3",
+    "classe": "",
+    "etablissement": "",
+    "encadreurtech": "",
+    "Npasseport": "",
+    "validité": "",
+    "telephone": "",
+    "adremail": "",
+    "adresse": "",
+    "pointure": "",
+    "Performances": [
+      {
+        "Type": "1500m",
+        "Performance": [
+          {
+            "Annee": 2019,
+            "PERFORMANCE": "3'50\"33",
+            "PLACE": "Constantine(ALG)",
+            "DATE": 43652
+          },
+          {
+            "Annee": 2018,
+            "PERFORMANCE": "3'59\"02",
+            "PLACE": "Rades(TUN)",
+            "DATE": 43295
+          },
+          {
+            "Annee": 2013,
+            "PERFORMANCE": "3'57\"31",
+            "PLACE": "Cairo(EGY)",
+            "DATE": 41448
+          }
+        ]
+      },
+      {
+        "Type": "3000m Steeple",
+        "Performance": [
+          {
+            "Annee": 2014,
+            "PERFORMANCE": "9'28\"3",
+            "PLACE": "Rades(TUN)",
+            "DATE": 41760
+          }
+        ]
+      }
+    ]
+  }
+
+]

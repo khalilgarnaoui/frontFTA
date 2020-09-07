@@ -1,0 +1,60 @@
+<div class="container" align="center">
+    <div class="col-md-8">
+        <div class="titles no-margin">
+            <h4>Demande d'organisation d' une compétition</h4>
+        </div>
+        <br>
+        <div class="info-panel">
+            <!-- Form Contact -->
+            <form [formGroup]="sessionForm" class="form-theme" (ngSubmit)="onSubmit()">
+                <fieldset>
+                    <legend>DEMANDE D'ORGANISATION D'UNE COMPETITION</legend>
+                </fieldset>
+                <div class="row">
+                    <label>Nom de la session ou la competition</label>
+                    <input
+                            type="text"
+                            class="form-control"
+                            formControlName="name"
+                    >
+                </div>
+                <div class="row">
+                    <div class="col-md-4">
+                        <label>Lieu</label>
+                        <input
+                                type="text"
+                                class="form-control"
+                                formControlName="lieu"
+                        >
+                    </div>
+                    <div class="col-md-4">
+                        <label>date</label>
+                        <input
+                                type="text"
+                                class="form-control"
+                                placeholder="jj/mm/aaaa"
+                                formControlName="date_session"
+                        >
+                    </div>
+                    <div class="col-md-4">
+                        <label>annee sportive</label>
+                        <input
+                                type="text"
+                                class="form-control"
+                                formControlName="annee_sportive"
+                        >
+                    </div>
+                    <button type="submit"
+                            class="btn btn-lg btn-primary text-center"
+                            [disabled]="!sessionForm.valid"
+                    >
+                        envoyer demande
+                    </button>
+                </div>
+
+            </form>
+        </div>
+    </div>
+</div>
+<br>
+

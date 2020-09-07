@@ -1,0 +1,54 @@
+
+<!-- layout-->
+<div id="layout">
+
+
+  <!-- Section Title -->
+  <div class="section-title" style="background:url(assets/img/slide/1.jpg)">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8">
+          <h1>Evènement</h1>
+        </div>
+
+        <div class="col-md-4">
+          <div class="breadcrumbs">
+            <ul>
+              <li><a href="index.html">Home</a></li>
+              <li>Inner Page</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- End Section Title -->
+
+  <!-- Section Area - Content Central -->
+  <section class="content-info">
+
+    <div class="container paddings-mini">
+      <div class="row">
+
+        <div class="col-lg-12">
+          <!-- Content Text-->
+          <div class="panel-box">
+            <div class="titles">
+              <h4>Evènement</h4>
+            </div>
+
+            <!-- Post Item -->
+            <app-evenement-list *ngFor="let evenementEl of evenements" [evenment]="evenementEl"></app-evenement-list>
+            <!-- End Post Item -->
+
+          </div>
+          <!-- End Content Text-->
+        </div>
+      </div>
+    </div>
+
+
+  </section>
+  <!-- End Section Area -  Content Central -->
+</div>
+<!-- End layout-->

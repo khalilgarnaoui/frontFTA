@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+.records-table{
+  border: none!important;
+  font-size: 14px;
+
+}
+.record-table *{
+  font-family: "Open Sans", sans-serif;
+}
+.records-table th{
+  background: #262626;
+  color: white;
+  font-weight: normal!important;
+}
+.records-table td,th{
+  border: none!important;
+  padding : 8px 10px !important;
+  color: #0b0b0b;
+}
+.records-table tr:nth-child(2n){
+  background-color: #F3F3F3!important;
+}
+.records-table tr:nth-child(2n+1) {
+  background-color: white!important;
+}
+.big-table{
+  margin-left:auto;
+  margin-right:auto;
+}

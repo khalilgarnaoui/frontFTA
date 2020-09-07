@@ -1,0 +1,162 @@
+<section class="container">
+  <div class="container paddings-mini">
+    <div class="row">
+      <div class="col-lg-12">
+        <h1 class="text-center"> Senior Feminins </h1>
+        <table class="table table-sm ">
+          <thead class="thead-inverse">
+          <th scope="col" class="text-left">Epreuves</th>
+          <th scope="col" class="text-left">Performance</th>
+          <th scope="col" class="text-left">Nom Prénoms</th>
+          <th scope="col" class="text-left">Age</th>
+          <th scope="col" class="text-left">Club</th>
+          <th scope="col">Date et Lieu</th>
+          </thead>
+          <tbody class="text-left">
+          <tr *ngFor="let s of SeniorFeminine">
+            <td>
+              {{s.Epreuves}}
+            </td>
+            <td>
+              {{s.Perform}}
+            </td>
+            <td>
+              {{s.Nom_prenom}}
+            </td>
+            <td>
+              {{s.Age}}
+            </td>
+            <td>
+              {{s.Club}}
+            </td>
+            <td>
+              {{s.Date_lieu}}
+            </td>
+          </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+  <div class="container paddings-mini">
+    <div class="row">
+      <div class="col-lg-12">
+        <h1 class="text-center"> Juniors Feminins </h1>
+        <table class="table table-sm ">
+          <thead class="thead-inverse">
+          <th scope="col">Epreuves</th>
+          <th scope="col">Performance</th>
+          <th scope="col">Nom Prénoms</th>
+          <th scope="col">Age</th>
+          <th scope="col">Club</th>
+          <th scope="col">Date et Lieu</th>
+          </thead>
+          <tbody>
+          <tr *ngFor="let j of JuniorFeminine">
+            <td>
+              {{j.Epreuves}}
+            </td>
+            <td>
+              {{j.Perform}}
+            </td>
+            <td>
+              {{j.Nom_prenom}}
+            </td>
+            <td>
+              {{j.Age}}
+            </td>
+            <td>
+              {{j.Club}}
+            </td>
+            <td>
+              {{j.Date_lieu}}
+            </td>
+
+          </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+
+  <div class="container paddings-mini">
+    <div class="row">
+      <div class="col-lg-12">
+        <h1 class="text-center"> Cadette Feminins </h1>
+        <table class="table table-sm ">
+          <thead class="thead-inverse">
+          <th scope="col" class="text-left" >Epreuves</th>
+          <th scope="col" class="text-left">Performance</th>
+          <th scope="col" class="text-left">Nom Prénoms</th>
+          <th scope="col" class="text-left">Age</th>
+          <th scope="col" class="text-left">Club</th>
+          <th scope="col" class="text-left">Date et Lieu</th>
+          </thead>
+          <tbody>
+          <tr *ngFor="let c of CadetteFeminine">
+            <td>
+              {{c.Epreuves}}
+            </td>
+            <td>
+              {{c.Perform}}
+            </td>
+            <td>
+              {{c.Nom_prenom}}
+            </td>
+            <td>
+              {{c.Age}}
+            </td>
+            <td>
+              {{c.Club}}
+            </td>
+            <td>
+              {{c.Date_lieu}}
+            </td>
+
+          </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+  <div class="container paddings-mini">
+    <div class="row">
+      <div class="col-lg-12">
+        <h1 class="text-center"> Minime Feminins </h1>
+        <table class="table table-sm ">
+          <thead class="thead-inverse">
+          <th scope="col" >Epreuves</th>
+          <th scope="col" >Performance</th>
+          <th scope="col" >Nom Prénoms</th>
+          <th scope="col" >Age</th>
+          <th scope="col" >Club</th>
+          <th scope="col" >Date et Lieu</th>
+          </thead>
+          <tbody>
+          <tr *ngFor="let s1 of MinimeFeminine">
+            <td CLASS="text-center">
+              {{s1.Epreuves}}
+            </td>
+            <td class="text-center">
+              {{s1.Perform}}
+            </td>
+            <td class="text-center">
+              {{s1.Nom_prenom}}
+            </td>
+            <td class="text-center">
+              {{s1.Age}}
+            </td>
+            <td class="text-center">
+              {{s1.Club}}
+            </td>
+            <td class="text-center">
+              {{s1.Date_lieu}}
+            </td>
+
+          </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+</section>

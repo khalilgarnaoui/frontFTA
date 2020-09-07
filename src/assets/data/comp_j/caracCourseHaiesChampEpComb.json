@@ -1,0 +1,38 @@
+[
+  {
+    "Epreuves": "60 m H",
+    "Catégories": "MF",
+    "N.Haies": "5",
+    "Hauteur": "0m76",
+    "Départ": "12m",
+    "Intervalle": "8m",
+    "Arrivée": "16m"
+  },
+  {
+    "Epreuves": "60 m H",
+    "Catégories": "MG",
+    "N.Haies": "5",
+    "Hauteur": "0m84",
+    "Départ": "13m",
+    "Intervalle": "8m50",
+    "Arrivée": "13m"
+  },
+  {
+    "Epreuves": "200m H",
+    "Catégories": "MF",
+    "N.Haies": "10",
+    "Hauteur": "0m76",
+    "Départ": "21m46",
+    "Intervalle": "18m28",
+    "Arrivée": "14m02"
+  },
+  {
+    "Epreuves": "200m H",
+    "Catégories": "MG",
+    "N.Haies": "10",
+    "Hauteur": "0m76",
+    "Départ": "21m46",
+    "Intervalle": "18m28",
+    "Arrivée": "14m02"
+  }
+]

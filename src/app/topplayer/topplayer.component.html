@@ -1,0 +1,94 @@
+<!-- layout-->
+<div id="layout">
+
+    <app-header></app-header>
+    <!-- Section Title -->
+    <div class="section-title" style="background:url(../../assets/img/slide/1.jpg)">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8">
+                    <h1>Liste des Compétitions</h1>
+                </div>
+
+                <div class="col-md-4">
+                    <div class="breadcrumbs">
+                        <ul>
+                            <li><a href="index.html">Home</a></li>
+                            <li>Inner Page</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Section Title -->
+    <br>
+
+
+    <div class="m-5">
+        <h1>Nos Compétitions :</h1>
+        <table class="table col align-self-center">
+            <thead>
+            <tr>
+                <th scope="col">Nom </th>
+                <th scope="col">Prénom</th>
+                <th scope="col">Sexe </th>
+                <th scope="col">Date de Naissance</th>
+                <th scope="col">Lieu</th>
+                <th scope="col">Club</th>
+                <th scope="col">Club à l'étranger</th>
+                <th scope="col">Discipline </th>
+                <th scope="col">Meilleur Performance</th>
+                <th scope="col">Eleve ou étudiant </th>
+                <th scope="col">Encadreur Technique</th>
+                <th scope="col">N°Passeport</th>
+                <th scope="col">Téléphone</th>
+                <th scope="col">Adresse</th>
+                <th scope="col">Tour de taille</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr *ngFor="let player of topPlayers">
+                <td><h3><a href="" class="badge badge-light">  {{player.nom}} </a></h3></td>
+                <td> {{player.prenom}} </td>
+                <td> {{player.sexe}} </td>
+                <td> {{player.ddn}} </td>
+                <td> {{player.lieu}} </td>
+                <td> {{player.club}} </td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+
+
+    <div class="container padding-top">
+        <div class="row portfolioContainer">
+            <div *ngFor="let c of competitionsList" class="col-md-6 col-lg-4 col-xl-3">
+                <div class="item-team">
+                    <div class="head-team">
+                        <img src="assets/img/competitions/{{c.image}}" alt="location-team">
+                    </div>
+                    <div class="info-team">
+                        <h4> {{c.name}} </h4>
+                        <span class="location-team">
+                    {{c.type}}
+                                    </span>
+                        <span class="group-team">
+                    {{c.result}}
+                                    </span>
+                        <span class="group-team">
+                            record :
+                            {{c.record}}
+                                    </span>
+                    </div>
+                    <a href="competition/{{c.id}}" class="btn"> voir plus <i class="fa fa-angle-right"
+                                                                             aria-hidden="true"></i></a>
+                </div>
+            </div>
+            <!-- End Section Area -  Content Central -->
+        </div>
+    </div>
+</div>
+
+<app-footer></app-footer>
+

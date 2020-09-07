@@ -1,0 +1,342 @@
+{
+  "Mandat1817": [
+    {
+      "MANDAT": "Tunisie",
+      "NbAssociation": "5",
+      "totals": "1002",
+      "Femmes": "449",
+      "Hommes": "553"
+    },
+    {
+      "MANDAT": "Ben Arous",
+      "NbAssociation": "5",
+      "totals": "234",
+      "Femmes": "112",
+      "Hommes": "122"
+    },
+    {
+      "MANDAT": "bizerte",
+      "NbAssociation": "2",
+      "totals": "191",
+      "Femmes": "90",
+      "Hommes": "101"
+    },
+    {
+      "MANDAT": "Jendouba",
+      "NbAssociation": "3",
+      "totals": "239",
+      "Femmes": "90",
+      "Hommes": "149"
+    },
+    {
+      "MANDAT": "Beja",
+      "NbAssociation": "5",
+      "totals": "273",
+      "Femmes": "124",
+      "Hommes": "149"
+    },
+    {
+      "MANDAT": "Kef",
+      "NbAssociation": "5",
+      "totals": "590",
+      "Femmes": "240",
+      "Hommes": "350"
+    },
+    {
+      "MANDAT": "Manouba",
+      "NbAssociation": "2",
+      "totals": "56",
+      "Femmes": "23",
+      "Hommes": "33"
+    },
+    {
+      "MANDAT": "ARIANA",
+      "NbAssociation": "1",
+      "totals": "38",
+      "Femmes": "19",
+      "Hommes": "19"
+    },
+    {
+      "MANDAT": "Siliana",
+      "NbAssociation": "1",
+      "totals": "46",
+      "Femmes": "21",
+      "Hommes": "25"
+    },
+    {
+      "MANDAT": "Gafsa",
+      "NbAssociation": "5",
+      "totals": "104",
+      "Femmes": "48",
+      "Hommes": "56"
+    },
+    {
+      "MANDAT": "Sidi Bouzid",
+      "NbAssociation": "6",
+      "totals": "277",
+      "Femmes": "96",
+      "Hommes": "181"
+    },
+    {
+      "MANDAT": "Kasserine",
+      "NbAssociation": "1",
+      "totals": "9",
+      "Femmes": "2",
+      "Hommes": "7"
+    },
+    {
+      "MANDAT": "Tozeur",
+      "NbAssociation": "1",
+      "totals": "32",
+      "Femmes": "8",
+      "Hommes": "24"
+    },
+    {
+      "MANDAT": "Sfax",
+      "NbAssociation": "4",
+      "totals": "758",
+      "Femmes": "371",
+      "Hommes": "387"
+    },
+    {
+      "MANDAT": "Nabeul",
+      "NbAssociation": "14",
+      "totals": "1845",
+      "Femmes": "871",
+      "Hommes": "974"
+    },
+    {
+      "MANDAT": "ZAGHOUAN",
+      "NbAssociation": "1",
+      "totals": "122",
+      "Femmes": "27",
+      "Hommes": "95"
+    },
+    {
+      "MANDAT": "Kebili",
+      "NbAssociation": "5",
+      "totals": "564",
+      "Femmes": "238",
+      "Hommes": "326"
+    },
+    {
+      "MANDAT": "Gabes",
+      "NbAssociation": "6",
+      "totals": "555",
+      "Femmes": "236",
+      "Hommes": "319"
+    },
+    {
+      "MANDAT": "Medenine",
+      "NbAssociation": "4",
+      "totals": "159",
+      "Femmes": "43",
+      "Hommes": "116"
+    },
+    {
+      "MANDAT": "Tataouine",
+      "NbAssociation": "0",
+      "totals": "0",
+      "Femmes": "0",
+      "Hommes": "0"
+    },
+    {
+      "MANDAT": "Monastir",
+      "NbAssociation": "2",
+      "totals": "266",
+      "Femmes": "100",
+      "Hommes": "166"
+    },
+    {
+      "MANDAT": "Mahdia",
+      "NbAssociation": "3",
+      "totals": "237",
+      "Femmes": "103",
+      "Hommes": "134"
+    },
+    {
+      "MANDAT": "Sousse",
+      "NbAssociation": "2",
+      "totals": "414",
+      "Femmes": "169",
+      "Hommes": "245"
+    },
+    {
+      "MANDAT": "Kairouan",
+      "NbAssociation": "2",
+      "totals": "517",
+      "Femmes": "195",
+      "Hommes": "322"
+    }
+  ],
+  "Mandat1819": [
+    {
+      "MANDAT": "Tunisie",
+      "NbAssociation": "5",
+      "totals": "926",
+      "Femmes": "383",
+      "Hommes": "543"
+    },
+    {
+      "MANDAT": "Ben Arous",
+      "NbAssociation": "6",
+      "totals": "265",
+      "Femmes": "133",
+      "Hommes": "132"
+    },
+    {
+      "MANDAT": "bizerte",
+      "NbAssociation": "3",
+      "totals": "248",
+      "Femmes": "119",
+      "Hommes": "129"
+    },
+    {
+      "MANDAT": "Jendouba",
+      "NbAssociation": "3",
+      "totals": "476",
+      "Femmes": "180",
+      "Hommes": "296"
+    },
+    {
+      "MANDAT": "Beja",
+      "NbAssociation": "6",
+      "totals": "187",
+      "Femmes": "100",
+      "Hommes": "87"
+    },
+    {
+      "MANDAT": "Kef",
+      "NbAssociation": "5",
+      "totals": "452",
+      "Femmes": "189",
+      "Hommes": "263"
+    },
+    {
+      "MANDAT": "Manouba",
+      "NbAssociation": "2",
+      "totals": "53",
+      "Femmes": "19",
+      "Hommes": "34"
+    },
+    {
+      "MANDAT": "ARIANA",
+      "NbAssociation": "2",
+      "totals": "111",
+      "Femmes": "49",
+      "Hommes": "62"
+    },
+    {
+      "MANDAT": "Siliana",
+      "NbAssociation": "2",
+      "totals": "75",
+      "Femmes": "38",
+      "Hommes": "37"
+    },
+    {
+      "MANDAT": "Gafsa",
+      "NbAssociation": "5",
+      "totals": "154",
+      "Femmes": "68",
+      "Hommes": "86"
+    },
+    {
+      "MANDAT": "Sidi Bouzid",
+      "NbAssociation": "6",
+      "totals": "548",
+      "Femmes": "212",
+      "Hommes": "336"
+    },
+    {
+      "MANDAT": "Kasserine",
+      "NbAssociation": "0",
+      "totals": "0",
+      "Femmes": "0",
+      "Hommes": "0"
+    },
+    {
+      "MANDAT": "Tozeur",
+      "NbAssociation": "1",
+      "totals": "31",
+      "Femmes": "3",
+      "Hommes": "28"
+    },
+    {
+      "MANDAT": "Sfax",
+      "NbAssociation": "4",
+      "totals": "941",
+      "Femmes": "563",
+      "Hommes": "378"
+    },
+    {
+      "MANDAT": "Nabeul",
+      "NbAssociation": "14",
+      "totals": "1976",
+      "Femmes": "1047",
+      "Hommes": "929"
+    },
+    {
+      "MANDAT": "ZAGHOUAN",
+      "NbAssociation": "1",
+      "totals": "174",
+      "Femmes": "58",
+      "Hommes": "116"
+    },
+    {
+      "MANDAT": "Kebili",
+      "NbAssociation": "4",
+      "totals": "214",
+      "Femmes": "90",
+      "Hommes": "124"
+    },
+    {
+      "MANDAT": "Gabes",
+      "NbAssociation": "7",
+      "totals": "583",
+      "Femmes": "274",
+      "Hommes": "309"
+    },
+    {
+      "MANDAT": "Medenine",
+      "NbAssociation": "4",
+      "totals": "178",
+      "Femmes": "74",
+      "Hommes": "104"
+    },
+    {
+      "MANDAT": "Tataouine",
+      "NbAssociation": "1",
+      "totals": "21",
+      "Femmes": "6",
+      "Hommes": "15"
+    },
+    {
+      "MANDAT": "Monastir",
+      "NbAssociation": "4",
+      "totals": "297",
+      "Femmes": "111",
+      "Hommes": "186"
+    },
+    {
+      "MANDAT": "Mahdia",
+      "NbAssociation": "3",
+      "totals": "362",
+      "Femmes": "157",
+      "Hommes": "205"
+    },
+    {
+      "MANDAT": "Sousse",
+      "NbAssociation": "1",
+      "totals": "933",
+      "Femmes": "422",
+      "Hommes": "511"
+    },
+    {
+      "MANDAT": "Kairouan",
+      "NbAssociation": "4",
+      "totals": "866",
+      "Femmes": "350",
+      "Hommes": "516"
+    }
+  ]
+}

@@ -89,7 +89,7 @@ export class FormDemandeLicenceDirigeantComponent implements OnInit {
         }
         this.licenceDirigeantForm.reset();
         this.http
-            .post<any>('http://localhost:3000/api/licence_dirigeant',
+            .post<any>('http://151.80.123.213:3000/api/licence_dirigeant',
                 postData
             ).subscribe(() => {
             console.log('done');

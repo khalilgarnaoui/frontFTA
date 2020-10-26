@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import {CalendrierService} from '../../_Service/calendrier.service';
+import {CalendrierService} from '../../_service/calendrier.service';
 import {CalendrierModel} from '../../shared/shared_files/calendrier.model';
 import calend from '../../../assets/data/comp_j/calendrierGeneral.json';
 import {DocumentModel} from '../../_service/shared_files/document.model';
@@ -19,7 +19,7 @@ export class ChampionnatComponent implements OnInit {
   }
 
   ngOnInit() {
-    this.http.get('http://localhost:3000/api/reglements_championnat')
+    this.http.get('http://151.80.123.213:3000/api/reglements_championnat')
         .subscribe(cat => {
           this.champs = cat as ReglementChampionnatModel [];
         });

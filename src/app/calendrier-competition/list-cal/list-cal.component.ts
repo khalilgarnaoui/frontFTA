@@ -1,5 +1,5 @@
 import {Component, OnInit} from '@angular/core';
-import {CalendrierService} from '../../_Service/calendrier.service';
+import {CalendrierService} from '../../_service/calendrier.service';
 import {CalendrierModel} from '../../shared/shared_files/calendrier.model';
 import {NgxPaginationModule} from 'ngx-pagination';
 

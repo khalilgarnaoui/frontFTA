@@ -22,7 +22,7 @@ export class EvenementService {
   getEvent() {
     this.http
       .get<{ message: string; events: any }>(
-        'http://localhost:3000/api/evenement'
+        'http://151.80.123.213:3000/api/evenement'
       )
       .pipe(map((eventData) => {
         return eventData.events.map(event => {

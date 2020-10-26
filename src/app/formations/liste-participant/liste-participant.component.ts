@@ -15,7 +15,7 @@ export class ListeParticipantComponent implements OnInit {
   constructor(private http: HttpClient) { }
 
   ngOnInit() {
-    this.http.get('http://localhost:3000/api/participant_formation')
+    this.http.get('http://151.80.123.213:3000/api/participant_formation')
         .subscribe(participants => {
           this.participant = participants as ParticipantModel [];
           this.participantFormation = this.participant.filter( e => e.formation === this.formId);

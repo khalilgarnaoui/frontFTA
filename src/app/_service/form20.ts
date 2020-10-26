@@ -11,6 +11,6 @@ export class  Formation20Service {
   }
 
   public getJSON() {
-    return this.http.get('http://localhost:3000/api/formation');
+    return this.http.get('http://151.80.123.213:3000/api/formation');
   }
 }

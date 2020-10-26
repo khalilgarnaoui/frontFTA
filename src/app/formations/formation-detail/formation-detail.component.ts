@@ -32,7 +32,7 @@ export class FormationDetailComponent implements OnInit {
             formation: this.formId
         });
         var fd = new FormData();
-        this.http.post('http://localhost:3000/api/form_formation', this.formulaire.value)
+        this.http.post('http://151.80.123.213:3000/api/form_formation', this.formulaire.value)
             .subscribe(res => {
 
             });
@@ -62,7 +62,7 @@ export class FormationDetailComponent implements OnInit {
                         .subscribe(formations => {
                             this.listFormation = formations as FormationModel [];
                             this.form = this.listFormation.find(element => element._id === this.formId);
-                            this.pdfsrc = 'http://localhost:3000/uploads/' + this.form.communique;
+                            this.pdfsrc = 'http://151.80.123.213:3000/uploads/' + this.form.communique;
                         });
 
                 }

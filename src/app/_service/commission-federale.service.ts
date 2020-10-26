@@ -12,11 +12,11 @@ export class CommissionFederaleService {
 
   getCommission(): Observable<any> {
     return this.http
-      .get<any>('http://127.0.0.1:3000/api/membre_commission');
+      .get<any>('http://151.80.123.213:3000/api/membre_commission');
   }
 
   getmembre(id) {
     return this.http
-      .get<{ name, email, commission, image }>('http://127.0.0.1:3000/api/membre_commission' + id);
+      .get<{ name, email, commission, image }>('http://151.80.123.213:3000/api/membre_commission' + id);
   }
 }

@@ -35,7 +35,7 @@ export class DemandeSessionComponent implements OnInit {
     onSubmit() {
         this.json = JSON.stringify(this.sessionForm.value);
         console.log(this.json);
-        this.http.post('http://localhost:3000/api/demande_session', this.json, {
+        this.http.post('http://151.80.123.213:3000/api/demande_session', this.json, {
             headers: new HttpHeaders({
                 'Content-Type': 'application/json'
             })

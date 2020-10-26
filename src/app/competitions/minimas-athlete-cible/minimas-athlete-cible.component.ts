@@ -15,10 +15,10 @@ export class MinimasAthleteCibleComponent implements OnInit {
   constructor(private http: HttpClient, public sanitizer: DomSanitizer) { }
 
   ngOnInit() {
-    this.http.get('http://localhost:3000/api/minimas')
+    this.http.get('http://151.80.123.213:3000/api/minimas')
         .subscribe(cat => {
           this.mins = cat as DocumentModel [];
-          this.minPath = 'http://localhost:3000/uploads/' + this.mins[0].name;
+          this.minPath = 'http://151.80.123.213:3000/uploads/' + this.mins[0].name;
           console.log(this.minPath);
         });
   }

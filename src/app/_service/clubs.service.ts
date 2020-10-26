@@ -12,7 +12,7 @@ export class ClubsService {
 
   getClubs(): any {
     return this.http
-      .get<[]>('http://127.0.0.1:3000/api/club');
+      .get<[]>('http://151.80.123.213:3000/api/club');
   }
 
   getClub(id: string) {
@@ -29,7 +29,7 @@ export class ClubsService {
       gouvernoratFR,
       affiliated,
       image
-    }>('http://127.0.0.1:3000/api/club/' + id);
+    }>('http://151.80.123.213:3000/api/club/' + id);
   }
 }
 

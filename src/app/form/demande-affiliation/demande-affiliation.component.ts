@@ -61,7 +61,7 @@ export class DemandeAffiliationComponent implements OnInit {
         }
         this.AffiliationForm.reset();
         this.http
-            .post<any>('http://localhost:3000/api/demande_affiliation',
+            .post<any>('http://151.80.123.213:3000/api/demande_affiliation',
                 postData
             ).subscribe(() => {
             console.log('done');

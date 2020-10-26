@@ -16,15 +16,15 @@ export class PlayerService {
     }
 
     getAllAthletes() {
-        return this.http.get('http://localhost:3000/api/athlete');
+        return this.http.get('http://151.80.123.213:3000/api/athlete');
     }
 
     getAllPerformancesAllAthletes() {
-        return this.http.get('http://localhost:3000/api/performance');
+        return this.http.get('http://151.80.123.213:3000/api/performance');
     }
 
     getAllPalmaresAllAthletes() {
-        return this.http.get('http://localhost:3000/api/palmares');
+        return this.http.get('http://151.80.123.213:3000/api/palmares');
     }
 
     // getAllPerformancesAthlete(athlete) {

@@ -16,7 +16,7 @@ export class CalendrierService {
     }
 
     getAllCalendrierEvents() {
-        return this.http.get('http://localhost:3000/api/session_comptition');
+        return this.http.get('http://151.80.123.213:3000/api/session_comptition');
     }
 
 }

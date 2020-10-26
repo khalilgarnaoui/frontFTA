@@ -1,5 +1,5 @@
 import {Component, Input, OnInit} from '@angular/core';
-import {CompetitionService} from '../../_Service/competition.service';
+import {CompetitionService} from '../../_service/competition.service';
 import {CompModel} from '../../shared/shared_files/comp.model';
 
 @Component({

@@ -37,7 +37,7 @@ export class DemandeMutationComponent implements OnInit {
         }
         this.DemandeMutation.reset();
         this.http
-            .post<any>('http://localhost:3000/api/demande_mutation',
+            .post<any>('http://151.80.123.213:3000/api/demande_mutation',
                 postData
             ).subscribe(() => {
             console.log('done');

@@ -72,7 +72,7 @@ export class FormDemandeJugeComponent implements OnInit {
     }
     this.DemandeJuge.reset();
     this.http
-      .post<any>('http://localhost:3000/api/demande_juge',
+      .post<any>('http://151.80.123.213:3000/api/demande_juge',
         postData
       ).subscribe(() => {
       console.log('done');

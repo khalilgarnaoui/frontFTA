@@ -10,8 +10,8 @@ export class ReglementsComponent implements OnInit {
 
   constructor(public sanitizer: DomSanitizer) { }
 
-  path1 = 'http://localhost:3000/uploads/reglementGeneraux.pdf';
-  path2 = 'http://localhost:3000/uploads/reglementInternes.pdf';
+  path1 = 'http://151.80.123.213:3000/uploads/reglementGeneraux.pdf';
+  path2 = 'http://151.80.123.213:3000/uploads/reglementInternes.pdf';
   ngOnInit() {
   }
 

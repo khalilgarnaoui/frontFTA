@@ -19,15 +19,15 @@ export class ReglementComponent implements OnInit {
     }
 
     ngOnInit() {
-        this.http.get('http://localhost:3000/api/reglements')
+        this.http.get('http://151.80.123.213:3000/api/reglements')
             .subscribe(cat => {
                 this.reglement1 = cat as DocumentModel [];
-                this.path1 = 'http://localhost:3000/uploads/' + this.reglement1[0].name;
+                this.path1 = 'http://151.80.123.213:3000/uploads/' + this.reglement1[0].name;
             });
-        this.http.get('http://localhost:3000/api/reglements_club')
+        this.http.get('http://151.80.123.213:3000/api/reglements_club')
             .subscribe(cat => {
                 this.reglement2 = cat as DocumentModel [];
-                this.path2 = 'http://localhost:3000/uploads/' + this.reglement2[0].name;
+                this.path2 = 'http://151.80.123.213:3000/uploads/' + this.reglement2[0].name;
             });
     }
 

@@ -9,11 +9,11 @@ export class LigueService {
   }
   getLigues(): any {
     return this.http
-      .get<any>('http://127.0.0.1:3000/api/ligue');
+      .get<any>('http://151.80.123.213:3000/api/ligue');
   }
 
   getLigue(id: string) {
 
-    return this.http.get<any>('http://127.0.0.1:3000/api/ligue/' + id);
+    return this.http.get<any>('http://151.80.123.213:3000/api/ligue/' + id);
   }
 }

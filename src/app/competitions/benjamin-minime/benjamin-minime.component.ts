@@ -16,10 +16,10 @@ export class BenjaminMinimeComponent implements OnInit {
     }
 
     ngOnInit() {
-        this.http.get('http://localhost:3000/api/benjamin')
+        this.http.get('http://151.80.123.213:3000/api/benjamin')
             .subscribe( ben => {
                 this.benjs = ben as DocumentModel [];
-                this.benjpath = 'http://localhost:3000/uploads/' + this.benjs[0].name;
+                this.benjpath = 'http://151.80.123.213:3000/uploads/' + this.benjs[0].name;
             });
     }
 

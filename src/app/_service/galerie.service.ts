@@ -40,7 +40,7 @@ export class GalerieService {
   getGalerieList() {
     this.http
       .get<{ message: string; galeries: any }>(
-        'http://localhost:3000/api/galerie_list'
+        'http://151.80.123.213:3000/api/galerie_list'
       )
       .pipe(map((galerieData) => {
         return galerieData.galeries.map(galerie => {
@@ -73,7 +73,7 @@ export class GalerieService {
     console.log(galerieId);
     this.http
       .get<{ message: string; paths: any }>(
-        `http://localhost:3000/api/galerie_detail/${galerieId}`
+        `http://151.80.123.213:3000/api/galerie_detail/${galerieId}`
       )
       .pipe(map((galerieData) => {
         return galerieData.paths.map(galerie => {

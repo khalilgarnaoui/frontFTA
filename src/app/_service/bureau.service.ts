@@ -11,6 +11,6 @@ export class BureauService {
 
   getBureau(): Observable<any> {
     return this.http
-      .get<any>('http://127.0.0.1:3000/api/worker');
+      .get<any>('http://151.80.123.213:3000/api/worker');
   }
 }

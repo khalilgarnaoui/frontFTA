@@ -17,11 +17,11 @@ export class CategoriesComponent implements OnInit {
     }
 
     ngOnInit() {
-        this.http.get('http://localhost:3000/api/categorie')
+        this.http.get('http://151.80.123.213:3000/api/categorie')
             .subscribe(cat => {
                 this.cats = cat as DocumentModel [];
                 this.categorie = this.cats[0];
-                this.catPath = 'http://localhost:3000/uploads/' + this.categorie.name;
+                this.catPath = 'http://151.80.123.213:3000/uploads/' + this.categorie.name;
             });
     }
 

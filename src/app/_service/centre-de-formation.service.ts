@@ -30,7 +30,7 @@ export class CentreDeFormationService {
 
     this.http
       .get<{ message: string; centres: any }>(
-        'http://localhost:3000/api/centre_de_formation'
+        'http://151.80.123.213:3000/api/centre_de_formation'
       )
       .pipe(map((centreData) => {
         return centreData.centres.map(centre => {
@@ -53,7 +53,7 @@ export class CentreDeFormationService {
     // tslint:disable-next-line:no-shadowed-variable
     this.http
       .get<{ message: string; centres: any }>(
-        'http://localhost:3000/api/centre_detail'
+        'http://151.80.123.213:3000/api/centre_detail'
       )
       .pipe(map((centreData) => {
         return centreData.centres.map(centre => {

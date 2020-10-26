@@ -1,5 +1,5 @@
 import {Component, Input, OnInit} from '@angular/core';
-import {CalendrierService} from '../../_Service/calendrier.service';
+import {CalendrierService} from '../../_service/calendrier.service';
 import {ActivatedRoute} from '@angular/router';
 import {CalendrierModel} from '../../shared/shared_files/calendrier.model';
 import {CalenderModel} from '../../shared/shared_files/calender.model';
